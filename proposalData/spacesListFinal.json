@@ -1,0 +1,4955 @@
+[
+    {
+        "id": "aluna.eth",
+        "name": "Aluna",
+        "about": "Space for the Aluna community",
+        "avatar": "",
+        "network": "1",
+        "symbol": "ALN",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "alunacrypto",
+        "twitter": "alunasocial",
+        "categories": [],
+        "followersCount": 29,
+        "proposalsCount": 1
+    },
+    {
+        "id": "banklessvault.eth",
+        "name": "Bankless DAO",
+        "about": "A decentralized community helping the world go bankless",
+        "avatar": "ipfs://QmcRze1eMQxFAq5HYUcttoSaTQDftE48bqU5dQpQhLTGdh",
+        "network": "1",
+        "symbol": "BANK",
+        "admins": [
+            "0x35EA12472d6fb21A9dB24B397AA2775D332C14B7"
+        ],
+        "members": [
+            "0x47f882a155209F55D280EB36577c100A74DD32a1",
+            "0x23dB246031fd6F4e81B0814E9C1DC0901a18Da2D",
+            "0x4f8c2d5397262653Cd8956CB977A0bA3660210c7",
+            "0xE4067ED66738dBDC7b8917703C8c380d898033F8",
+            "0xE71eFd5865A42Cb0f23146Dc8E056dBA4E67e9b7",
+            "0xb6ac0341Fcf3FB507A8208D34a97f13779e1393D",
+            "0x35EA12472d6fb21A9dB24B397AA2775D332C14B7"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "banklessDAO",
+        "categories": [],
+        "followersCount": 21199,
+        "proposalsCount": 42
+    },
+    {
+        "id": "theblackdao.eth",
+        "name": "The Black DAO",
+        "about": "A DAO Built to Fund Black-Owned Businesses, Creatives, and Initiatives.",
+        "avatar": "ipfs://QmVcjYhEBLDsvz4K1TMNKo2SX2n4qbPGXd7UMiuiYafqo2",
+        "network": "1",
+        "symbol": "BLKD",
+        "admins": [
+            "0x5586210f7f7d5ED9C5c7bd3F43fa9E25534500F2",
+            "0x5c656F5e8c44f6Df504DFb3E224E7f01310Aa52c"
+        ],
+        "members": [
+            "0x5586210f7f7d5ED9C5c7bd3F43fa9E25534500F2",
+            "0x5c656F5e8c44f6Df504DFb3E224E7f01310Aa52c",
+            "0x98b7a68f1657F0F227F719F5577011357F76fBDC",
+            "0xA49A3545327EF42207bb2c8526795596644F7A5e",
+            "0xeC2F03F3a9ca13BAe9cB2c96D9c813386B4537d4",
+            "0xB15B7e5206314a20dc97c76655E960cA97924186"
+        ],
+        "plugins": {
+            "safeSnap": {},
+            "commentBox": {}
+        },
+        "email": null,
+        "website": "https://www.blk.finance",
+        "github": "theblackdao",
+        "twitter": "theblackdao",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 8,
+        "proposalsCount": 0
+    },
+    {
+        "id": "harmony-mainnet.eth",
+        "name": "Harmony Mainnet",
+        "about": "",
+        "avatar": "ipfs://QmPAthQd4VSADNcz4SBmFdHuF2GUrbMuCYgZEfVWogkLb7",
+        "network": "1666600000",
+        "symbol": "ONE",
+        "admins": [
+            "0x3F182001df3aEe1ef820dd69Ed267A5e829CAdbd",
+            "0x51B89211F93c2efcf6D5B836a78DBA265e6F5e93",
+            "0x0F82aD99Afaf538490025CEf65C34124746422d6",
+            "0x95d50c467b59bDfaFb5357b9db3a4677185d4E2d"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "harmony-one",
+        "twitter": "harmonyprotocol",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 361,
+        "proposalsCount": 8
+    },
+    {
+        "id": "harmony-testnet.eth",
+        "name": "Harmony Testnet",
+        "about": "",
+        "avatar": "ipfs://QmUP7vknFM5UnZFsYDjRRDHjf3kiJf78nS7nTS52gu1kXN",
+        "network": "1666700000",
+        "symbol": "ONE",
+        "admins": [
+            "0x3F182001df3aEe1ef820dd69Ed267A5e829CAdbd",
+            "0x51B89211F93c2efcf6D5B836a78DBA265e6F5e93",
+            "0x95d50c467b59bDfaFb5357b9db3a4677185d4E2d"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "harmony-one",
+        "twitter": "harmonyprotocol",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 56,
+        "proposalsCount": 8
+    },
+    {
+        "id": "harvardao.eth",
+        "name": "HarvardDAO",
+        "about": "",
+        "avatar": "https://harvarddao.com/logo192.png",
+        "network": "137",
+        "symbol": "HDAO",
+        "admins": [
+            "0x25144438E502C9C99657724EaD7B2517Aa4c842e",
+            "0x102B22051A679070E7340aB310047d08a23306Ab"
+        ],
+        "members": [
+            "0x25144438E502C9C99657724EaD7B2517Aa4c842e",
+            "0x102B22051A679070E7340aB310047d08a23306Ab"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "HarvardDAO",
+        "twitter": "HarvardDAO",
+        "categories": [],
+        "followersCount": 4,
+        "proposalsCount": 2
+    },
+    {
+        "id": "lootkingdom.eth",
+        "name": "Loot Project",
+        "about": "",
+        "avatar": "ipfs://QmYsnPDqhnV8LPsvdEGDTL7LmqbZRL9tswvnhytnsFooHr",
+        "network": "1",
+        "symbol": "LOOT",
+        "admins": [
+            "0x7285502ED0A0Ed25F65941E480bda7114492acF9",
+            "0xf296178d553c8ec21a2fbd2c5dda8ca9ac905a00"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "lootproject",
+        "categories": [],
+        "followersCount": 233,
+        "proposalsCount": 0
+    },
+    {
+        "id": "loot-dao.eth",
+        "name": "Loot Owners",
+        "about": "",
+        "avatar": "https://pbs.twimg.com/profile_images/1431587138202701826/lpgblc4h_400x400.jpg",
+        "network": "1",
+        "symbol": "LOOT",
+        "admins": [
+            "0xF296178d553C8Ec21A2fBD2c5dDa8CA9ac905A00"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "lootproject",
+        "twitter": "lootproject",
+        "categories": [],
+        "followersCount": 6749,
+        "proposalsCount": 21
+    },
+    {
+        "id": "bluepartyhat.eth",
+        "name": "Loot Owners",
+        "about": "",
+        "avatar": "https://pbs.twimg.com/profile_images/1431587138202701826/lpgblc4h_400x400.jpg",
+        "network": "1",
+        "symbol": "LOOT",
+        "admins": [
+            "0xF296178d553C8Ec21A2fBD2c5dDa8CA9ac905A00"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "lootproject",
+        "twitter": "lootproject",
+        "categories": [],
+        "followersCount": 0,
+        "proposalsCount": 0
+    },
+    {
+        "id": "metagamehub.eth",
+        "name": "MetaGameHub",
+        "about": "MGH DAO provides infrastructure to the metaverse by converging DeFi, NFTs, Oracles and AI.",
+        "avatar": "ipfs://QmSxPd4ygJZ6ff1w4wo4o9DkmadGc64Mvk4fXeA3QHnf7W",
+        "network": "1",
+        "symbol": "MGH",
+        "admins": [
+            "0x3b6fd1cCbA6F228dC8Ba2F09D93e5F562D95bE1E",
+            "0x382511Ab458A8e55be45F81BDb78c0b25E2148F2"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "MGH_DAO",
+        "categories": [],
+        "followersCount": 168,
+        "proposalsCount": 78
+    },
+    {
+        "id": "metislayer2.eth",
+        "name": "MetisDAO",
+        "about": "Layer2 for the PEOPLE!",
+        "avatar": "ipfs://QmPkD4dvwqM24AnsRrZjdF7NEmMtDCRZSfcuNRj2TaXpTE",
+        "network": "1088",
+        "symbol": "METIS",
+        "admins": [
+            "0x674B28b30A8D5c2553f80dD9C3Fac639975568F4",
+            "0x994c528a22C485C980dD2911Fd25bB4401cb7C2b",
+            "0xa53e80c399Ad813d6C60A9aC46e532947728700b"
+        ],
+        "members": [
+            "0x994c528a22C485C980dD2911Fd25bB4401cb7C2b"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://metis.io",
+        "github": "MetisProtocol",
+        "twitter": "MetisDAO",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 378,
+        "proposalsCount": 30
+    },
+    {
+        "id": "nouns.eth",
+        "name": "Nouns DAO",
+        "about": "",
+        "avatar": "ipfs://QmTsvUe6QDNnRdapr3at3k38oSBu4qApUz44aW2S4DZFb9",
+        "network": "1",
+        "symbol": "NOUN",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "nounsdao",
+        "twitter": "nounsdao",
+        "categories": [],
+        "followersCount": 30,
+        "proposalsCount": 19
+    },
+    {
+        "id": "jointheodyssey.eth",
+        "name": "Odyssey",
+        "about": "Join the odyssey to Web3",
+        "avatar": "ipfs://QmV1zozCwma3dDRRB15pWdhSXMeCFncUPkHSZX3VpiHdwd",
+        "network": "1",
+        "symbol": "ODY",
+        "admins": [
+            "0x97bB1eFC534fF3dC0DDF5fb83743605d5FAEcB27",
+            "0x738072B6D71A6ccD7ba50967093D27D1495a04D2"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "odyssey_dao",
+        "categories": [
+            "media"
+        ],
+        "followersCount": 28,
+        "proposalsCount": 4
+    },
+    {
+        "id": "duloti-peopledao.eth",
+        "name": "LittlePandaTest",
+        "about": "PandaTest",
+        "avatar": "ipfs://Qmb9P5rMVTRbbD4gKnjK29iYoT9dnK2UYSCyWB45RRGCk8",
+        "network": "1",
+        "symbol": "PANDA",
+        "admins": [
+            "0xf41aab66e7771BdfcCf43953b7843873d9bB74f4"
+        ],
+        "members": [],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "PeopleDAO",
+        "twitter": "PandaDAO_Office",
+        "categories": [],
+        "followersCount": 40,
+        "proposalsCount": 5
+    },
+    {
+        "id": "panda-dao.eth",
+        "name": "PandaDAO",
+        "about": "What People Want, What Pandas Build",
+        "avatar": "ipfs://Qma7obVnwdJVzeUQfraFitrVkeA9jDZF2tihVmQtiSUUd6",
+        "network": "1",
+        "symbol": "PANDA",
+        "admins": [
+            "0xf41aab66e7771BdfcCf43953b7843873d9bB74f4",
+            "0xA62F8ABb12094F5651C8bA7222A0dC1034Ca4B20",
+            "0x4A7736946C264Af48ebAc581A4D7f16440C5cbFf"
+        ],
+        "members": [
+            "0xf41aab66e7771BdfcCf43953b7843873d9bB74f4",
+            "0xA62F8ABb12094F5651C8bA7222A0dC1034Ca4B20",
+            "0x4A7736946C264Af48ebAc581A4D7f16440C5cbFf"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": "https://www.pandadao.info/",
+        "github": "PeopleDAO",
+        "twitter": "PandaDAO_Office",
+        "categories": [],
+        "followersCount": 253,
+        "proposalsCount": 16
+    },
+    {
+        "id": "play4change.eth",
+        "name": "Play4Change DAO",
+        "about": "We are an Impact DAO that generates financial inclusion, educational empowerment and social transformation in underserved communities leveraging web3 tools",
+        "avatar": "ipfs://bafkreihlsjysywlnn4umdi5xvo6b7ezhnpfbafcww2mzkbir4hpbvgiqre",
+        "network": "137",
+        "symbol": "P4C",
+        "admins": [
+            "0x4b1a2ee5e367c1F8EA5F68AB66288a8E8D157860",
+            "0xDe20739089B32de57855a8F7ffB5929d9bB9Bb24",
+            "0x9E3C4FEb3D534dCA84de0afB5d36c4f72DE9C3fC",
+            "0x5B6Bd51E67a40AEbfeB0bb1Eb3D07cb97EdC31eb"
+        ],
+        "members": [
+            "0x4b1a2ee5e367c1F8EA5F68AB66288a8E8D157860",
+            "0xDe20739089B32de57855a8F7ffB5929d9bB9Bb24",
+            "0x9E3C4FEb3D534dCA84de0afB5d36c4f72DE9C3fC",
+            "0x5B6Bd51E67a40AEbfeB0bb1Eb3D07cb97EdC31eb"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.play4change.io",
+        "github": null,
+        "twitter": "play4changedao",
+        "categories": [
+            "social"
+        ],
+        "followersCount": 0,
+        "proposalsCount": 0
+    },
+    {
+        "id": "prosperdao.xyz",
+        "name": "ProsperDAO",
+        "about": "",
+        "avatar": "ipfs://QmPj9aawGKGPHpbrEz7cviVGGg2MLS1f2YQ6PTrj5twCcU",
+        "network": "1",
+        "symbol": " \ud83d\udd96",
+        "admins": [],
+        "members": [],
+        "plugins": {
+            "poap": {},
+            "safeSnap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "prosperdao",
+        "categories": [],
+        "followersCount": 2,
+        "proposalsCount": 1
+    },
+    {
+        "id": "qidao.eth",
+        "name": "Qi Dao | Mai.Finance",
+        "about": "The Dao is like a well: used but never used up. It is like the eternal void: filled with infinite possibilities.",
+        "avatar": "ipfs://QmcUZ2qHF4kE7EkmfuZBWoeEAfAjrG3wv7zbWQLunLe8mr",
+        "network": "137",
+        "symbol": "QI",
+        "admins": [
+            "0x86fE8d6D4C8A007353617587988552B6921514Cb",
+            "0xAd95A5fE898679B927C266eB2eDfAbC7fe268C27"
+        ],
+        "members": [
+            "0x86fE8d6D4C8A007353617587988552B6921514Cb",
+            "0xAd95A5fE898679B927C266eB2eDfAbC7fe268C27",
+            "0xe204432CA41c3254Eb8d50d2E2C11dFae1D67978"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "0xLaoZi",
+        "twitter": "QiDaoProtocol",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 4747,
+        "proposalsCount": 151
+    },
+    {
+        "id": "rawdao.eth",
+        "name": "RAW DAO",
+        "about": "The web3.0 photography community for collectors, artists and builders.",
+        "avatar": "ipfs://QmWv4TU9gtnteSiqoc15pTryny8zkuDq8Sg5saHDa4X5vb",
+        "network": "1",
+        "symbol": "RAW",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.rawdao.xyz",
+        "github": null,
+        "twitter": "theRAWdao",
+        "categories": [],
+        "followersCount": 58,
+        "proposalsCount": 20
+    },
+    {
+        "id": "romedaofi.eth",
+        "name": "RomeDAO",
+        "about": "",
+        "avatar": "ipfs://QmRSEaVE1nuSyxqUqkwBkqpq1NpoCuXgDRzW2ZXZp3Nw6K",
+        "network": "1285",
+        "symbol": "sROME",
+        "admins": [
+            "0x79d0B656751D4C2413B7839e0eB52095446d7b3f"
+        ],
+        "members": [
+            "0x79d0B656751D4C2413B7839e0eB52095446d7b3f",
+            "0x70D809C9bF5bDd1a7a977e47308e42032c1A3dF0"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "housesofrome",
+        "categories": [],
+        "followersCount": 394,
+        "proposalsCount": 21
+    },
+    {
+        "id": "dhadrien.sismo.eth",
+        "name": "Ethereum Power Users",
+        "about": "This snapshot space regroups Ethereum Power Users ZK Badge owners.\n\nPower users vote on extension of the pool of eligible accounts.",
+        "avatar": "ipfs://bafkreia2dupuc6734uls76evtysqdt6fa2akjr4rrbgx2l4f7psvnjl5ba",
+        "network": "137",
+        "symbol": "Power User Badge",
+        "admins": [
+            "0x8ab1760889F26cBbf33A75FD2cF1696BFccDc9e6",
+            "0xF61CabBa1e6FC166A66bcA0fcaa83762EdB6D4Bd"
+        ],
+        "members": [
+            "0x8ab1760889F26cBbf33A75FD2cF1696BFccDc9e6",
+            "0xF61CabBa1e6FC166A66bcA0fcaa83762EdB6D4Bd"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://alpha.zikies.io/ethereum-power-users",
+        "github": "sismo-core",
+        "twitter": "sismo_eth",
+        "categories": [
+            "social"
+        ],
+        "followersCount": 2,
+        "proposalsCount": 3
+    },
+    {
+        "id": "ethereum-power-users.eth",
+        "name": "Ethereum Power Users",
+        "about": "Ethereum Power Users ZK Badge owners.\nVote on extension of the pool of eligible accounts.",
+        "avatar": "ipfs://bafkreia2dupuc6734uls76evtysqdt6fa2akjr4rrbgx2l4f7psvnjl5ba",
+        "network": "137",
+        "symbol": "ZK Voting Power",
+        "admins": [
+            "0x8ab1760889F26cBbf33A75FD2cF1696BFccDc9e6"
+        ],
+        "members": [
+            "0x8ab1760889F26cBbf33A75FD2cF1696BFccDc9e6"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://alpha.zikies.io/ethereum-power-users",
+        "github": "sismo-core",
+        "twitter": "sismo_eth",
+        "categories": [
+            "social",
+            "protocol"
+        ],
+        "followersCount": 183,
+        "proposalsCount": 0
+    },
+    {
+        "id": "stkrdao.eth",
+        "name": "STKRDAO",
+        "about": " StakerDAO is a community of blockchain and finance enthusiasts who govern decisions for building cross-chain, decentralized financial assets.",
+        "avatar": "ipfs://QmR3B6quatf8ELi5sCaZMtXGrWNqq6F7B8ZacwsiAwsmLP",
+        "network": "1",
+        "symbol": "STKR",
+        "admins": [
+            "0x8f5681528c217F21e51E3Ee90a89e7D04E07D33d",
+            "0x7448965980D0933655B8dD90d537a7e39bc02C65",
+            "0x3bdac8e3ac21a875179a04c3a04c013a83297801",
+            "0x749fEE22929ffb4d9BE21fBeEF05ED076A94e68F",
+            "0x4819f971A55ac31F8917F63988CbEC9f14eBeB02"
+        ],
+        "members": [],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": "https://www.stakerdao.com/",
+        "github": null,
+        "twitter": "stakerdao",
+        "categories": [
+            "protocol",
+            "service"
+        ],
+        "followersCount": 5,
+        "proposalsCount": 1
+    },
+    {
+        "id": "stakerdao.eth",
+        "name": "StakerDAO",
+        "about": "For building cross-chain, decentralized financial assets in a compliant manner.",
+        "avatar": "",
+        "network": "1",
+        "symbol": "STKR",
+        "admins": [
+            "0x211f5e4F9Cbf464E685817e06F0B0F942b342eFF"
+        ],
+        "members": [
+            "0x8f5681528c217F21e51E3Ee90a89e7D04E07D33d",
+            "0x7448965980D0933655B8dD90d537a7e39bc02C65",
+            "0x3bdac8e3ac21a875179a04c3a04c013a83297801",
+            "0x749fEE22929ffb4d9BE21fBeEF05ED076A94e68F",
+            "0x4819f971A55ac31F8917F63988CbEC9f14eBeB02"
+        ],
+        "plugins": {
+            "poap": {},
+            "safeSnap": {
+                "safes": [
+                    {
+                        "network": "CHAIN_ID",
+                        "realityAddress": "0xSWITCH_WITH_REALITY_MODULE_ADDRESS"
+                    }
+                ]
+            }
+        },
+        "email": null,
+        "website": "https://www.stakerdao.com/",
+        "github": "stakerdao",
+        "twitter": "stakerdao",
+        "categories": [
+            "social",
+            "protocol"
+        ],
+        "followersCount": 3,
+        "proposalsCount": 0
+    },
+    {
+        "id": "aavegotchi.eth",
+        "name": "Aavegotchi",
+        "about": "",
+        "avatar": "ipfs://bafkreiapx7lurilzfd4n2c4qb5qyhjxv5mcrgbook3npmn5y6kmpco3igu",
+        "network": "137",
+        "symbol": "GHST",
+        "admins": [
+            "0x027Ffd3c119567e85998f4E6B9c3d83D5702660c",
+            "0x7E4724C60718A9F87CE51bcF8812Bf90D0b7B9Db",
+            "0xa3efAaDEc9b2533d546139a79A21d661dd3F08ea"
+        ],
+        "members": [
+            "0x027Ffd3c119567e85998f4E6B9c3d83D5702660c",
+            "0x5e31c357d03e9528E9BF95bD16e5c1aB3f7D37D0",
+            "0x7E4724C60718A9F87CE51bcF8812Bf90D0b7B9Db"
+        ],
+        "plugins": {
+            "poap": {},
+            "quorum": {
+                "total": 9000000,
+                "strategy": "static"
+            }
+        },
+        "email": null,
+        "website": "https://aavegotchi.com",
+        "github": "aavegotchi",
+        "twitter": "aavegotchi",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 8302,
+        "proposalsCount": 295
+    },
+    {
+        "id": "abracadabrabymerlinthemagician.eth",
+        "name": "Magic Internet Money",
+        "about": "Magic Internet Money is a crosschain stablecoin that can be minted via providing various collaterals.",
+        "avatar": "ipfs://QmNn3kQKtFZSYuA6vhsKssVt1pYZEwVjg8Fvvjh8tL8L3y",
+        "network": "1",
+        "symbol": "SPELL",
+        "admins": [
+            "0xfddfE525054efaAD204600d00CA86ADb1Cc2ea8a",
+            "0x7897531b47C6dB37570b4d2441a4484Dd5f97133",
+            "0x3c1Cb7D4c0ce0dc72eDc7Ea06acC866e62a8f1d8"
+        ],
+        "members": [
+            "0xfddfE525054efaAD204600d00CA86ADb1Cc2ea8a"
+        ],
+        "plugins": {
+            "hal": {}
+        },
+        "email": null,
+        "website": "https://abracadabra.money/",
+        "github": "Abracadabra-money",
+        "twitter": "MIM_Spell",
+        "categories": [],
+        "followersCount": 1122,
+        "proposalsCount": 14
+    },
+    {
+        "id": "yam.eth",
+        "name": "Yam",
+        "about": "Only delegated YAM may be used to vote on proposals. You can delegate to yourself or another address here: yam.finance/#/delegate",
+        "avatar": "ipfs://QmWe6sMgURBDA3cadz6s59MDjExHtNXXsFBvVG84PMGdhU",
+        "network": "1",
+        "symbol": "YAM",
+        "admins": [
+            "0x9Ebc8AD4011C7f559743Eb25705CCF5A9B58D0bc"
+        ],
+        "members": [
+            "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84",
+            "0x9Ebc8AD4011C7f559743Eb25705CCF5A9B58D0bc",
+            "0xC3edCBe0F93a6258c3933e86fFaA3bcF12F8D695",
+            "0xbdac5657eDd13F47C3DD924eAa36Cf1Ec49672cc",
+            "0xEC3281124d4c2FCA8A88e3076C1E7749CfEcb7F2"
+        ],
+        "plugins": {
+            "quorum": {
+                "total": 200000,
+                "strategy": "static"
+            }
+        },
+        "email": null,
+        "website": "https://yam.finance/",
+        "github": "yam-finance",
+        "twitter": "YamFinance",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 1282,
+        "proposalsCount": 194
+    },
+    {
+        "id": "aladdindao.eth",
+        "name": "AladdinDAO",
+        "about": "AladdinDAO is a decentralized network to shift crypto investments from venture capitalists to wisdom of crowds through collective value discovery.",
+        "avatar": "https://avatars.githubusercontent.com/u/78200839?s=200&v=4",
+        "network": "1",
+        "symbol": "ALD",
+        "admins": [
+            "0x561ADa4B0243F1d83dF80D1653E9F76E84128b0b",
+            "0xfA1440afb3a2B45FF5C1Fb9b420063f342f935dD"
+        ],
+        "members": [
+            "0x561ADa4B0243F1d83dF80D1653E9F76E84128b0b",
+            "0xfA1440afb3a2B45FF5C1Fb9b420063f342f935dD",
+            "0xc54ef562989f6A2c5d6A8d9a8b189c5DA933833B",
+            "0x69cc5b174890F1675c2f06Bb5d11955CF8b9E531",
+            "0x3d32E7ECd3411bBb41cc5a2918d0F9bB2419CDf9",
+            "0x765078e631efc704eb5674866a7dcc06828e5c29",
+            "0xBF9Fb41d379324fD7Da97f51db6f353fc5e2bCf0"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "AladdinDAO",
+        "twitter": "aladdindao",
+        "categories": [],
+        "followersCount": 791,
+        "proposalsCount": 58
+    },
+    {
+        "id": "alchemistdao.eth",
+        "name": "AlchemistDAO ",
+        "about": "",
+        "avatar": "",
+        "network": "1",
+        "symbol": "CQT",
+        "admins": [
+            "0x9223B1b1aC6777f869F8e1C99Ea6c968af757E9f"
+        ],
+        "members": [
+            "0x9223B1b1aC6777f869F8e1C99Ea6c968af757E9f"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "alchemistdao",
+        "categories": [],
+        "followersCount": 28,
+        "proposalsCount": 0
+    },
+    {
+        "id": "antidotedao.eth",
+        "name": "AntidoteDAO",
+        "about": "AntidoteDAO is the first DAO funding different cancer initiatives! Ticker: $ADAO",
+        "avatar": "ipfs://QmSPt33jkubP6nHaSVc9nhH5RtpbMhS5M9zFAmogmRZNzC",
+        "network": "137",
+        "symbol": "ADAO",
+        "admins": [
+            "0xe679Ad6068770700A77EA873ce0A97EdAe9222a2"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.antidotedao.org",
+        "github": null,
+        "twitter": "antidotedao",
+        "categories": [
+            "grant",
+            "protocol"
+        ],
+        "followersCount": 11,
+        "proposalsCount": 1
+    },
+    {
+        "id": "togetherstrong.eth",
+        "name": "APE DAO",
+        "about": "",
+        "avatar": "ipfs://QmWmMv7MBe2nG6Q1nvVrpjfeJcfUWVQYVqfLdgzQQhsMdS",
+        "network": "1",
+        "symbol": "APED",
+        "admins": [
+            "0xf6ea6de3B28E284eEC682c4E64d43503F44228F1",
+            "0x7C2B65B98a86d9d2E10216f92674F28Cb9fe0f86"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "ApeDao_",
+        "categories": [],
+        "followersCount": 68,
+        "proposalsCount": 48
+    },
+    {
+        "id": "apeswap-finance.eth",
+        "name": "ApeSwap",
+        "about": "",
+        "avatar": "ipfs://QmUjXEbJ7de19ddFoBzvUNaaaRWkrtsA3UFzAoG4XPL8iR",
+        "network": "56",
+        "symbol": "GNANA",
+        "admins": [
+            "0xFAc1c84075ce613ea9b7Ad159718AD1Fb5AFD23B",
+            "0x73798EBdEC73d902fB3aD80Be71ef40dBdd99eBb",
+            "0xf9b71b2700a384a43D547db2a2DA9Ed261CEE35D",
+            "0x93599909ECC971EbE9eadaA6C366fA1C3C8f34C3",
+            "0xd6DB099eE6FcBBE47cfBe470C85C01a871b0B0B8",
+            "0xCEf34e4db130c8A64493517985b23af5B13E8cc6",
+            "0x6c905b4108A87499CEd1E0498721F2B831c6Ab13"
+        ],
+        "members": [
+            "0xFAc1c84075ce613ea9b7Ad159718AD1Fb5AFD23B",
+            "0x73798EBdEC73d902fB3aD80Be71ef40dBdd99eBb",
+            "0xf9b71b2700a384a43D547db2a2DA9Ed261CEE35D",
+            "0x93599909ECC971EbE9eadaA6C366fA1C3C8f34C3",
+            "0xd6DB099eE6FcBBE47cfBe470C85C01a871b0B0B8",
+            "0xCEf34e4db130c8A64493517985b23af5B13E8cc6",
+            "0x6c905b4108A87499CEd1E0498721F2B831c6Ab13"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://apeswap.finance/",
+        "github": "ApeSwapFinance",
+        "twitter": "ape_swap",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 703,
+        "proposalsCount": 24
+    },
+    {
+        "id": "togetherstrong.eth",
+        "name": "APE DAO",
+        "about": "",
+        "avatar": "ipfs://QmWmMv7MBe2nG6Q1nvVrpjfeJcfUWVQYVqfLdgzQQhsMdS",
+        "network": "1",
+        "symbol": "APED",
+        "admins": [
+            "0xf6ea6de3B28E284eEC682c4E64d43503F44228F1",
+            "0x7C2B65B98a86d9d2E10216f92674F28Cb9fe0f86"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "ApeDao_",
+        "categories": [],
+        "followersCount": 68,
+        "proposalsCount": 48
+    },
+    {
+        "id": "bsc.bageldao.eth",
+        "name": "BagelDAO-BSC",
+        "about": "The Bagels DAO is completely unique in the value it provides to boardroom members.",
+        "avatar": "ipfs://QmR157Wo8y8yJuLB75fE1tDACyuPgBg3K9L13RkyGx1KwV",
+        "network": "56",
+        "symbol": "vBAGEL",
+        "admins": [
+            "0xE2eDccc1174e7b9aBc6bAb6E2ca75DAf703eBb7B",
+            "0xCc74de909D7890B53973005aE9541899142BD277"
+        ],
+        "members": [
+            "0xE2eDccc1174e7b9aBc6bAb6E2ca75DAf703eBb7B",
+            "0xCc74de909D7890B53973005aE9541899142BD277"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "bagelsfinance",
+        "categories": [],
+        "followersCount": 82,
+        "proposalsCount": 2
+    },
+    {
+        "id": "pollyfinance.eth",
+        "name": "Polly Finance",
+        "about": "Build your nest",
+        "avatar": "ipfs://QmZXkXjuAZfq5LB4U9b5Qm41UHz3LMpythf8eEbzWwUBhu",
+        "network": "137",
+        "symbol": "POLLY",
+        "admins": [
+            "0x18d5D444467Fa53a78e72cB98375F57efDAfF0F1",
+            "0x27d882B686b00faF2A5849E41E84073541e62B90",
+            "0x2f75E925C38f83785A7D0630f65Aed8C65C1454f",
+            "0x8f4A7b7AeaA5c0E01b7b3c0e966D8E62e7b3cBf6",
+            "0xB1768CDdd3e6Be96B69C79FE2C3075153425D9D2",
+            "0xf1674FE69b2920b4de51E909cbf060dd78724CD8"
+        ],
+        "members": [
+            "0x8f4A7b7AeaA5c0E01b7b3c0e966D8E62e7b3cBf6",
+            "0x2f75E925C38f83785A7D0630f65Aed8C65C1454f",
+            "0x18d5D444467Fa53a78e72cB98375F57efDAfF0F1",
+            "0xB1768CDdd3e6Be96B69C79FE2C3075153425D9D2"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "baofinance",
+        "twitter": "thebaoman",
+        "categories": [],
+        "followersCount": 57,
+        "proposalsCount": 5
+    },
+    {
+        "id": "glicpixv1.eth",
+        "name": "GLICPIX V1",
+        "about": "All things GLICPIX V1",
+        "avatar": "https://lh3.googleusercontent.com/9mcsQX0gtVnv5lppgolUJQNvJx3aELOedipqtfg4reCx04bg4BDaNMZPd6aSp1bbOIstnAlcBChNASvxQCoWNj3VfCJHALIpqii10A=s0",
+        "network": "1",
+        "symbol": "GLICPIXV1",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "bganpunks",
+        "categories": [],
+        "followersCount": 2,
+        "proposalsCount": 7
+    },
+    {
+        "id": "bgansv2.eth",
+        "name": "BASTARD GAN PUNKS V2s",
+        "about": "",
+        "avatar": "ipfs://QmSRCJ7qgfdF2vRSg3nBAFMtgPY2FDzBCaxc3TQCRyA9zg",
+        "network": "1",
+        "symbol": "BGAN",
+        "admins": [
+            "0xc5e08104c19dafd00fe40737490da9552db5bfe5",
+            "0xEd7d5608b85546300e12526BA688cb4F6A5641E4",
+            "0xf90ddD0aF0ffdeCa3e750d043B5aACeBCAeE39dc",
+            "0x15D0F64FFCf91c39810529F805Cc3595Dc3EF83f"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "bganpunks",
+        "categories": [],
+        "followersCount": 148,
+        "proposalsCount": 188
+    },
+    {
+        "id": "bpro.eth",
+        "name": "Bprotocol ",
+        "about": "The Backstop Protocol",
+        "avatar": "ipfs://QmSTasXXxNVgdjNDfi8UFsE7vDeL85xEXTrAtwR4ShbGZP",
+        "network": "1",
+        "symbol": "BPRO",
+        "admins": [
+            "0xa9d062B23650C9191673d9496d9e700d37DC55f5"
+        ],
+        "members": [],
+        "plugins": {
+            "hal": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "backstop-protocol",
+        "twitter": "bprotocoleth",
+        "categories": [],
+        "followersCount": 44,
+        "proposalsCount": 13
+    },
+    {
+        "id": "boardroomlabs.eth",
+        "name": "Boardroom",
+        "about": "Protocol agnostic governance aggregator and meta-governance org.",
+        "avatar": "",
+        "network": "1",
+        "symbol": "BDRM",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "boardroom_info",
+        "categories": [],
+        "followersCount": 0,
+        "proposalsCount": 5
+    },
+    {
+        "id": "usebraintrust.eth",
+        "name": "Braintrust",
+        "about": "A decentralized network connecting tech talent with reputable brands.  BTRST represents ownership in the network.  Learn More: www.braintrust.com",
+        "avatar": "ipfs://QmQz3EuN4DLyoZMwzwhxQyedGN4c4gXa15qHwy5dBcsDFf",
+        "network": "1",
+        "symbol": "BTRST",
+        "admins": [
+            "0xf5D6bACf23eF66F8CE260D4b799b7EF74494d53e",
+            "0xeF42cF85bE6aDf3081aDA73aF87e27996046fE63"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "",
+        "twitter": "usebraintrust",
+        "categories": [],
+        "followersCount": 335,
+        "proposalsCount": 18
+    },
+    {
+        "id": "brightmoments.eth",
+        "name": "Bright Moments",
+        "about": "Bright Moments is an NFT gallery, organized as a DAO. ",
+        "avatar": "ipfs://QmRN9EHijwQgj6Qpdsgny8Nro6WExLbHRLjAqE3raZEZtv",
+        "network": "1",
+        "symbol": "CITIZEN",
+        "admins": [
+            "0xda3c325aB45b30AeB476B026FE6A777443cA04f3",
+            "0xb4A996956856feE7a3C3DCa4b384E4ef26a7Bc25",
+            "0x18782E9d3fB2E8D17CBF7a1F72c5f4e09E263734",
+            "0x18B7511938FBe2EE08ADf3d4A24edB00A5C9B783",
+            "0x1040259f6Fe4f1C6ed1044b9Df6a8A4eBD2d3511"
+        ],
+        "members": [
+            "0x18782E9d3fB2E8D17CBF7a1F72c5f4e09E263734",
+            "0x18B7511938FBe2EE08ADf3d4A24edB00A5C9B783",
+            "0x91594b5E5d74FCCB3f71674eE74C5F4D44f333D5",
+            "0x65d674F2220Fa844c1e390AAf6739eC07519146E"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://brightmoments.io",
+        "github": null,
+        "twitter": "brtmoments",
+        "categories": [
+            "social",
+            "creator"
+        ],
+        "followersCount": 102,
+        "proposalsCount": 15
+    },
+    {
+        "id": "bullsontheblock.eth",
+        "name": "Bulls on the Block",
+        "about": "Space for community voting",
+        "avatar": "ipfs://QmUXFhQd6QUgH5nwGgpg6TjF3X6QbtJh2bvpKGFJ83R7df",
+        "network": "1",
+        "symbol": "EVOBOTB",
+        "admins": [
+            "0xa87309f3b5096751d999b94C994F61D64183311D",
+            "0x16f1F3A0fD7806cAca3751eDE11568397DD0E419"
+        ],
+        "members": [
+            "0xa87309f3b5096751d999b94C994F61D64183311D"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": "https://linktr.ee/bullsontheblock",
+        "github": "",
+        "twitter": "bullsontheblock",
+        "categories": [],
+        "followersCount": 986,
+        "proposalsCount": 29
+    },
+    {
+        "id": "cabindao.eth",
+        "name": "Cabin",
+        "about": "",
+        "avatar": "ipfs://QmZ21K4pCrBpCTHBS8LWzQ3tdWRaW5yYvLaQ6NiFgSjbUZ",
+        "network": "1",
+        "symbol": "\u20a1ABIN",
+        "admins": [
+            "0x522C6b0Aa5A14E1771Aab5646247349fFa9E5111",
+            "0x8dca852d10c3CfccB88584281eC1Ef2d335253Fd",
+            "0x88D01d4354DA0D65C38b0196c4400525A5eebe17",
+            "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+            "0xbeC26FFa12c90217943D1b2958f60A821aE6E549"
+        ],
+        "members": [
+            "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+            "0xD9F5b7E51dB4aB88D9bDEF5D23fd984c17012fC2",
+            "0xb361356B0fc3E0805cf5eF4316EE4822a28A55D2",
+            "0x029EE42d381C9809493F34095235843625E46676",
+            "0xB91833386627cb178D99fEbad89236E35C0AD43f",
+            "0x282173335ae1F328b34Eb9Acadc052E59E70A89f",
+            "0xbeC26FFa12c90217943D1b2958f60A821aE6E549"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "creatorcabins",
+        "categories": [],
+        "followersCount": 149,
+        "proposalsCount": 43
+    },
+    {
+        "id": "dexman.eth",
+        "name": "Civilization",
+        "about": "Governance for the CIV token",
+        "avatar": "ipfs://QmeHs9eFm4S3xBwCozpUV9Avc2mqrhCdgAgn8APSPgqa6D",
+        "network": "1",
+        "symbol": "CIV",
+        "admins": [
+            "0x46DaD8f630736C7265849422F943efD77CB8714f",
+            "0x0F2309ed7cF091FE5E3E7bb33aCe9c6aDF107345",
+            "0x6CFF250a6AF2Ae64FDa23F43f3C89710c871A789"
+        ],
+        "members": [
+            "0x46DaD8f630736C7265849422F943efD77CB8714f",
+            "0x0F2309ed7cF091FE5E3E7bb33aCe9c6aDF107345",
+            "0x6CFF250a6AF2Ae64FDa23F43f3C89710c871A789"
+        ],
+        "plugins": {
+            "poap": {},
+            "commentBox": {}
+        },
+        "email": null,
+        "website": "https://civfund.org",
+        "github": "CivilizationCIV",
+        "twitter": "civfund",
+        "categories": [],
+        "followersCount": 71,
+        "proposalsCount": 2
+    },
+    {
+        "id": "9x9x9.eth",
+        "name": "Club721",
+        "about": "www.721.com",
+        "avatar": "ipfs://QmQAHZJtrHNinxuKWzKyPJnY3y1uACeUzkmr8GgL7KCckZ",
+        "network": "1",
+        "symbol": "Club721",
+        "admins": [
+            "0x8c0d2B62F133Db265EC8554282eE60EcA0Fd5a9E"
+        ],
+        "members": [
+            "0x8c0d2B62F133Db265EC8554282eE60EcA0Fd5a9E"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "club721official",
+        "categories": [],
+        "followersCount": 195,
+        "proposalsCount": 5
+    },
+    {
+        "id": "colony.eth",
+        "name": "Colony",
+        "about": "The best way to build your DAO",
+        "avatar": "https://user-images.githubusercontent.com/1193222/146532519-d376e62b-5d66-42d0-bdeb-210aee4dd02b.png",
+        "network": "100",
+        "symbol": "CLNY",
+        "admins": [
+            "0xF0CdfA126a944849A6e9982253CD5259AfAe0355",
+            "0x56A9212f7F495FADcE1F27967bEF5158199B36C7"
+        ],
+        "members": [
+            "0xF0CdfA126a944849A6e9982253CD5259AfAe0355"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "joincolony",
+        "categories": [],
+        "followersCount": 149,
+        "proposalsCount": 2
+    },
+    {
+        "id": "constitutionbridge.eth",
+        "name": "ConstitutionDAO",
+        "about": "Governance for PEOPLE: Refund and the future",
+        "avatar": "ipfs://QmRCUzZR7QZJcmUGa8Ab7tqFnWx37PB56TTwDuCPELkTai",
+        "network": "1",
+        "symbol": "PEOPLE",
+        "admins": [
+            "0xb4A3f907ec1611F22543219AE9Bb33ec5E96e116"
+        ],
+        "members": [
+            "0xb4A3f907ec1611F22543219AE9Bb33ec5E96e116"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "constitutionDAO",
+        "twitter": "constitutionDAO",
+        "categories": [
+            "collector"
+        ],
+        "followersCount": 42,
+        "proposalsCount": 1
+    },
+    {
+        "id": "covalenthq.eth",
+        "name": "Covalent",
+        "about": "One unified API. One billion possibilities. ",
+        "avatar": "ipfs://QmRyQ3hjuWS1f2hpGsHcfXTEeJRzEWxUGFQnUycTo2nnpg",
+        "network": "1",
+        "symbol": "CQT",
+        "admins": [
+            "0x9223B1b1aC6777f869F8e1C99Ea6c968af757E9f"
+        ],
+        "members": [
+            "0x9223B1b1aC6777f869F8e1C99Ea6c968af757E9f"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "covalenthq",
+        "twitter": "Covalent_HQ",
+        "categories": [],
+        "followersCount": 159,
+        "proposalsCount": 4
+    },
+    {
+        "id": "crisisdao.eth",
+        "name": "CrisisDAO",
+        "about": "Let's make the world better-ish.",
+        "avatar": "ipfs://QmPYADBzT2AuvDGepAe1vDsdzVfyUzpUztBkKaVjRMrSk7",
+        "network": "1",
+        "symbol": "CRISIS",
+        "admins": [
+            "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "0xE7e84204B7e180454e5C40d0e04D346214a83f85"
+        ],
+        "members": [
+            "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "0xE7e84204B7e180454e5C40d0e04D346214a83f85",
+            "0x961Aa96FebeE5465149a0787B03bFa14D8e9033F",
+            "0xECaA643997033B1bA605D32748cfE9bdAd141880",
+            "0xc93C7f71581DFEAAb59BEd908888dAC5689F312a",
+            "0x5D334bF9D32c6Bf5655De7479b34Fa0d0C44bfF3",
+            "0x7fb6F52996ba02884Fd4Cd136bB2af3D8909c56C",
+            "0x0090720FeD7Fed66eD658118b7B3BB0189D3A495",
+            "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+            "0x3a958ef7D3Dc7A0f7c98ba139359ee5c30253fbF",
+            "0x95F978fcdcdA9BdF7bdB1Eef42Fc4a4C199828CB",
+            "0x37990C085180528eF52F55C7945eBbc5bc040E50",
+            "0xa62f4152954c3CFbe762932512dB35F40517507b",
+            "0xb3d89CE6002e17812adb8F7E5D7ec6CD7CB84C75",
+            "0x29b58015FeCA7fcDD4A5c7145176133638fEE6D9",
+            "0x0cF9Db77cE49dA0838834D505566eB077dBE2475",
+            "0x0A4cF822777BE3558233C2420978EB40d0f85D88",
+            "0x77492FCF153F992cF3fe2B832E83AbE56D8F8944",
+            "0x72058F7295D97E2D98e2D1D198aC7DA4eFE26764",
+            "0x8938C6507D9739b0F6B0B49CfdEF2D8377470aB0",
+            "0x0bF1F46866bcEF673Aa8Dc080a2409ff73B6718D",
+            "0xDF318c14c0C335798aC7F7601503b75f8Fcb873D",
+            "0x58f43fa86ca2fe318dda7977391554a01133305b",
+            "0x2b0D29fFA81fa6Bf35D31db7C3bc11a5913B45ef",
+            "0xBd277d616F747eC7a2bDC6CcE9d8fb69d5372453",
+            "0x5328DE364006F6E2be8eA2c4D28E3Dd349B3d257",
+            "0x1212d8F2a7fD2CF4Ce717053193B2d90660FE646",
+            "0xc1Acf33B71967ef68eA06e4008fb7ca0eEcd27eD",
+            "0x7BC17DDE3Ad2BB060CEBA0C55227f5D340bC3FBf",
+            "0x5D9B59eF830feCdeC7CBF5128CD288Ff7e66Da98",
+            "0x23B14aA79c10f36Ea7ec80aB624b6EA042bA3497",
+            "0xa1DFE1d2842Bb5AD28B770eB88A9254d26488764",
+            "0xf0e1f132BF121A10080bd8E73f85e9C091525B34",
+            "0xf553F58Ad57368D70c91d3A3117a00F005545Ed7",
+            "0x139d784fd5c4cA9ca9aB4a7Bb33efF4c9FdED405",
+            "0x20FCB185AC2D5F9795779E8CC6C0ec37F97c7a8C"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "crisisdao",
+        "categories": [],
+        "followersCount": 40,
+        "proposalsCount": 74
+    },
+    {
+        "id": "cream-finance.eth",
+        "name": "Cream Finance",
+        "about": "",
+        "avatar": "ipfs://QmRBsMDyWBC6uxQdJAPYcb27i4bUnTkAQqBX1HN3vtH66r",
+        "network": "1",
+        "symbol": "iceCREAM",
+        "admins": [
+            "0xc322b363C4E33bC0bC1E5703993Ca862373cdb48",
+            "0xb6e362900B7113F246A7e1c17E9746b3B9C079dB"
+        ],
+        "members": [
+            "0x3795897D5152977fA61da3D480421734a46f0491",
+            "0xC85170886A7F34e1365E2aA04486ae8F1106F783",
+            "0xb2c43455ee556dEa95c0599B0d3F7D0aBBf32FDB",
+            "0x599a366Cb601b80D657950751088CB84D004E83a",
+            "0x197939c1ca20C2b506d6811d8B6CDB3394471074",
+            "0x867db38C83F4287A71ffd0Cdfba6fFAE93150Ff7",
+            "0xd0edc185C123E7b40A393a425713cB240d5E6513",
+            "0xb5d32fFf7B0dBa1427319916F0915907bE6AA3A4",
+            "0x8B8592E9570E96166336603a1b4bd1E8Db20fa20",
+            "0xC3Aa963e2E66b5768f2D20969FE1e8e6516622f5",
+            "0xc9e3eB04AAE820a1AA77789e699E7c433F75e216",
+            "0xD466C878A504CDc2c711016ebb847Ba10260ef54",
+            "0xb6e362900B7113F246A7e1c17E9746b3B9C079dB"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "CreamFi",
+        "twitter": "CreamdotFinance",
+        "categories": [],
+        "followersCount": 809,
+        "proposalsCount": 112
+    },
+    {
+        "id": "cryptexdao.eth",
+        "name": "Cryptex",
+        "about": "",
+        "avatar": "ipfs://QmXCReP7woq7qkzrQ75iZs4X6qGY2rvao8MAowJYtc7Juo",
+        "network": "1",
+        "symbol": "CTX",
+        "admins": [
+            "0x4954c9004A45bDe97A53B43130A1030a2b6EfBB1",
+            "0xC09aC4D550474c8B2259A188431e6bAC7ec1A698",
+            "0xcF3E2Ee2b0cD1194ba33cD1c7d9614DC635a1714",
+            "0xf71E9C766Cdf169eDFbE2749490943C1DC6b8A55"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "cryptexfinance",
+        "twitter": "CryptexFinance",
+        "categories": [],
+        "followersCount": 10,
+        "proposalsCount": 15
+    },
+    {
+        "id": "polygon.cryptexdao.eth",
+        "name": "Cryptex Polygon",
+        "about": "Cryptex Protocol Governance in Polygon",
+        "avatar": "ipfs://QmXCReP7woq7qkzrQ75iZs4X6qGY2rvao8MAowJYtc7Juo",
+        "network": "137",
+        "symbol": "CTX",
+        "admins": [
+            "0x4954c9004A45bDe97A53B43130A1030a2b6EfBB1",
+            "0xC09aC4D550474c8B2259A188431e6bAC7ec1A698",
+            "0xcF3E2Ee2b0cD1194ba33cD1c7d9614DC635a1714",
+            "0xf71E9C766Cdf169eDFbE2749490943C1DC6b8A55"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "CryptexFinance",
+        "twitter": "CryptexFinance",
+        "categories": [],
+        "followersCount": 2,
+        "proposalsCount": 1
+    },
+    {
+        "id": "herbst.eth",
+        "name": "Crypto, Culture, & Society",
+        "about": "A learning DAO exploring the impact of crypto on culture and society.",
+        "avatar": "https://pbs.twimg.com/profile_images/1458991184756494352/w5_kw214_400x400.jpg",
+        "network": "1",
+        "symbol": "LEARN",
+        "admins": [
+            "0xaD9242795Ad7FE630addA2b29ed39A4F4c4Fd84B",
+            "0xCC65fA278B917042822538c44ba10AD646824026",
+            "0xc7814D61A8236303a8854fc272cA0419A7e18E32",
+            "0xB15F50e5AD35F29Bf52601d6629b3De44a3b922e"
+        ],
+        "members": [
+            "0xaD9242795Ad7FE630addA2b29ed39A4F4c4Fd84B",
+            "0xCC65fA278B917042822538c44ba10AD646824026",
+            "0xc7814D61A8236303a8854fc272cA0419A7e18E32",
+            "0xB15F50e5AD35F29Bf52601d6629b3De44a3b922e",
+            "0xfA62B9143f6B0d7E125f4E721A613A7313948c75",
+            "0x48ff4d06Ceb0d69C958EE7856A2629Bb568Cffdc"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "CryptoSocietyS1",
+        "categories": [
+            "social",
+            "media"
+        ],
+        "followersCount": 19,
+        "proposalsCount": 5
+    },
+    {
+        "id": "curve.eth",
+        "name": "Curve Finance",
+        "about": "",
+        "avatar": "ipfs://QmPjSYaMMNPyKwhBvR7StQeh4izfy1oP9ND6SDaGQUaExW",
+        "network": "1",
+        "symbol": "CRV",
+        "admins": [
+            "0x39415255619783A2E71fcF7d8f708A951d92e1b6",
+            "0x0000000000e189dD664b9aB08a33C4839953852c"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "curvefi",
+        "twitter": "CurveFinance",
+        "categories": [],
+        "followersCount": 19625,
+        "proposalsCount": 203
+    },
+    {
+        "id": "curve.eth",
+        "name": "Curve Finance",
+        "about": "",
+        "avatar": "ipfs://QmPjSYaMMNPyKwhBvR7StQeh4izfy1oP9ND6SDaGQUaExW",
+        "network": "1",
+        "symbol": "CRV",
+        "admins": [
+            "0x39415255619783A2E71fcF7d8f708A951d92e1b6",
+            "0x0000000000e189dD664b9aB08a33C4839953852c"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "curvefi",
+        "twitter": "CurveFinance",
+        "categories": [],
+        "followersCount": 19625,
+        "proposalsCount": 203
+    },
+    {
+        "id": "community.daosquare.eth",
+        "name": "DAOSquare Cafeteria",
+        "about": "Governance of DAOSquare community",
+        "avatar": "ipfs://Qmdqpn34Q4xr6JWvEPzSf3b9YQ35rqTFkweqLMGtGA89WG",
+        "network": "100",
+        "symbol": "CAFE",
+        "admins": [
+            "0x9ac9c636404C8d46D9eb966d7179983Ba5a3941A"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://daosquare.io",
+        "github": "DAOSquare",
+        "twitter": "DAOSquare",
+        "categories": [
+            "investment"
+        ],
+        "followersCount": 32,
+        "proposalsCount": 4
+    },
+    {
+        "id": "emilyzh.eth",
+        "name": "DAOSquare Matrix",
+        "about": "Governance space for DAOSquare Matrix (full-time team).",
+        "avatar": "ipfs://bafkreiaxmaj2fywurtpnq2li2zsbgrn3jryvg2gudqafqeivypwdc6aazi",
+        "network": "100",
+        "symbol": "VOTE",
+        "admins": [
+            "0x9ac9c636404C8d46D9eb966d7179983Ba5a3941A",
+            "0xc9Df049CF23F1B4c51b0772e98427f2084760a4E",
+            "0xb7a0f269468DA74E4b71569c903cf20ce4a507A8",
+            "0x570dC83f03fc09e65Cb7D61Ccc4559f01C9D6063"
+        ],
+        "members": [
+            "0xc9Df049CF23F1B4c51b0772e98427f2084760a4E",
+            "0x3415f9626094859142702Ae48848eAF3860C40c3",
+            "0x7cc2acc39bc59620656cdf64265c9257144fe1ef",
+            "0x8043D4576B9F35AcEFbc913029684285037cf473",
+            "0x570dC83f03fc09e65Cb7D61Ccc4559f01C9D6063",
+            "0x9ac9c636404C8d46D9eb966d7179983Ba5a3941A"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://daosquare.io",
+        "github": null,
+        "twitter": "DAOSquare",
+        "categories": [
+            "service"
+        ],
+        "followersCount": 4,
+        "proposalsCount": 0
+    },
+    {
+        "id": "uberhaus.eth",
+        "name": "Uberhaus",
+        "about": "Voting for the DAOhaus Ecosystem",
+        "avatar": "",
+        "network": "1",
+        "symbol": "UBERHAUS",
+        "admins": [
+            "0xCED608Aa29bB92185D9b6340Adcbfa263DAe075b",
+            "0x914aa366fc6af1cef6d8b98dd24b2842e0d14c39",
+            "0x68d36dcbdd7bbf206e27134f28103abe7cf972df"
+        ],
+        "members": [
+            "0xCED608Aa29bB92185D9b6340Adcbfa263DAe075b",
+            "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+            "0x7136fbddd4dffa2369a9283b6e90a040318011ca",
+            "0x15c6ac4cf1b5e49c44332fb0a1043ccab19db80a",
+            "0x1df428833f2c9fb1ef098754e5d710432450d706",
+            "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+            "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "HausDAO",
+        "twitter": "nowdaoit",
+        "categories": [],
+        "followersCount": 27,
+        "proposalsCount": 4
+    },
+    {
+        "id": "decentralgames.eth",
+        "name": "Decentral Games",
+        "about": "Decentral Games builds games that give players economic freedom through aligned incentives, self-custody and delegation of yield-bearing metaverse assets. ",
+        "avatar": "ipfs://QmP8t7xJ1JDX1LB9JaJB6BmgmojKmAMzyrsWXURwUZgWVL",
+        "network": "1",
+        "symbol": "xDG",
+        "admins": [
+            "0x7146cae915f1Cd90871ecc69999BEfFdcaf38ff9"
+        ],
+        "members": [
+            "0x7e5DCA041b0E91Af20142aE96081EEc9D73d2af9",
+            "0xE2be94B59a3A4Aef2F66Eb0dD73079da00315BF0",
+            "0x5E42f33749A9CbBE7AfA732191BB4C282a3866C2",
+            "0xb3Ab3a2f58a7d91Fe3Dcf9ABAd53C0dD1603B847"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "decentralgames",
+        "twitter": "decentralgames",
+        "categories": [],
+        "followersCount": 1513,
+        "proposalsCount": 123
+    },
+    {
+        "id": "snapshot.dcl.eth",
+        "name": "Decentraland",
+        "about": "Decentraland Snapshot Space",
+        "avatar": "ipfs://QmZAWXeepWnWpsdEXnkym5nvipxGCj87sS6SABBV8x6pPh",
+        "network": "1",
+        "symbol": "VP",
+        "admins": [
+            "0x3323B7264F7D5e8f98e6aFCcec73b6bA1116AE19",
+            "0x8Cff6832174091DAe86F0244e3Fd92d4CeD2Fe07",
+            "0xF081eDa01d8D3b10F6F93fF1459339b9eD174D3C"
+        ],
+        "members": [
+            "0x3323B7264F7D5e8f98e6aFCcec73b6bA1116AE19",
+            "0x8Cff6832174091DAe86F0244e3Fd92d4CeD2Fe07",
+            "0xF081eDa01d8D3b10F6F93fF1459339b9eD174D3C",
+            "0x5E23D08324f017d5425e59A2782C9ae27aCE0958"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "decentraland",
+        "twitter": "decentraland",
+        "categories": [],
+        "followersCount": 17848,
+        "proposalsCount": 1357
+    },
+    {
+        "id": "degosupport.eth",
+        "name": "Dego Finance",
+        "about": "Decentralized Finance with Sustainability.",
+        "avatar": "ipfs://bafkreigvdnu2ib32hse2a6z7ws2zstxzt6bma4ol22jyu4klj35ao777nq",
+        "network": "56",
+        "symbol": "DEGO",
+        "admins": [
+            "0xDf5e546b6807f95DF6e69D63eA852eAfB1244779"
+        ],
+        "members": [
+            "0xDf5e546b6807f95DF6e69D63eA852eAfB1244779",
+            "0x20FE4B1eD95911487499e53355BB8f14a881D735"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://dego.finance/",
+        "github": "dego-tokenv2",
+        "twitter": "dego_finance",
+        "categories": [
+            "service"
+        ],
+        "followersCount": 1,
+        "proposalsCount": 1
+    },
+    {
+        "id": "devdao.eth",
+        "name": "Developer DAO",
+        "about": "Build web3 with friends \ud83e\udd1d",
+        "avatar": "ipfs://QmS8RT96Qqx9Eix98hVoPhYKWBvjVRDntzUcuDU6rjSxL8",
+        "network": "1",
+        "symbol": "DEVS",
+        "admins": [
+            "0x378ff65Cb9E9B83B86AA2534c9991e5B28F1Ec92",
+            "0x76da95534c57516625948baA9d069D5ed371b324",
+            "0xdd00Cc906B93419814443Bb913949d503B3DF3c4",
+            "0x4e8AD3c90f026E4d034b81BA0e1A929E77D80b36",
+            "0xd35D68Fe3F7Ae603d984B3b17C9dFe156B973Fd5"
+        ],
+        "members": [
+            "0x378ff65Cb9E9B83B86AA2534c9991e5B28F1Ec92",
+            "0x76da95534c57516625948baA9d069D5ed371b324",
+            "0x4e8AD3c90f026E4d034b81BA0e1A929E77D80b36",
+            "0xDdDF523bc0Ee19aCF99d8faf55EDDD8840F13684",
+            "0xd35D68Fe3F7Ae603d984B3b17C9dFe156B973Fd5"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": "https://www.developerdao.com/",
+        "github": "Developer-DAO",
+        "twitter": "developer_dao",
+        "categories": [],
+        "followersCount": 2967,
+        "proposalsCount": 20
+    },
+    {
+        "id": "dotfinance.eth",
+        "name": "DotFinance",
+        "about": "DotFinance Governance",
+        "avatar": "ipfs://QmcjVARMiSQHv5FkY8xN1VKpno16WeWNvGWEE2DvHeZakY",
+        "network": "1285",
+        "symbol": "PINK",
+        "admins": [
+            "0xEFa91aB89BC1d9596541aE625E81E8Aa5375d79C",
+            "0x7D39627248304E942eCF4AFc1283F0696e685bD1"
+        ],
+        "members": [
+            "0x7D39627248304E942eCF4AFc1283F0696e685bD1",
+            "0xEFa91aB89BC1d9596541aE625E81E8Aa5375d79C"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "dot-finance",
+        "twitter": "dot_finance",
+        "categories": [],
+        "followersCount": 127,
+        "proposalsCount": 3
+    },
+    {
+        "id": "thedreamdao.eth",
+        "name": "Dream DAO",
+        "about": "Empowering Gen Z to be and build the future of web3 x social impact. ",
+        "avatar": "ipfs://QmT8cryxTwSjqB21rW7ijH4qxa1rBrAu3hAbELVTePwz11",
+        "network": "1",
+        "symbol": "SkywalkerZ",
+        "admins": [
+            "0xB4B5810735AcB93CfaEB6aa24fcFd04D583f7593",
+            "0x8518Fb85c84b6FA726Ac65A6260681B2Ca9A56C8",
+            "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+            "0x43D936856485c6FF09E05FFdF0A97989A433ab9D",
+            "0x0D933F6ffA1DC3b37163Bf23EdE8C90845DB83E1"
+        ],
+        "members": [],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "DreamDAO_",
+        "categories": [
+            "grant",
+            "social"
+        ],
+        "followersCount": 47,
+        "proposalsCount": 60
+    },
+    {
+        "id": "elfdao.eth",
+        "name": "elfDAO",
+        "about": "",
+        "avatar": "ipfs://QmT8wcoUjUcdeHouzM4kGTcL28SZidEdoeBhUTiXdyJXeW",
+        "network": "1",
+        "symbol": "GIFT",
+        "admins": [
+            "0xe10b7610908d8B0ac4066F02C24E76007FFf0EC4",
+            "0xfb5cAAe76af8D3CE730f3D62c6442744853d43Ef",
+            "0xE4Edb4C1696019589249Acf483DA341A89C9d961",
+            "0xF2829E74C8a8709e170E21979A482f88C607B632",
+            "0xFf1Ea38735E1594325FB5260643a68b7D91c474C"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "elfDAO",
+        "twitter": "elf_DAO",
+        "categories": [
+            "social",
+            "grant"
+        ],
+        "followersCount": 11,
+        "proposalsCount": 2
+    },
+    {
+        "id": "esd.eth",
+        "name": "Empty Set",
+        "about": "A decentralized, censorship resistant, stablecoin built for DeFi",
+        "avatar": "",
+        "network": "1",
+        "symbol": "ESS",
+        "admins": [],
+        "members": [
+            "0xB0B2b405c9D09d129E9F9b18c9DD218c532f2b2A",
+            "0x0FeBbB3f91fae9BDC2f86B82c1b61a1dF6c6a5e8",
+            "0x264297e93B09430a81a31368F243EDe8500A5E6d",
+            "0x7ed9F10b5299b44D28F2AEBf8D057919698cB94A",
+            "0xC85170886A7F34e1365E2aA04486ae8F1106F783",
+            "0xDbFcA4a2807F4EF3efdDc10F3EaDc84714D8c333",
+            "0x37Ed74A0dA66c0392C4c5901c3b3B97675871FE1"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "emptysetsquad",
+        "twitter": "emptysetdollar",
+        "categories": [],
+        "followersCount": 73,
+        "proposalsCount": 20
+    },
+    {
+        "id": "ens.eth",
+        "name": "ENS",
+        "about": "",
+        "avatar": "ipfs://QmSL2X1h1uk26ahSALTw2qKyc61VaySRRstueVMm1Aym3e",
+        "network": "1",
+        "symbol": "ENS",
+        "admins": [
+            "0xb8c2C29ee19D8307cb7255e1Cd9CbDE883A267d5",
+            "0xb6E040C9ECAaE172a89bD561c5F73e1C48d28cd9",
+            "0x75cac0ceb8a39ddb4942a83ad2aafaf0c2a3e13f",
+            "0x9297A132AF2A1481441AB8dc1Ce6e243d879eaFD",
+            "0x75cac0CEb8A39DdB4942A83AD2aAfaF0C2A3e13f"
+        ],
+        "members": [
+            "0x5A384227B65FA093DEC03Ec34e111Db80A040615",
+            "0xb8c2C29ee19D8307cb7255e1Cd9CbDE883A267d5",
+            "0x866B3c4994e1416B7C738B9818b31dC246b95eEE",
+            "0x0904Dac3347eA47d208F3Fd67402D039a3b99859",
+            "0x9297A132AF2A1481441AB8dc1Ce6e243d879eaFD",
+            "0x75cac0CEb8A39DdB4942A83AD2aAfaF0C2A3e13f"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "ensdomains",
+        "twitter": "ensdomains",
+        "categories": [],
+        "followersCount": 65646,
+        "proposalsCount": 33
+    },
+    {
+        "id": "nominations.ens.eth",
+        "name": "ENS WG Steward Nominations",
+        "about": "",
+        "avatar": "https://raw.githubusercontent.com/snapshot-labs/snapshot-spaces/master/spaces/ens.eth/space.png",
+        "network": "1",
+        "symbol": "ENS",
+        "admins": [
+            "0xb6E040C9ECAaE172a89bD561c5F73e1C48d28cd9"
+        ],
+        "members": [
+            "0xb6E040C9ECAaE172a89bD561c5F73e1C48d28cd9",
+            "0x75cac0CEb8A39DdB4942A83AD2aAfaF0C2A3e13f"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "ensdomains",
+        "twitter": "ensdomains",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 45,
+        "proposalsCount": 71
+    },
+    {
+        "id": "multiplayerdao.eth",
+        "name": "Multiplayer DAO",
+        "about": "",
+        "avatar": "ipfs://QmabdkGr6rPTLQWGpieeT742UoEBqRBwz679AMRQgbVYRU",
+        "network": "1",
+        "symbol": "MPT",
+        "admins": [
+            "0xFDde578e1Fab388D6346A75f1Ef6C3fc6AC558D0"
+        ],
+        "members": [
+            "0xFDde578e1Fab388D6346A75f1Ef6C3fc6AC558D0"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "multiplayerart",
+        "categories": [],
+        "followersCount": 70,
+        "proposalsCount": 4
+    },
+    {
+        "id": "enzymefinance.eth",
+        "name": "Enzyme Council",
+        "about": "See https://docs.enzyme.finance/governance/overview",
+        "avatar": "https://gblobscdn.gitbook.com/spaces%2F-MQxHpF23dRGhZ6CXr2j%2Favatar-1611164240452.png",
+        "network": "1",
+        "symbol": "MGM",
+        "admins": [
+            "0x3714b08c67Da52dcc1909009549Aa3655157Ee4C",
+            "0x34B5F98984b1F61BCbFe07eEEcf6d82CA0125537"
+        ],
+        "members": [
+            "0x392805FD4a2044131178b2a88E149A837890a06f",
+            "0x3866911C10CD153bf48ebB29C7b57C61448cB075",
+            "0x46808732DF838B1a9612829A1b33411E995c3e0C",
+            "0x478615F37FcCB0DF69C191a8674233f6899D092e",
+            "0x03a3424b0f583e942600dd80a223be3ae4d49de5",
+            "0x04889385c038BA9Fa5fD9095528D3675CCf7F9DE",
+            "0x34B5F98984b1F61BCbFe07eEEcf6d82CA0125537",
+            "0xDf934780e40d9449035779a58F9d25d64Fa1FfC7",
+            "0x9263a4D34C3Fe5a3e5A281C78F652Ee84abc56aE",
+            "0xb5EDbE540411B60139BCD01A087BdCf52a1dE120",
+            "0x3714b08c67Da52dcc1909009549Aa3655157Ee4C"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://enzyme.finance/",
+        "github": "enzymefinance",
+        "twitter": "enzymefinance",
+        "categories": [],
+        "followersCount": 26,
+        "proposalsCount": 10
+    },
+    {
+        "id": "epns.eth",
+        "name": "EPNS",
+        "about": "Ethereum Push Notification Service is a Blockchain agnostic communication layer to enable decentralized notifications for dApp, smart contracts and services.",
+        "avatar": "ipfs://QmcYNyVPcUzB7H1KPjN5GcBd86sZe8bBtPkWicvSGMdMWx",
+        "network": "1",
+        "symbol": "PUSH",
+        "admins": [
+            "0xe520d4A985A2356Fa615935a822Ce4eFAcA24aB6",
+            "0xB59Cdc85Cacd15097ecE4C77ed9D225014b4D56D",
+            "0x057fcD7BD66e0b0e7CBF387D12b2A49A20d30922"
+        ],
+        "members": [
+            "0x496Bc278D897E70b414ff2e6AE3D5E0F1D2D3db1",
+            "0xe520d4A985A2356Fa615935a822Ce4eFAcA24aB6",
+            "0xB59Cdc85Cacd15097ecE4C77ed9D225014b4D56D",
+            "0x057fcD7BD66e0b0e7CBF387D12b2A49A20d30922",
+            "0x1c8c125C1Eac1C8d450979cbf0146985D75df55A",
+            "0x99031E4700Ce7ad07F9a0F8b8f308B384834A681"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "ethereum-push-notification-service",
+        "twitter": "epnsproject",
+        "categories": [],
+        "followersCount": 494,
+        "proposalsCount": 52
+    },
+    {
+        "id": "eulerdao.eth",
+        "name": "Euler",
+        "about": "Euler is a non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.",
+        "avatar": "ipfs://bafkreifkocv6e3vgwm47enzwmqvjuzcxz4fbbdy6ddw2h6smj46depw5ci",
+        "network": "1",
+        "symbol": "EUL",
+        "admins": [
+            "0x8Da6a996D8f0cf718d1258F30DB731BbceCb01D2"
+        ],
+        "members": [
+            "0x8Da6a996D8f0cf718d1258F30DB731BbceCb01D2"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.euler.finance/",
+        "github": "euler-xyz",
+        "twitter": "eulerfinance",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 387,
+        "proposalsCount": 8
+    },
+    {
+        "id": "fei.eth",
+        "name": "Fei",
+        "about": "The stablecoin for DeFi",
+        "avatar": "ipfs://QmYxs3LFYEP12QqiQDpHoRQaD5MKb5uJRj4KrHES2nqtLJ",
+        "network": "1",
+        "symbol": "TRIBE",
+        "admins": [
+            "0x40B12d200404C0D082B6D088aB24cEDED6bcf8C2",
+            "0x282daD3BFA064BD12b4f823BA3579240a837Fa2b",
+            "0x4e474B76C3F09dfF4cC493802462E780C6515449",
+            "0xC64Ed730e030BdCB66E9B5703798bb4275A5a484",
+            "0xc8eefb8b3d50ca87Da7F99a661720148acf97EfA"
+        ],
+        "members": [
+            "0x40B12d200404C0D082B6D088aB24cEDED6bcf8C2",
+            "0x282daD3BFA064BD12b4f823BA3579240a837Fa2b",
+            "0x4e474B76C3F09dfF4cC493802462E780C6515449",
+            "0xC64Ed730e030BdCB66E9B5703798bb4275A5a484",
+            "0xb4d9bfAC70c046801811c7DcC32958d67B78da1f",
+            "0x504b0B9B2fa7fEb434820058061f73E7e86ed38A",
+            "0xc8eefb8b3d50ca87Da7F99a661720148acf97EfA",
+            "0x2fa92128ecE3901395448bf62Dd5Ff6a35871540",
+            "0xED86C97bf64c4A82cD51004e559B356A0275abAA",
+            "0x6ef71cA9cD708883E129559F5edBFb9d9D5C6148",
+            "0xe63aa29Be1a7303C72bF5D2F4526389597AD70C2",
+            "0xE56Edf928D813cA9D0530e6Bc893029E07C683C6",
+            "0xB936Ab7902A5d8083915c03f60eb0033678dA815"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "",
+        "twitter": "feiprotocol",
+        "categories": [],
+        "followersCount": 1528,
+        "proposalsCount": 132
+    },
+    {
+        "id": "figmentdao.eth",
+        "name": "Figment DAO",
+        "about": "Figment's Internal DAO ",
+        "avatar": "ipfs://Qmdpptr2NXeJ1C574t89qEb7EQpCANciYMmWAuEZKHnbBN",
+        "network": "1",
+        "symbol": "FIG",
+        "admins": [
+            "0x5bD2B53CB6B51B4Bda9A23Ef46B76A501AD12e63"
+        ],
+        "members": [
+            "0xB037e101f0bB41A24d69CBFF83F5e9D49e1528e0"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "Figment_io",
+        "categories": [],
+        "followersCount": 0,
+        "proposalsCount": 0
+    },
+    {
+        "id": "ffdao.eth",
+        "name": "forefront",
+        "about": "The Pulse of Web3 Social",
+        "avatar": "ipfs://QmV48NMcM4iocwjYT1Vfi18Q1NjgN4CFuENsmi75TTkQZM",
+        "network": "1",
+        "symbol": "FF",
+        "admins": [
+            "0xb592157cBCa197999C71a8F286a8e2df37A829c0"
+        ],
+        "members": [
+            "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+            "0x66ED3f0Dc9e3678315d3232F3be7d9390a0904e6",
+            "0x70eCe45cDc64A768f936Ccb8aC851578251363e3",
+            "0x28894b7e35620A63d296D4593CbbE4c493Cf58a3",
+            "0xFF8eEB643C5bfDf6A925f2a5F9aDC9198AF07b78",
+            "0xb592157cBCa197999C71a8F286a8e2df37A829c0"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": "https://forefront.market",
+        "github": null,
+        "twitter": "forefront__",
+        "categories": [],
+        "followersCount": 411,
+        "proposalsCount": 24
+    },
+    {
+        "id": "freerossdao.eth",
+        "name": "FreeRossDAO",
+        "about": "",
+        "avatar": "https://pbs.twimg.com/profile_images/1471703239204638720/76xhDboy_400x400.jpg",
+        "network": "1",
+        "symbol": "FREE",
+        "admins": [
+            "0xd7DBF2D550400c60C92B7cB1Ae0E7cAb42931Bdc",
+            "0x1393DA76a33d128ec89AB11E77c123D128B3DE0d",
+            "0x1d4B9b250B1Bd41DAA35d94BF9204Ec1b0494eE3",
+            "0x2eB5e5713A874786af6Da95f6E4DEaCEdb5dC246",
+            "0x955B6F06981d77f947F4d44CA4297D2e26a916d7",
+            "0x9E64B47bBdb9c1F7B599f11987b84C416C0c4110",
+            "0xfAf8fE022d6F9A07a4cfeA21C9AC31160fE1146F",
+            "0xfe5E90ba7cDAaDba443C0C27010eB1D51327EaFb",
+            "0x00029d35CB7aE09D38037355a046791D7b5E1645"
+        ],
+        "members": [
+            "0xd7DBF2D550400c60C92B7cB1Ae0E7cAb42931Bdc",
+            "0x1393DA76a33d128ec89AB11E77c123D128B3DE0d",
+            "0x1d4B9b250B1Bd41DAA35d94BF9204Ec1b0494eE3",
+            "0x2eB5e5713A874786af6Da95f6E4DEaCEdb5dC246",
+            "0x955B6F06981d77f947F4d44CA4297D2e26a916d7",
+            "0x9E64B47bBdb9c1F7B599f11987b84C416C0c4110",
+            "0xfAf8fE022d6F9A07a4cfeA21C9AC31160fE1146F",
+            "0xfe5E90ba7cDAaDba443C0C27010eB1D51327EaFb",
+            "0x00029d35CB7aE09D38037355a046791D7b5E1645",
+            "0x7bfca252bff95f218eca93f5d042b85d7195fa6a",
+            "0xe5b04a92f29e753ac98e0fbbe5be13bd6f448d67"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "FreeRossDAO",
+        "categories": [
+            "grant",
+            "service"
+        ],
+        "followersCount": 307,
+        "proposalsCount": 14
+    },
+    {
+        "id": "fuji-dao.eth",
+        "name": "FujiDAO Pre-governance",
+        "about": "Snapshot Space dedicated to FujiDAO pre-governance surveys.",
+        "avatar": "ipfs://QmQE32hXckZvcnTv7RYnjWvqZuhnpheEwcsfKzp8fZZgy3",
+        "network": "1",
+        "symbol": "fjFlops",
+        "admins": [
+            "0xEeD0E86fab975DfE0950940CcEBF700E05ca03f9",
+            "0x96A82d7A437028Afa84775edD042E8C3C7a534Ca",
+            "0xCD47BD603cfA4D06E776D3e5b2E56122D34dA807"
+        ],
+        "members": [
+            "0x33A875bD262C5cACAa1245ed8AC9734973da6108",
+            "0x5E26F32454EF6219b48AE556ECc58279b033E506",
+            "0xEA7D443EcB40E2189d674256DfF3CC32b35C1430",
+            "0x3B7eB1e9CEd7d8c78E8A9b2D591dbc20FC42A1bC",
+            "0x078E88E465f2a430399E319d57543A7A76E97668",
+            "0x055A875cD844f04a2C2Ee1BB72999D7E7b40761d",
+            "0xEDF7b675a2fE3c27efb263fb4c204A3f0fb17D46",
+            "0x47547895218274e121E4219A3fD23235377A9903",
+            "0x4902b20bB3B8e7776CBcDCB6e3397E7F6b4e449E",
+            "0x0da46E79374f20235F62Cb91f6eDBa35245A3a84",
+            "0x056590F16D5b314a132BbCFb1283fEc5D5C6E670",
+            "0x5f350bF5feE8e254D6077f8661E9C7B83a30364e",
+            "0x18637e9C1f3bBf5D4492D541CE67Dcf39f1609A2",
+            "0x31fE8439F34ed04514288a6f0F19f26c647Cd6aD",
+            "0xF4880975728EE25A96C701c225c9EF58Eebe5a5b",
+            "0xFC902A0eb16161901a91368cabD9B5005555a162",
+            "0x797BC498EdEE4357a16a1054dB0323CbD04C84c3",
+            "0x0702F00bD689eE782D5c9a9DeDF1c7039F610f95",
+            "0x7711A9a7Da504edF800Fe80f7E52A3aA33DAD07a",
+            "0x14D92832265eeAFDEF9e526356FEfc90105966c3",
+            "0xcb02c5065946D127d701E9b93802db4B8bE1C52F",
+            "0x8eBed0FF2B0232B0AedbFe6e9c0f72AC72577869",
+            "0xa8bF0cD4D76D92Cb345e81999029f3174A219305",
+            "0xbde901046e67708c571CFfa4af722ba6993F2Cf2",
+            "0x262fa5a227a463f5263FeCFE01Ff47B1d2F7bB86",
+            "0xa2D20dB48709De22E407655cb6406fD7AC2717a9",
+            "0x0D08E4b40064fbBebD3d70d56b4Da0315C92E4D3",
+            "0xA161aF0E1AB3DBDA1f8085b489350fB0Df64a51E",
+            "0xa7b5BEA843C129F565Ab1240b6CBB47f39361246",
+            "0xeD2EE0A646B7fd9cD5795ca09ac5A6ffC1761A90",
+            "0x5DE8Ac0d4e700821b55E848c4ac2d4467D8a38C0",
+            "0x6583c05d4B6c77CF6928d80e824aC3C4CA79142A",
+            "0xedb5A8730755e3A701621b922dAFC9908602BB94",
+            "0xf1eE2Ac3b3478F5FF86e8be64222987139ad515b",
+            "0xfEa04B2B2a3480658291199c7d14916151E3464d",
+            "0xA98862a73b69946F8daD60BF6DB9AAbE86480377",
+            "0xEfF7292DF948148394F85c2B659b2732b0948683",
+            "0xE1510a9c968FD1b4B73ecE06dc3A6567e6155a38",
+            "0xF7abF6DE7f26fb95c783263F5d02B571BBaCB2A4",
+            "0xe12462eEBcD5436F3B098aC341811084C67c2682",
+            "0x932Ae65a2ee0fAa85062C970278AC0F707C893F3",
+            "0x746E621e9aa6AE538F98E734a65e540Dd98Dfc95",
+            "0x353635D152d622C61a991C177C32E20A575164EC",
+            "0xC06964266aef6366440d7DF544a70fa1a8960851",
+            "0xF6B8A2D2E7ecDC13B265BA0BF3b56d173401eA44",
+            "0xd35225De9af2Ca02D325118a57b0d5AD2D5fB16f",
+            "0xE9Ee1adA09599090840a4e15D7278aF5b338443C",
+            "0xD8f813Ec49bc39Bb52BA0817eC9BD6a8E653B760",
+            "0xF287148C549A41E0f64ad816DB4204325eAC6F23",
+            "0x9C5957440D9944890b06DB9654801F832DD7E5b2",
+            "0xa91f68edb71bcB923707cB5A9731955D435Ec851",
+            "0x45eBC736090424b36106c4A29714B10bB19A5C72",
+            "0x884B2737F355E1Ae0C88609c10BF7BC2f761f815",
+            "0xCCa11A8EdB05D64a654092e9551F9122D70EA80e",
+            "0x19dfdc194Bb5CF599af78B1967dbb3783c590720",
+            "0xc6C8AeCb1d9cA59A09d691cDa8539992655dbfB3",
+            "0x60f931EE0Ad1b80242F26B624722a0734ac26db2",
+            "0x010922A3A9e3DabcF6019581F4698a5c53202394",
+            "0xdac959196d0c87b5F285CF259Ff7d615F7071235",
+            "0xDB687064091B8D2df1A02273411a03B707e20003",
+            "0x49C233D25768E462F0474390F653BAF40DD592b2",
+            "0xE38F383DbA802c0C45A127F96354c077DdEe886f",
+            "0xC77FA6C05B4e472fEee7c0f9B20E70C5BF33a99B",
+            "0xA8EbE6DcDa66bB74a8DB994554d2Ad277cb54aDa",
+            "0xcd43AaD533e663b726DAe4a08185E9db8eBC9f6F",
+            "0x05eBf7B089a859af295B4F4D96673eDcB5ef6621",
+            "0x2AFaB81b50410596Dcf6c290F1DC8344518E9970",
+            "0xa9702237c06498a538aa60B1892f3e8500f97451",
+            "0x392027fDc620d397cA27F0c1C3dCB592F27A4dc3",
+            "0xd82Fd7fbFc8634C942d53993c9317Fe57CecA11F",
+            "0x07f67cF4b8BFA3A1117CB802cCb9B54687c48047",
+            "0xa89B35494dd78814052b487B7a71D1Fb280c0aFD",
+            "0x5e25c391810eE5Bc705c87FB51c368612982D57a",
+            "0xB4394f3DeaB6D7A9d27fB542EAfacc32c3C01076",
+            "0x79b1A32EC97537486E75d99850BD56ECfA09D643",
+            "0xE03fEa52f36c443fd7E9625aEA713a8461c180db",
+            "0xa1C7bd2e48f7f3922e201705f3491C841135F483",
+            "0x8f82808FD5cE99C4E34b56078ea55E244e34773c",
+            "0xD1C76d57aeec45c17FB313A45a03b5c527B62174",
+            "0xB5304935df1D3F810932666B708451F55F143913",
+            "0xa195D95a0f1A6A0c7414159B2b28E23E9f550Fb4",
+            "0x171E86C5848cfDDab768E9C2f1F591435d5315c9",
+            "0xc97239fda221124DCDac5612B45C208163c1D4f3",
+            "0xf8e6f23f18a04Bfd481cE71ac894488568285f1b",
+            "0x9C3E169E4885E3F720Bc34337ceC3b6b11AAE254",
+            "0x7E8ecCb534108cD2e4975267069e9Fc493E0304B",
+            "0xB290Fd44A628A21FCCBf6347668D80dE4177dA42",
+            "0x4034E70f8D84e3ac931f4c6771DA1DCEA1DDCf53",
+            "0x466AcfF01de5D7a9C8a9cE9744618bb717E25A3B",
+            "0xCa9ba74eE20917211ef646AC51ACcc287F27538b",
+            "0x3E8a5eF9c182bff3F3c171FffaCc14E110281B30",
+            "0x074AD9Ec101d680d480BF70841124D32d8b2664A",
+            "0x09b412eBBf9B2F40fB3419ff96b84B9A8EC3Df89",
+            "0xDff6fF5d17097fC8DC038606cC68581fc0634a4C",
+            "0x6be9a7100df73E81855c34497bfE17015291D5a2",
+            "0x181cb9866F4d0489163c588DaDc084768e3B7012",
+            "0x22f6EDb55790B0Fe841C5BA9aa30792ebcB55863",
+            "0x38Dd4D1Cf82B0943d1ED300A792900D252e21921",
+            "0xDFE2b668c6D4a3FA785f86cB2c64E54E30c16cb0",
+            "0x90C941b9eF1B662165b8c0Ff3d08Ce4B0E697fAB",
+            "0x61751BC401f4EABe10A238661B4A60ba84910059",
+            "0xb730d3908B9B83aC4d876Ae5c70AA9804f39694a",
+            "0x452671bB51A1aB67364515988dbbFeE08A3e4EdE",
+            "0xdc826aC58A5FA9f4F35aad8ad6b679Fa2f9fD6dd",
+            "0x805Ba02F89C4C9ce6701eb502ebBBe19941e306F",
+            "0x9FEF86F76af2b459BBbb137918f8e589dB683381",
+            "0x0825e50EA7160Af9962Db0ce5b344EB9ADFaCb28",
+            "0xf17441352d36a537c36dB7782B7f08651fbBD86F",
+            "0x601091af1314491f4E3088f8f0FfF80D31Fb0E1e",
+            "0xb5EDE9893FcCd62a110fd9D0CcE5C89418a8540b",
+            "0x652151c8521A46bEA762624726214FADd2e666Cc",
+            "0xE9ace2d977Ae6aCA0258869B4Fdb291892cb9e81",
+            "0x3E82Fa55cEEe581130890728F14BFCC2653C8D29",
+            "0xB242F48A246A4fec2e5ea8731f9ec7cC2EdA5c7B",
+            "0x81b15c11fD0C736399485307FAecd13bdd58185d",
+            "0x39a37f1AF1e1731E5777CA3C64758Ce43Dd1755A",
+            "0x19C1Af9D0eF7c4740e4a09854f7B750dEDd1a387",
+            "0xF8E58BB6d7897441C2B39D0FDF4D72A2635d8F0a",
+            "0xE214B8255999BCd69026D6AB54C7715850dd5290",
+            "0x47D7bd5e7A23cD5A9A0cDEeDC86F34182c402920",
+            "0x1Cb86Ee06CD27d7045D2849BF342FcF5ef2a7D12",
+            "0x000c9D05B64167cc59aD776c2032C736a4d6e8Ee",
+            "0xb7d49ADB031d6DBDF3E8e28F21C6Dd3b6f231cD5",
+            "0xcd2c1e27CB06317BD72034EbE670C35aD6f898c7",
+            "0xDd51211D4242961E5A27fFc76F2C15bd07971ce0",
+            "0x7DC738DCA553FB47a630229e6B24FACA09997E86",
+            "0xAEa87C4082beFb4bDb1B7549c3CA50A2da124ed4",
+            "0x59F90054b83E1eC6E344ce6aaa606CEe340196F1",
+            "0x22BE274CBcFff80CFD82853E8Bb9C483108D8a2c",
+            "0x633A2b4385aE16fcdb0C3e87Bb88DA73437435Ac",
+            "0x558042d6dA568Be44d292d0c748f7D722abF363A",
+            "0x71D8472C58D77F2220C333149BdF8b843C314E99",
+            "0xBe289902A13Ae7bA22524cb366B3C3666c10F38F",
+            "0xe160A7499D4079a91c0Bb718059dDEcC31aE078D",
+            "0x01931f29d44C2a2B47391062239913BDab72a8F7",
+            "0x27D23DDE3573D27f80B8bf7311f8403246FA48Be",
+            "0x5cd313f6defd02dA3ceb91845bFa492FF8bD8817",
+            "0x679B4172E1698579d562D1d8b4774968305b80b2",
+            "0xc7e4cA65590E5D0630F5fdE7Ca5A0BB880522391",
+            "0x7F3CB062F1D22E40Af9E9EFD2Fc7e9E59a6b7c00",
+            "0x2e12ee84a1Fd7746B5b3c47424763A02132993e2",
+            "0xC24679ce898676e0cBEcc1E5c216C5619feaa255",
+            "0x68F593572402632C724bc2d2fCa05e91541269F3",
+            "0xb90781Ceb500f80A9c101225eD5451449a3Aa5bc",
+            "0xA8872C29Fcc8B2fffa610f0717F98C8bB6e119fF",
+            "0x7F2466ae8bADee7Dc0109Edd0b6Dde08C432236c",
+            "0x000f4432a40560bBFf1b581a8b7AdEd8dab80026",
+            "0x722E895A12d2A11BE99ed69dBc1FEdbB9F3Cd8fe",
+            "0xF3ea8A7880b45f6D553749d03c51d88af79aDA6E",
+            "0xEC63913528365fc4B845df57171b63D71eC68442",
+            "0x4A4b673A5e61fD895717Fc887F20D2c0F0F201d6",
+            "0x5b295AA92ddD008D4042773E8DF91A9F848ebC58",
+            "0x4f855Cd9c9e47890ED7E394379E7ad5cE048dDd9",
+            "0xf8df9716c5b83d02F09a34E9d62C9e22F62C616C",
+            "0xbACAF16F83ea0511123D937bBE83480d6eeBC118",
+            "0x79dBa1d434c26746B21233d3a46660523FB934A0",
+            "0x4b1C21C93Ff275Cbe80Eed552964dA91d5eBafb3",
+            "0xa473855ec37a981a4FaBAa196A1D536AB904e674",
+            "0x68cdD84267c53882271a93221a18FE5515fb8921",
+            "0xD6ccfDf5cC9aB482eE1d6b8D29904f2D08420Abf",
+            "0x7c67Ec08525672a4703c51125709DEe33C24A240",
+            "0x0FD2Cf82D6D0131233b4793BdEeAc02e76A16207",
+            "0xCa253fE65D86E0a1848864184C170FaaC021F862",
+            "0x4B188a3c642762c21d6bDeb44819c40a61873Dc1",
+            "0x9BdFAeB9CB28DC05b09B37c0F14ECBc9A876CEe0",
+            "0x3E1daf2C9477D7b0C9E8500180e80D7Ef93584d8",
+            "0x3D4f5869abfb38EF6a8E7350060d0b9c58d36776",
+            "0xaDAe85E5438e81AE5F272A394EF9B0E8d8152185",
+            "0xca8937ccfd9486A69e1299184ee39f50B098d1F4",
+            "0x9EB1a1f5252fC6cDC857497e883a4500b88c04BE",
+            "0x455Ca2eEEB67bd243993C58Afea5268F2af9de9A",
+            "0x3D764EF787cb2D5A4326EFB126b3C87C41dea03E",
+            "0x451B6B19E0B84730c0306628fFf4BE7A9509affd",
+            "0xD0c5817fc7989fDc13cf8E4E0c53948BA4E9eC9f",
+            "0xC74B2EC0fF1a0F37Dc9F88B476a45941cF28a473",
+            "0x7F57AD6d2FEad3609A541e9EeCE99b0474784c51",
+            "0x7e4D4C3F1e36CD5E3E1f933Efd4A88f5b27e49FA",
+            "0xcDAF5Fd2a2D199B9C8E05f7C7079A1E4bbC87fDd",
+            "0xA547478BdfA44eAA7650905fe95034187C3dc96D",
+            "0xc645303a36d7313f1414250DdfDdD58A972e1a35",
+            "0x74a191ff18e99A7eB7c6E58269ABBD9a86a5D930",
+            "0x17256EC32f4c6759582f4d272D92Ef68F6d3004C",
+            "0xa7073ca54734faBa5aFa5F1e01Cd31a03Ff7699F",
+            "0x7F2204F49157651F314395F4703622E3FDC8DF4E",
+            "0x1A918A8386F75f382E2A1b2e10b807c39728caf2"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "fuji-protocol",
+        "twitter": "FujiFinance",
+        "categories": [],
+        "followersCount": 441,
+        "proposalsCount": 1
+    },
+    {
+        "id": "gelato.eth",
+        "name": "Gelato",
+        "about": "Gelato DAO",
+        "avatar": "ipfs://QmVHV8tspoHoQtqFVjHdrG17k74CyLvUhd88y8Kt4y7bma",
+        "network": "1",
+        "symbol": "GEL",
+        "admins": [
+            "0xAabB54394E8dd61Dd70897E9c80be8de7C64A895",
+            "0x6a0A93Cd6d6FB7a36bF6234ef4650Bf9474e7682",
+            "0x2F354a9EadcdEadcbb102Ab56d52A43DF52197dd",
+            "0x8d0f1Afc37f6b4C2119362f3F0A98c65941C998F"
+        ],
+        "members": [
+            "0xAabB54394E8dd61Dd70897E9c80be8de7C64A895",
+            "0x6a0A93Cd6d6FB7a36bF6234ef4650Bf9474e7682",
+            "0x2F354a9EadcdEadcbb102Ab56d52A43DF52197dd",
+            "0x8d0f1Afc37f6b4C2119362f3F0A98c65941C998F"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "gelatodigital",
+        "twitter": "gelatonetwork",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 201,
+        "proposalsCount": 6
+    },
+    {
+        "id": "safe.eth",
+        "name": "SafeDAO",
+        "about": "",
+        "avatar": "https://aws1.discourse-cdn.com/standard20/uploads/gnosis_safe/original/1X/175f55ca5dfa29e9322ebc0d8aa73f11e6fde6db.png",
+        "network": "1",
+        "symbol": "SAFE",
+        "admins": [
+            "0x2408F8a0475D3823A1F4A4bfD86B2a4B80E6eDB6",
+            "0xe5cd046b5c6e5e93809bfa2cb2cc1b003e121346"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://forum.gnosis-safe.io/",
+        "github": "safe-global",
+        "twitter": "gnosisSafe",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 12,
+        "proposalsCount": 0
+    },
+    {
+        "id": "goldfinch.eth",
+        "name": "Goldfinch",
+        "about": "Goldfinch is a decentralized credit protocol that brings crypto loans to the real world. ",
+        "avatar": "ipfs://QmPsm6xTYcC7WHm5Rzu214gkCnUCab9jXe1z3cqCrMDrcR",
+        "network": "1",
+        "symbol": "GFI",
+        "admins": [
+            "0xf13eFa505444D09E176d83A4dfd50d10E399cFd5",
+            "0x5E7b1B5d5B03558BA57410e5dc4DbFCA71C92B84",
+            "0x3d80cF9013eFAC1F41BBE1A4eAd839fA0cCb33c3",
+            "0xE0eb19E78C145914d93F1EacCb340F55f1dAd6f3"
+        ],
+        "members": [],
+        "plugins": {
+            "commentBox": {}
+        },
+        "email": null,
+        "website": "https://goldfinch.finance/",
+        "github": "goldfinch-eng",
+        "twitter": "goldfinch_fi",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 257,
+        "proposalsCount": 27
+    },
+    {
+        "id": "goopsnapshot.eth",
+        "name": "GOOP TROOP",
+        "about": "",
+        "avatar": "ipfs://QmfHw1Sm3qZEVJ3himGe5TacW1UC52rkFieaseJQRRBpox",
+        "network": "1",
+        "symbol": "GOOP",
+        "admins": [
+            "0x08D816526BdC9d077DD685Bd9FA49F58A5Ab8e48",
+            "0x38a4d889a1979133fbc1d58f970f0953e3715c26",
+            "0x3cE99cF4c97D44F3a91E2964CA38CD499FC990EB",
+            "0xBDC4A5c0ff7275736cAd102C7408555FB5D6c495",
+            "0x91dCCAA260CC4616E1a6e6b693DB7207C5E42937",
+            "0x7249d2Cdb2082252fb9D4Fcb5a5b35d78783390F"
+        ],
+        "members": [
+            "0x418C22f23a5c27e7237cdF306DfE289340d8cB1f",
+            "0x91dCCAA260CC4616E1a6e6b693DB7207C5E42937",
+            "0x7249d2Cdb2082252fb9D4Fcb5a5b35d78783390F",
+            "0xce6404642bB08f897FCe5317C1349656ca44f2D8"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "goopdao",
+        "categories": [],
+        "followersCount": 339,
+        "proposalsCount": 73
+    },
+    {
+        "id": "proofofexistance.eth",
+        "name": "GDAO Original Voting Snapshot",
+        "about": "Governor DAO's Biometric Sybil Resistance Solution obtained from https://onlyoneme.governordao.org",
+        "avatar": "ipfs://Qmb8QmqWf4ANy8picb8h4YimNRsR2J9w6gLzPSstSuHvAB",
+        "network": "1",
+        "symbol": "Votes",
+        "admins": [
+            "0xD8c84eaC995150662CC052E6ac76Ec184fcF1122",
+            "0x821ACf4602B9D57Da21DEE0c3Db45e71143c0B45",
+            "0x37A6156e4a6E8B60b2415AF040546cF5e91699bd"
+        ],
+        "members": [
+            "0xD8c84eaC995150662CC052E6ac76Ec184fcF1122",
+            "0x37A6156e4a6E8B60b2415AF040546cF5e91699bd",
+            "0x615aeb5E0e9478F42a10B3158ebB838032bE5e4c"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://governordao.org",
+        "github": "Governor-DAO",
+        "twitter": "Governor_DAO",
+        "categories": [
+            "protocol",
+            "service"
+        ],
+        "followersCount": 10,
+        "proposalsCount": 9
+    },
+    {
+        "id": "proofofexistence.eth",
+        "name": "GDAO Proof of Existence",
+        "about": "Governor DAO Proof of Existence Verified Voting! Governor DAO's Biometric Sybil Resistance Solution obtained from https://onlyoneme.governordao.org",
+        "avatar": "ipfs://Qmb8QmqWf4ANy8picb8h4YimNRsR2J9w6gLzPSstSuHvAB",
+        "network": "1",
+        "symbol": "Vote Weight",
+        "admins": [
+            "0xD8c84eaC995150662CC052E6ac76Ec184fcF1122",
+            "0x821ACf4602B9D57Da21DEE0c3Db45e71143c0B45",
+            "0x37A6156e4a6E8B60b2415AF040546cF5e91699bd"
+        ],
+        "members": [
+            "0xD8c84eaC995150662CC052E6ac76Ec184fcF1122",
+            "0x37A6156e4a6E8B60b2415AF040546cF5e91699bd",
+            "0x615aeb5E0e9478F42a10B3158ebB838032bE5e4c"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://governordao.org",
+        "github": "Governor-DAO",
+        "twitter": "Governor_DAO",
+        "categories": [
+            "protocol",
+            "service"
+        ],
+        "followersCount": 12,
+        "proposalsCount": 10
+    },
+    {
+        "id": "gro.xyz",
+        "name": "Gro",
+        "about": "Gro governance",
+        "avatar": "ipfs://QmQZrGJu9HA7ZJkoSLksyDs2w9fQXx2S3JnV4StMqZbuQy",
+        "network": "1",
+        "symbol": "GRO",
+        "admins": [
+            "0x3c1F2E6Ec3De7811E2daa2B8E132CdCd8e39851c",
+            "0xcf6e48259768032f5c16d431ba61f6ebe269853f"
+        ],
+        "members": [
+            "0x3c1F2E6Ec3De7811E2daa2B8E132CdCd8e39851c",
+            "0xcf6e48259768032f5c16d431ba61f6ebe269853f",
+            "0xAd26AD8FC14cD9115e9FAB9213B8B7c3e08Cf850"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "groprotocol",
+        "categories": [],
+        "followersCount": 489,
+        "proposalsCount": 34
+    },
+    {
+        "id": "gro.xyz",
+        "name": "Gro",
+        "about": "Gro governance",
+        "avatar": "ipfs://QmQZrGJu9HA7ZJkoSLksyDs2w9fQXx2S3JnV4StMqZbuQy",
+        "network": "1",
+        "symbol": "GRO",
+        "admins": [
+            "0x3c1F2E6Ec3De7811E2daa2B8E132CdCd8e39851c",
+            "0xcf6e48259768032f5c16d431ba61f6ebe269853f"
+        ],
+        "members": [
+            "0x3c1F2E6Ec3De7811E2daa2B8E132CdCd8e39851c",
+            "0xcf6e48259768032f5c16d431ba61f6ebe269853f",
+            "0xAd26AD8FC14cD9115e9FAB9213B8B7c3e08Cf850"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "groprotocol",
+        "categories": [],
+        "followersCount": 489,
+        "proposalsCount": 34
+    },
+    {
+        "id": "handlefx.eth",
+        "name": "handle.fi",
+        "about": "the global defi FX protocol",
+        "avatar": "ipfs://QmWjYAPEy8TpeoWc7mYJThgqEC31zCN5tMkL8Sf1XudA2M",
+        "network": "42161",
+        "symbol": "FOREX",
+        "admins": [
+            "0x91f3BE13569E134CBccd5Bb33bd3eEdD41Cf71ba"
+        ],
+        "members": [
+            "0x91f3BE13569E134CBccd5Bb33bd3eEdD41Cf71ba"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "handle_fi",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 16,
+        "proposalsCount": 0
+    },
+    {
+        "id": "hashflownetwork.eth",
+        "name": "hashgang",
+        "about": "hashflow",
+        "avatar": "https://raw.githubusercontent.com/snapshot-labs/snapshot-spaces/master/spaces/hashflownetwork.eth/space.png",
+        "network": "1",
+        "symbol": "HFT",
+        "admins": [],
+        "members": [],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "hashflownetwork",
+        "twitter": "hashflownetwork",
+        "categories": [],
+        "followersCount": 1,
+        "proposalsCount": 0
+    },
+    {
+        "id": "hinatadao.eth",
+        "name": "Hinata Foundation",
+        "about": "The first anime NFT DAO. This space is for on-chain governance proposals and votes related to the creation and management of Hinata platform",
+        "avatar": "ipfs://QmbkfkDgYUqRSmEuQrXHYXi5rtzUrAyouRmiMHa37UZesi",
+        "network": "1",
+        "symbol": "WAIFU",
+        "admins": [
+            "0x7D2498A05f2C6d6d53db8dFb5826e279012996EB",
+            "0xbDc2BD2A0011d918CAbb389ae739212C46e0eE91"
+        ],
+        "members": [
+            "0x7D2498A05f2C6d6d53db8dFb5826e279012996EB",
+            "0xbDc2BD2A0011d918CAbb389ae739212C46e0eE91"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.hinata.io",
+        "github": null,
+        "twitter": "hinataio",
+        "categories": [
+            "creator",
+            "service"
+        ],
+        "followersCount": 191,
+        "proposalsCount": 4
+    },
+    {
+        "id": "hinatadao.eth",
+        "name": "Hinata Foundation",
+        "about": "The first anime NFT DAO. This space is for on-chain governance proposals and votes related to the creation and management of Hinata platform",
+        "avatar": "ipfs://QmbkfkDgYUqRSmEuQrXHYXi5rtzUrAyouRmiMHa37UZesi",
+        "network": "1",
+        "symbol": "WAIFU",
+        "admins": [
+            "0x7D2498A05f2C6d6d53db8dFb5826e279012996EB",
+            "0xbDc2BD2A0011d918CAbb389ae739212C46e0eE91"
+        ],
+        "members": [
+            "0x7D2498A05f2C6d6d53db8dFb5826e279012996EB",
+            "0xbDc2BD2A0011d918CAbb389ae739212C46e0eE91"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.hinata.io",
+        "github": null,
+        "twitter": "hinataio",
+        "categories": [
+            "creator",
+            "service"
+        ],
+        "followersCount": 191,
+        "proposalsCount": 4
+    },
+    {
+        "id": "honeydao.eth",
+        "name": "Honey DAO",
+        "about": "",
+        "avatar": "ipfs://QmYXkZhPASzCT4C65X2G9fARcbwtVDBZkr5QLHBLsR1237",
+        "network": "137",
+        "symbol": "HONEY",
+        "admins": [
+            "0xa156DB594f1376b12Bc0Ea756773083d0FD22cF2"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "HoneyDAO",
+        "twitter": "HoneyDAO_",
+        "categories": [],
+        "followersCount": 101,
+        "proposalsCount": 33
+    },
+    {
+        "id": "v01.hopr-dao.eth",
+        "name": "HOPR DAO v0.1",
+        "about": "Phase 3 of the first HOPR DAO governance experiment will begin shortly.  A snapshot will be taken at block 12503362. More information: https://bit.ly/3feFCcb",
+        "avatar": "",
+        "network": "1",
+        "symbol": "HOPR",
+        "admins": [
+            "0xD7682Ef1180f5Fc496CF6981e4854738a57c593E"
+        ],
+        "members": [
+            "0x8f7a2abbc8741572427e3426538cd516a41102f3",
+            "0x075B0a6B4eD9D61e491188647E472369EEe08393"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "hoprnet",
+        "twitter": "hoprnet",
+        "categories": [],
+        "followersCount": 11,
+        "proposalsCount": 1
+    },
+    {
+        "id": "v02.hopr-dao.eth",
+        "name": "HOPR DAO v0.2",
+        "about": "The second HOPR DAO governance experiment!",
+        "avatar": "ipfs://QmU8SoPvC83XfPw8x12zL2gNmevi1msxsZ6bJHtp1qqe2Y",
+        "network": "100",
+        "symbol": "HOPR",
+        "admins": [
+            "0xD7682Ef1180f5Fc496CF6981e4854738a57c593E",
+            "0x273D4e93eeEf5a494206c072ffF70f6Ea7D7afC4",
+            "0xb087D21AAFEBd7148C5506d037De6bE8b066c069"
+        ],
+        "members": [
+            "0xD7682Ef1180f5Fc496CF6981e4854738a57c593E",
+            "0x273D4e93eeEf5a494206c072ffF70f6Ea7D7afC4",
+            "0xb087D21AAFEBd7148C5506d037De6bE8b066c069"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "hoprnet",
+        "categories": [],
+        "followersCount": 180,
+        "proposalsCount": 2
+    },
+    {
+        "id": "v03.hopr-dao.eth",
+        "name": "HOPR DAO v0.3",
+        "about": "The third HOPR DAO governance experiment!",
+        "avatar": "ipfs://QmU8SoPvC83XfPw8x12zL2gNmevi1msxsZ6bJHtp1qqe2Y",
+        "network": "100",
+        "symbol": "HOPR",
+        "admins": [
+            "0xD7682Ef1180f5Fc496CF6981e4854738a57c593E",
+            "0x273D4e93eeEf5a494206c072ffF70f6Ea7D7afC4"
+        ],
+        "members": [
+            "0xD7682Ef1180f5Fc496CF6981e4854738a57c593E",
+            "0x273D4e93eeEf5a494206c072ffF70f6Ea7D7afC4",
+            "0xb087D21AAFEBd7148C5506d037De6bE8b066c069"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.hoprnet.org",
+        "github": "hoprnet",
+        "twitter": "hoprnet",
+        "categories": [],
+        "followersCount": 32,
+        "proposalsCount": 1
+    },
+    {
+        "id": "qvgame.hopr.eth",
+        "name": "HOPR DAO Voting Games",
+        "about": "An educational experiment to learn about quadratic voting and DAO coordination",
+        "avatar": "ipfs://QmU8SoPvC83XfPw8x12zL2gNmevi1msxsZ6bJHtp1qqe2Y",
+        "network": "100",
+        "symbol": "qvHOPR",
+        "admins": [
+            "0x273D4e93eeEf5a494206c072ffF70f6Ea7D7afC4",
+            "0x986E9e1bbd4D582C73aaD70DEDD8780EBA351D2A"
+        ],
+        "members": [
+            "0x273D4e93eeEf5a494206c072ffF70f6Ea7D7afC4",
+            "0x986E9e1bbd4D582C73aaD70DEDD8780EBA351D2A"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://t.me/hoprnet",
+        "github": "",
+        "twitter": "hoprnet",
+        "categories": [],
+        "followersCount": 131,
+        "proposalsCount": 11
+    },
+    {
+        "id": "vote.hopr.eth",
+        "name": "HOPR DAO v0.4",
+        "about": "Votes for HOPR DAO and Community Events",
+        "avatar": "ipfs://QmU8SoPvC83XfPw8x12zL2gNmevi1msxsZ6bJHtp1qqe2Y",
+        "network": "100",
+        "symbol": "HOPR",
+        "admins": [
+            "0x217a6d29ABbacEAfB36207b4cB25ACc148E1fc65",
+            "0x273D4e93eeEf5a494206c072ffF70f6Ea7D7afC4",
+            "0x2402da10A6172ED018AEEa22CA60EDe1F766655C"
+        ],
+        "members": [
+            "0x217a6d29ABbacEAfB36207b4cB25ACc148E1fc65",
+            "0x273D4e93eeEf5a494206c072ffF70f6Ea7D7afC4",
+            "0x986E9e1bbd4D582C73aaD70DEDD8780EBA351D2A",
+            "0x2402da10A6172ED018AEEa22CA60EDe1F766655C"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://t.me/hoprnet",
+        "github": null,
+        "twitter": "hoprnet",
+        "categories": [],
+        "followersCount": 70,
+        "proposalsCount": 6
+    },
+    {
+        "id": "impossiblefinance.eth",
+        "name": "Impossible Finance",
+        "about": "Impossible Finance is a decentralized incubator, launchpad, and swap",
+        "avatar": "ipfs://QmQTSTdBzpyVfosBYSBWMyyWw1UqazmKehvRP5jPdJrRPA",
+        "network": "56",
+        "symbol": "IF",
+        "admins": [
+            "0x31050aF1f1B26b6CBFd0eA277b775c268B7ECB07",
+            "0x7323B13669028780c6450A620064E30654a5Be2c",
+            "0x18DD9e6F8EA9cCaC88635209A6cf68648895a70b",
+            "0xe4aC28f2e211db0C23775219F374bcDF6eD1a8Ad",
+            "0x3C9584426432eb851e5689230d5cFc50659103D5",
+            "0x85511EB52e17c014A8665ED98B9ea79d4F2E30e2"
+        ],
+        "members": [
+            "0x5b3ed6068d0a16bb008d4f10d10f9f6eb84672a5",
+            "0x31050aF1f1B26b6CBFd0eA277b775c268B7ECB07",
+            "0x7323B13669028780c6450A620064E30654a5Be2c",
+            "0x18DD9e6F8EA9cCaC88635209A6cf68648895a70b",
+            "0xe4aC28f2e211db0C23775219F374bcDF6eD1a8Ad",
+            "0x3C9584426432eb851e5689230d5cFc50659103D5",
+            "0x85511EB52e17c014A8665ED98B9ea79d4F2E30e2"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "impossiblefinance",
+        "twitter": "impossiblefi",
+        "categories": [],
+        "followersCount": 182,
+        "proposalsCount": 15
+    },
+    {
+        "id": "index-coop.eth",
+        "name": "Index Coop",
+        "about": "",
+        "avatar": "ipfs://QmScWt1V1iZxgksiMX9DtTmj71GBBvUdV1DNAGbaLmHTKt",
+        "network": "1",
+        "symbol": "INDEX",
+        "admins": [
+            "0x0cf382951D8aD7933D5348F66684570c1d598011",
+            "0x03F623De8464124fEFF439A6BDB3f9793b6Ed34c",
+            "0x96EB65c02B0bc06E758bA916D3652b659ca2C671",
+            "0xc9A25aDCf11Fc7e6FC8d419F4D4C861B8d57eF37"
+        ],
+        "members": [
+            "0xB0Ff82C91178f66aA40224Abd425E2AC7AE28ceA",
+            "0xDefb844D4529c0F61bb1ee6a0d889058D66BB962",
+            "0x58430C50EAa0b399C2A228B9d28270C5C8Fe09A5",
+            "0xc95Fdee19b74bc9588F4888fB0762E83cfEF5d45",
+            "0x6d428208a3be587b914f8047851bcd561e0c6735",
+            "0x6A08aa7262D9b9370d650e93d213F3f60659F65C",
+            "0x5F95F82Bd8bc3ac51b00C95b944924Ec444F92Ca",
+            "0xD7E7bCA98ab9fB25e17ad73429e89A40B55708BE",
+            "0xc2971FE806CE4438dA09e21fC7be7FB121Cf7e13",
+            "0xC99ab7Ffa5a4CB9a06Ee68652fE74B6C59c67284",
+            "0xECbe3854B26750B301341BAD149185E55544aBA1",
+            "0x7f96a6269B00c56cdC319721be80bf8C290324a5",
+            "0xc72FF9aD631B4c73643c21fc20fD04F1b40Cf7Ad",
+            "0x981CaC16246D9641bE07BbA6E19E304b74B173BC",
+            "0xcDCF5D22BD56128f9299F28394037752B3BD7650",
+            "0xdcF167890d3f16F3D4CB1557F0979CF257d9DfFa"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.indexcoop.com/",
+        "github": null,
+        "twitter": "indexcoop",
+        "categories": [
+            "investment"
+        ],
+        "followersCount": 1067,
+        "proposalsCount": 430
+    },
+    {
+        "id": "indiedao.eth",
+        "name": "IndieDAO",
+        "about": "",
+        "avatar": "ipfs://QmYUaNxz8Rya3r6X9262beWfpuAXG7PX1XCcY8osW8yUfJ",
+        "network": "1",
+        "symbol": "INDIE",
+        "admins": [
+            "0xe0C695803a7cAEaF66d71cb76EA40f815AE465f2",
+            "0x99b9bB23D300Dda4A1dC9eb8d2333704b235c165"
+        ],
+        "members": [
+            "0xe0C695803a7cAEaF66d71cb76EA40f815AE465f2",
+            "0x99b9bB23D300Dda4A1dC9eb8d2333704b235c165",
+            "0xe1DEE1Ce90Ab7e5Ba7f25d3e1377c2c14c9f4833",
+            "0x6107E341e1F93aF3E32fdE1a104BD39FbAD1e30e",
+            "0xEB0545F8B921d0D685D4e08Fb4B6154355C97B5c",
+            "0x7cbea0146a9cc48fc0a04503c057c0a6689cb022"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "theindiedao",
+        "categories": [],
+        "followersCount": 19,
+        "proposalsCount": 16
+    },
+    {
+        "id": "ndx.eth",
+        "name": "Indexed Finance",
+        "about": "",
+        "avatar": "ipfs://QmW4oN8NarXq4Ax9yJuLW7EkDpk1t4A4pGV8HoZY6wM46P",
+        "network": "1",
+        "symbol": "NDX",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "indexed-finance",
+        "twitter": "ndxfi",
+        "categories": [],
+        "followersCount": 109,
+        "proposalsCount": 47
+    },
+    {
+        "id": "instadapp-gov.eth",
+        "name": "Instadapp",
+        "about": "The open source middleware platform for decentralized finance applications",
+        "avatar": "ipfs://QmSyHsE9UdAKqNTLsmi9yaAFvqzAefY5e1VsAHtigMcqid",
+        "network": "1",
+        "symbol": "INST",
+        "admins": [
+            "0x2888Eb67ac7ee9272FafD9277e60BD851B15e1B1",
+            "0x69F74540575B5973956a59dbc8C06c3D23B5a567",
+            "0xe866ecE4bbD0Ac75577225Ee2C464ef16DC8b1F3"
+        ],
+        "members": [],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "instadapp",
+        "twitter": "instadapp",
+        "categories": [],
+        "followersCount": 771,
+        "proposalsCount": 10
+    },
+    {
+        "id": "inversefinance.eth",
+        "name": "Inverse Finance",
+        "about": "",
+        "avatar": "ipfs://Qmd3tjMcDRpdUqaJCeQ31v3PuQk3oQQDhbeLCNjzP1cVJD",
+        "network": "1",
+        "symbol": "INV",
+        "admins": [
+            "0xb9F43E250dadf6b61872307396AD1b8bEBa27bCD",
+            "0x377Fb16aBd4A70D272BF40b5DfE40f3e973B3cee"
+        ],
+        "members": [
+            "0xb9F43E250dadf6b61872307396AD1b8bEBa27bCD",
+            "0x377Fb16aBd4A70D272BF40b5DfE40f3e973B3cee",
+            "0xC8A6fDd2586AF7980776DC610C159A92E9Db11C3"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "InverseFinance",
+        "twitter": "InverseFinance",
+        "categories": [],
+        "followersCount": 31,
+        "proposalsCount": 25
+    },
+    {
+        "id": "iotex.eth",
+        "name": "IoTeX Network",
+        "about": "",
+        "avatar": "https://cryptologos.cc/logos/iotex-iotx-logo.png",
+        "network": "4689",
+        "symbol": "IOTX",
+        "admins": [
+            "0x52465a74b9B1c2C2782c73015911C71c1EDcab69",
+            "0x2319fB270317Ed97132f6e35Ce831544d93A3920",
+            "0xFf003F0D751d3A71172F723fBBc4D262DD47adf0",
+            "0x2Ed3767CfCBCEb42ff5F3642d4DF6f851B947073",
+            "0xD2624B47B13f59299ad788739F965B8f8f93878f"
+        ],
+        "members": [
+            "0x52465a74b9B1c2C2782c73015911C71c1EDcab69",
+            "0x2319fB270317Ed97132f6e35Ce831544d93A3920",
+            "0xFf003F0D751d3A71172F723fBBc4D262DD47adf0",
+            "0x2Ed3767CfCBCEb42ff5F3642d4DF6f851B947073",
+            "0xD2624B47B13f59299ad788739F965B8f8f93878f"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "iotexproject",
+        "twitter": "iotex_io",
+        "categories": [],
+        "followersCount": 950,
+        "proposalsCount": 2
+    },
+    {
+        "id": "iotexlab.eth",
+        "name": "IoTeXLab Delegate",
+        "about": "A Genesis & Community Block Producer in the IoTeX Blockchain",
+        "avatar": "ipfs://QmTS4Axzww6YznjaNvZd4YjoXDcbbPSuePbWtBzDTABKtM",
+        "network": "4689",
+        "symbol": "LABT",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "iotexlab",
+        "categories": [],
+        "followersCount": 419,
+        "proposalsCount": 23
+    },
+    {
+        "id": "synthereum.eth",
+        "name": "Synthereum",
+        "about": "",
+        "avatar": "https://raw.githubusercontent.com/snapshot-labs/snapshot-spaces/master/spaces/synthereum.eth/space.png",
+        "network": "1",
+        "symbol": "JRT",
+        "admins": [
+            "0x03C2Bc72A3E007179E54fFb4563cc235beC8151a",
+            "0x685723B9dC89BDF28BA5F98F9A8c0aC899bD6E77"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "Jarvis_Network",
+        "categories": [],
+        "followersCount": 230,
+        "proposalsCount": 88
+    },
+    {
+        "id": "jennydao.eth",
+        "name": "Jenny Metaverse DAO",
+        "about": "Jenny is the first Metaverse DAO on Unicly",
+        "avatar": "",
+        "network": "1",
+        "symbol": "uJENNY",
+        "admins": [
+            "0x0eF024d299cb56805F2437Cd00b8A361a7B06D54"
+        ],
+        "members": [
+            "0x0eF024d299cb56805F2437Cd00b8A361a7B06D54"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "JennyMetaverse",
+        "twitter": "JennyMetaverse",
+        "categories": [],
+        "followersCount": 106,
+        "proposalsCount": 42
+    },
+    {
+        "id": "klimadao.eth",
+        "name": "Klima DAO",
+        "about": "",
+        "avatar": "ipfs://QmanLSGXVkELf4xihLyxiVL1Jv6QitALUW9pLc5i69i6t1",
+        "network": "137",
+        "symbol": "KLIMA",
+        "admins": [
+            "0x693aD12DbA5F6E07dE86FaA21098B691F60A1BEa"
+        ],
+        "members": [
+            "0x693aD12DbA5F6E07dE86FaA21098B691F60A1BEa",
+            "0xfa09ab0C96A37090e10706A0B5d95D1B1E81Fa4A",
+            "0x088e6beB2bb157940C44440578Cf07072eBa1Cd8",
+            "0x87740D326c3d3e369e6Bb282f164c16f3079704c"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://klimadao.finance",
+        "github": "KlimaDAO",
+        "twitter": "KlimaDAO",
+        "categories": [],
+        "followersCount": 2380,
+        "proposalsCount": 28
+    },
+    {
+        "id": "kogecoin.eth",
+        "name": "KogeCoin",
+        "about": "KogeCoin on Polygon Governance Portal",
+        "avatar": "ipfs://QmbGeKwVCYsPbDnw6TzZn2wqZ3Xh8f363uyqFh7HvTk9mn",
+        "network": "137",
+        "symbol": "KOGECOIN",
+        "admins": [
+            "0x16c686a511BdbC697860a4A3284fED9612D21c27",
+            "0x66382ac45B6d8Cb4f47685e28b61FBb5486817Ec",
+            "0x00482B66aa7a69c9982C030cd9627A86288fFA2D",
+            "0x2054BF4d3815266a9ca9A9f21B22dbAB6De228f7"
+        ],
+        "members": [
+            "0x00482B66aa7a69c9982C030cd9627A86288fFA2D",
+            "0xBc30796cEcE5F885c9817dde262800289EEd466E",
+            "0x2CA35B34d9734AF4f73bbf362Fb225de78467823",
+            "0x2f8c1e5EB9dB216934892c3DEd7178d7A1577aa9",
+            "0x2EF1fb8834C1397DD48e738A209Ca430745d3c4B"
+        ],
+        "plugins": {
+            "poap": {},
+            "commentBox": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "kogecoin",
+        "twitter": "kogecoin",
+        "categories": [],
+        "followersCount": 727,
+        "proposalsCount": 108
+    },
+    {
+        "id": "kong.eth",
+        "name": "KONG Land",
+        "about": "",
+        "avatar": "ipfs://QmbjThXq2hYxSXzDbsSVW8BDzd8byB1F8EyTgYQ36FgK7a",
+        "network": "1",
+        "symbol": "CITIZEN",
+        "admins": [
+            "0xAB35D3476251C6b614dC2eb36380D7AF1232D822",
+            "0xbdC95cA05cC25342Ae9A96FB12Cbe937Efe2e28C",
+            "0xdBa9A507aa0838370399FDE048752E91B5a27F06",
+            "0xB7B86a0Bcf5593449d8Cc5CA18B217DBa94BF5Dd",
+            "0x1dCD8763c01961C2BbB5ed58C6E51F55b1378589",
+            "0x50560bcac974e8ffb2ae2c359614623147a96105",
+            "0xb2e0f4dee26cccf1f3a267ad185f212dd3e7a6b1"
+        ],
+        "members": [],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "kong-org",
+        "twitter": "kongiscash",
+        "categories": [
+            "social",
+            "protocol"
+        ],
+        "followersCount": 76,
+        "proposalsCount": 4
+    },
+    {
+        "id": "kusgov.eth",
+        "name": "KuSwap",
+        "about": "Before adding a Snapshot make a proposal here ! https://gov.kuswap.finance/",
+        "avatar": "ipfs://QmdqdSugupy6XfD8U9yYe7A2CXYcmJrVczw3AMwvyiAcAD",
+        "network": "321",
+        "symbol": "KUSGov",
+        "admins": [
+            "0x0000000007c96AD6c9835204303c8fB35E48Ffc3",
+            "0x57583421ff389d60Ffe414182FDA6b1f9d528351",
+            "0x2eCBc9c2fDa2F023d96F934b8CF0B39B9399458e",
+            "0x9787c0dA554A2f872a773d445875d3136C336658"
+        ],
+        "members": [
+            "0x0000000007c96AD6c9835204303c8fB35E48Ffc3",
+            "0x57583421ff389d60Ffe414182FDA6b1f9d528351",
+            "0x2eCBc9c2fDa2F023d96F934b8CF0B39B9399458e"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://kuswap.finance",
+        "github": "kuswap",
+        "twitter": "kuswapfinance",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 176,
+        "proposalsCount": 21
+    },
+    {
+        "id": "kumainu.eth",
+        "name": "Kuma Inu",
+        "about": "",
+        "avatar": "",
+        "network": "1",
+        "symbol": "KUMA",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "KumaInuOfficial",
+        "categories": [],
+        "followersCount": 34,
+        "proposalsCount": 22
+    },
+    {
+        "id": "kyl.eth",
+        "name": "Kylin Network",
+        "about": "The Data Infrastructure for DeFi and Web 3.0 Powered by Polkadot",
+        "avatar": "https://raw.githubusercontent.com/Kylin-Network/kylin-web/master/kylin_logo.png",
+        "network": "1",
+        "symbol": "KYL",
+        "admins": [
+            "0x23e7cDb2E7dFce0b48312104F8e500D9e8F57b5C"
+        ],
+        "members": [
+            "0x23e7cDb2E7dFce0b48312104F8e500D9e8F57b5C"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "Kylin-Network",
+        "twitter": "Kylin_Network",
+        "categories": [],
+        "followersCount": 98,
+        "proposalsCount": 0
+    },
+    {
+        "id": "landshare.eth",
+        "name": "Landshare",
+        "about": "Landshare - Bringing Real Estate to the Blockchain",
+        "avatar": "https://i.ibb.co/2NdKX8y/Logo-3-PDF-file-1-1.jpg",
+        "network": "56",
+        "symbol": "LAND",
+        "admins": [
+            "0x75428617a0d47CDd6933d4376113019e035b6A89"
+        ],
+        "members": [
+            "0x75428617a0d47CDd6933d4376113019e035b6A89",
+            "0xB2E7C3eF8d3a76012AE89f2be0a93D7809dd9f10"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "landshareio",
+        "categories": [],
+        "followersCount": 212,
+        "proposalsCount": 6
+    },
+    {
+        "id": "leaguedao.eth",
+        "name": "LeagueDAO",
+        "about": "LeagueDAO is a decentralized open-source project building tokenized fantasy sports.",
+        "avatar": "ipfs://QmVJ9Neaj3GEG9HYbYbzaWSuan9327MoScgKV2i7iwozsr",
+        "network": "1",
+        "symbol": "LEAG",
+        "admins": [
+            "0x5FBd8AE80e26D82922f69aa51A99737dCd748f12",
+            "0xd794CCD4A5cB914aF8b8aeb6D49B9c262F934c8e",
+            "0x747dfb7D6D27671B4e3E98087f00e6B023d0AAb7"
+        ],
+        "members": [
+            "0x5FBd8AE80e26D82922f69aa51A99737dCd748f12",
+            "0xd794CCD4A5cB914aF8b8aeb6D49B9c262F934c8e",
+            "0x747dfb7D6D27671B4e3E98087f00e6B023d0AAb7"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "LeagueDAO",
+        "twitter": "LeagueDAO",
+        "categories": [],
+        "followersCount": 34,
+        "proposalsCount": 4
+    },
+    {
+        "id": "lootmetaversedao.eth",
+        "name": "Loot Metaverse DAO",
+        "about": "",
+        "avatar": "ipfs://QmXevDUpyf8cTc4AiK95mPJMnfaWdHZUqhypjTYqiFXacD",
+        "network": "1",
+        "symbol": "RESIDENCE",
+        "admins": [
+            "0x1aE69C980c7d18090E86dDf09bECc5212cBc3986"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://lootmetaverse.club/",
+        "github": null,
+        "twitter": "LootMetaverse",
+        "categories": [],
+        "followersCount": 1,
+        "proposalsCount": 1
+    },
+    {
+        "id": "loserchick.eth",
+        "name": "LoserChick",
+        "about": "a GameFi project created by Emoji DAO",
+        "avatar": "ipfs://QmZdSoesUXXNgmmxRp5LMTUjNxRZdyaSSL4FiexxVmjDUh",
+        "network": "137",
+        "symbol": "vCHICKNFT",
+        "admins": [
+            "0xdaDA017271ec1064b51FD7123FD3A0d63f917539"
+        ],
+        "members": [
+            "0xdaDA017271ec1064b51FD7123FD3A0d63f917539",
+            "0x7D619532b6d17cab5c6fB0a61C8D21f46727b7a0"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "Loserchick",
+        "twitter": "Chick_Labs",
+        "categories": [],
+        "followersCount": 76,
+        "proposalsCount": 7
+    },
+    {
+        "id": "madrealities.eth",
+        "name": "Mad Realities",
+        "about": "",
+        "avatar": "ipfs://QmdJv5ULBXBm7UzHbY27geg44Ue7nwrCXxiDwF9MBzjJrQ",
+        "network": "1",
+        "symbol": "ROSE",
+        "admins": [
+            "0x7a9834b293c8f003f923b033955658aa4797d7a8",
+            "0x4c60de9cd43ed18a01229a9f8c64fe4ea63be748",
+            "0xb7abf554aefd4686639afcf2a653adfda3d9b038"
+        ],
+        "members": [
+            "0x7a9834b293c8f003f923b033955658aa4797d7a8",
+            "0x4c60de9cd43ed18a01229a9f8c64fe4ea63be748",
+            "0xb7abf554aefd4686639afcf2a653adfda3d9b038"
+        ],
+        "plugins": {
+            "poap": {},
+            "subscribe": {},
+            "commentBox": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "mad-realities",
+        "twitter": "madrealities",
+        "categories": [
+            "media"
+        ],
+        "followersCount": 24,
+        "proposalsCount": 5
+    },
+    {
+        "id": "marnotaur-dao.eth",
+        "name": "Marnotaur DAO",
+        "about": "",
+        "avatar": "ipfs://QmbVqgzWGp2oRq7kU5VBkrvc2Lb9VFJ2mHo2RpnRY9nBF6",
+        "network": "1",
+        "symbol": "MARNOTAUR",
+        "admins": [
+            "0x0AAf72DA643570Da1bF76E8b3063C3f378b3D3D4",
+            "0x2fa31542368225eF83c7ba891aF0f40d5Ec4C156",
+            "0x2848c75f6F88Ba70aAfa6a73BD114705313Dc36a",
+            "0x8717E1b9Dc2453eBA85834642a09bA3F0dCD9ae0"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "marnotaur",
+        "categories": [],
+        "followersCount": 95,
+        "proposalsCount": 20
+    },
+    {
+        "id": "metafactory.eth",
+        "name": "MetaFactory",
+        "about": "",
+        "avatar": "ipfs://QmZ35bH9Ko7GVUCRgKwWV52SB6Jw3j2KwpAaZz5e8Bab9a",
+        "network": "1",
+        "symbol": "ROBOT",
+        "admins": [],
+        "members": [
+            "0x2150Cb38ee362bceAC3d4A2704A82eeeD02E93EC"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://metafactory.ai",
+        "github": "MetaFactoryAI",
+        "twitter": "TheMetaFactory",
+        "categories": [
+            "service",
+            "creator"
+        ],
+        "followersCount": 200,
+        "proposalsCount": 56
+    },
+    {
+        "id": "tomoondao.eth",
+        "name": "MoonDAO",
+        "about": "We're going to the moon.",
+        "avatar": "ipfs://QmeNcmMfUmoW59245qNSXnMFAW4xnWmBC3iG7MNqPF7SUF",
+        "network": "1",
+        "symbol": "MOONEY",
+        "admins": [
+            "0x679d87D8640e66778c3419D164998E720D7495f6",
+            "0x3c48621a501567463768aE79e6547091418E24Ee"
+        ],
+        "members": [
+            "0x679d87D8640e66778c3419D164998E720D7495f6",
+            "0x3c48621a501567463768aE79e6547091418E24Ee"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://moondao.com",
+        "github": "Official-MoonDao",
+        "twitter": "OfficialMoonDAO",
+        "categories": [
+            "social",
+            "grant"
+        ],
+        "followersCount": 681,
+        "proposalsCount": 31
+    },
+    {
+        "id": "mrbojangles.eth",
+        "name": "Mr. Bojangles",
+        "about": "Mr. Bojangles our adopted furry friend from Costa Rica. Mr. Bojangles is a unique AI generated NFT with a total supply of 1180 with 175+ accessories.",
+        "avatar": "ipfs://QmYE1EvbmPe6mrw6vGg7uzNPXb9tRhaB8Vjbg4F2nLgSop",
+        "network": "1",
+        "symbol": "Mr_Bo",
+        "admins": [
+            "0xCe2A22B4b52Fc18e4343cc075e9FD8E6C438286f",
+            "0x13A37FEa8B4A55D7E9bd7b61AC80dDA496F9EC56"
+        ],
+        "members": [
+            "0xCe2A22B4b52Fc18e4343cc075e9FD8E6C438286f",
+            "0x13A37FEa8B4A55D7E9bd7b61AC80dDA496F9EC56"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "sleepyslothdao",
+        "categories": [],
+        "followersCount": 26,
+        "proposalsCount": 4
+    },
+    {
+        "id": "mutantsdao.eth",
+        "name": "MutantCats DAO",
+        "about": "9,999 cats mutated by a disease on the Ethereum blockchain.",
+        "avatar": "ipfs://QmXXGGtXh3tbrMazptVT6tV2SGWVQHJkViFFQTTAAwDDiw",
+        "network": "1",
+        "symbol": "MUTCATS ",
+        "admins": [
+            "0xeab8b983A04Ca8d5a0704C2E9019C3979Fc11d8b",
+            "0x785Ad5299c734725DA2D5eA6fF2C8Dc510c4485D",
+            "0xcb5C730A85795b20C1fdB543B64B2ED164333803",
+            "0x4E92d08Dd51047dc5dAd56975F2a825193f8784B"
+        ],
+        "members": [
+            "0xeab8b983A04Ca8d5a0704C2E9019C3979Fc11d8b",
+            "0xa11435b21e0Eff08A6c2c5b8316ACC94054e8bAB",
+            "0xD2AE149dA9445d6476EA5d119410267dcE038a08",
+            "0x4E92d08Dd51047dc5dAd56975F2a825193f8784B"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "mutantcats",
+        "categories": [],
+        "followersCount": 3787,
+        "proposalsCount": 115
+    },
+    {
+        "id": "nilgov.eth",
+        "name": "Nil DAO",
+        "about": "Community Curated NFT Marketplace.  An n derivative.",
+        "avatar": "ipfs://QmYmEdkWbra3bMrMwCBSX1KefQjSofVpQFGHeWFDmeFyTK",
+        "network": "1",
+        "symbol": "NIL",
+        "admins": [
+            "0xa95F4f4Ae3288317d569b5c681e9822e24220FAc",
+            "0x3f8e2DBE0A84E853b2925FC4C434B50813Ae2dCF",
+            "0x9D0c4275b986738cD8A199E289228CA9FBAb9a6B",
+            "0x7fCbf61A9084733e254DEe0Ada62722AA8F97a37",
+            "0xF28d29E749BbDE5954557aB6AD521187c125BC61"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "Nil__dao",
+        "categories": [],
+        "followersCount": 114,
+        "proposalsCount": 10
+    },
+    {
+        "id": "officialoceandao.eth",
+        "name": "OceanDAO",
+        "about": "",
+        "avatar": "ipfs://QmaN6S5dqEoPrps6G74ZKrVRMYX9KBDjF8jjToiXWAC5iy",
+        "network": "1",
+        "symbol": "OCEAN",
+        "admins": [
+            "0xb098A3EDD6224E774b5B19C2F69728FDC69bc7bC"
+        ],
+        "members": [
+            "0xb098A3EDD6224E774b5B19C2F69728FDC69bc7bC",
+            "0x085EB211bB4890972C1279fbbac6003F79369d75"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "OceanDAO_",
+        "categories": [],
+        "followersCount": 770,
+        "proposalsCount": 148
+    },
+    {
+        "id": "orangedaoxyz.eth",
+        "name": "Orange DAO ",
+        "about": "",
+        "avatar": "ipfs://QmfQ5Wo9DBg51mQJ7L2bnA3uD3xdGMyypRWdnht2ZgqsSw",
+        "network": "1",
+        "symbol": "\u273aORANGE",
+        "admins": [
+            "0x878608Dd7500aC73ae90AeB49892A4EE9C5a451A",
+            "0xA4AF38B2d548245B8d1B3c0E7793d5117D31F9b5",
+            "0x1377a46F33F1b2835b086A68F3A68Ac461559ca1"
+        ],
+        "members": [
+            "0x878608Dd7500aC73ae90AeB49892A4EE9C5a451A",
+            "0xA4AF38B2d548245B8d1B3c0E7793d5117D31F9b5",
+            "0x1377a46F33F1b2835b086A68F3A68Ac461559ca1",
+            "0x4558e88C5a972244c995AE4DD95a84fc790355f9",
+            "0x1cE03F7BE45D4296497aBa54312791A92E2F60B3",
+            "0xC5c226803F0d4609FF1dc5cdA7c49DBfc06D2a7d"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "OrangeDAOxyz",
+        "categories": [],
+        "followersCount": 116,
+        "proposalsCount": 39
+    },
+    {
+        "id": "alexec.eth",
+        "name": "AlexDAO",
+        "about": "From the $PEOPLE, to the $PEOPLE, for the $PEOPLE.",
+        "avatar": "ipfs://QmWEiCSLyG1qstQJvRBA9hzdFwQ87ipwA9XQcHFtQhxsD2",
+        "network": "56",
+        "symbol": "PEOPLE",
+        "admins": [
+            "0x881b7D4B63F7ec820ECA7925c2cB7E98af091161",
+            "0x015EeA1e303Cb3556ee21E18B6654553ccD59500"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "The_PeopleDAO",
+        "categories": [
+            "social",
+            "creator"
+        ],
+        "followersCount": 1983,
+        "proposalsCount": 197
+    },
+    {
+        "id": "people-dao.eth",
+        "name": "PeopleDAO",
+        "about": "From the $PEOPLE, to the $PEOPLE, for the $PEOPLE.",
+        "avatar": "ipfs://QmWEiCSLyG1qstQJvRBA9hzdFwQ87ipwA9XQcHFtQhxsD2",
+        "network": "1",
+        "symbol": "PEOPLE",
+        "admins": [
+            "0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C26C",
+            "0x192792D3680b163FC71eB39D6E71eC9e8D1FBaeE"
+        ],
+        "members": [
+            "0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C26C",
+            "0x192792D3680b163FC71eB39D6E71eC9e8D1FBaeE"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "People-DAO",
+        "twitter": "The_PeopleDAO",
+        "categories": [
+            "social",
+            "creator"
+        ],
+        "followersCount": 6467,
+        "proposalsCount": 26
+    },
+    {
+        "id": "descience.eth",
+        "name": "Old-PeopleDAO",
+        "about": "From the $PEOPLE, to the $PEOPLE, for the $PEOPLE.",
+        "avatar": "ipfs://QmWEiCSLyG1qstQJvRBA9hzdFwQ87ipwA9XQcHFtQhxsD2",
+        "network": "1",
+        "symbol": "PEOPLE",
+        "admins": [
+            "0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C26C",
+            "0x192792D3680b163FC71eB39D6E71eC9e8D1FBaeE"
+        ],
+        "members": [
+            "0x3317AD9eDa6942b5a7BE5BA83346C0Ea82C3C26C",
+            "0x192792D3680b163FC71eB39D6E71eC9e8D1FBaeE"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "",
+        "twitter": "The_PeopleDAO",
+        "categories": [
+            "social",
+            "creator"
+        ],
+        "followersCount": 5,
+        "proposalsCount": 0
+    },
+    {
+        "id": "piedao.eth",
+        "name": "PieDAO",
+        "about": "",
+        "avatar": "ipfs://QmPhB3CJz5C8Kp1hNVxuyXrtgWDUJHAvdwzTsDQgzE9DjG",
+        "network": "1",
+        "symbol": "veDOUGH",
+        "admins": [
+            "0x857e6FbB7518fe4Fc28667C5581C329f9A571B6c"
+        ],
+        "members": [
+            "0x857e6FbB7518fe4Fc28667C5581C329f9A571B6c"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "pie-dao",
+        "twitter": "PieDAO_DeFi",
+        "categories": [],
+        "followersCount": 1110,
+        "proposalsCount": 94
+    },
+    {
+        "id": "pxgdao.eth",
+        "name": "Pixelglyph DAO",
+        "about": "",
+        "avatar": "ipfs://QmbgFYnVyMKKcvwwdousnaTrUQQWvWcCAgQvDqfnPzsTki",
+        "network": "1",
+        "symbol": "PxG",
+        "admins": [
+            "0x1b9bb7653DE19ddF6aa71BeDe2126509f57708c2"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "pixelglyphs",
+        "categories": [],
+        "followersCount": 55,
+        "proposalsCount": 6
+    },
+    {
+        "id": "primexyz.eth",
+        "name": "PrimeDAO",
+        "about": "Collective of experienced builders enabling DAO 2 DAO innovation",
+        "avatar": "ipfs://QmUX8v2CwjWEGkAtj95D5BY29ppqF2QKBRBnaxSx4vdk4S",
+        "network": "1",
+        "symbol": "REP",
+        "admins": [
+            "0x5C89C420A9E82Ea9AEDBaAab03302e39982919b9",
+            "0x44A088e784F2A7936C67D772f9e06dF5093663bF",
+            "0x23d817fA0F3C9F77e45880dBE99eDDfafB59142c",
+            "0xce7298E5ef1aE8AF0573eDC2eBd03aB0F837E214",
+            "0x567d220B0169836cBF351DF70A9c517096ec9De7"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.prime.xyz/",
+        "github": "PrimeDAO",
+        "twitter": "PrimeDAO_",
+        "categories": [
+            "protocol",
+            "service"
+        ],
+        "followersCount": 49,
+        "proposalsCount": 58
+    },
+    {
+        "id": "primepools.eth",
+        "name": "Prime Pools",
+        "about": "",
+        "avatar": "ipfs://bafkreihhslvagwhy2c4zbjx7jshqf657e3cxgdpg7wdhrsjze64aaus3ke",
+        "network": "1",
+        "symbol": "D2DBal",
+        "admins": [
+            "0x7d781C2463c300ed86E7a51f456779de6bFEAFc9",
+            "0x5F9a7EA6A79Ef04F103bfe7BD45dA65476a5155C"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.prime.xyz/",
+        "github": "PrimeDAO",
+        "twitter": "PrimeDAO_",
+        "categories": [],
+        "followersCount": 2,
+        "proposalsCount": 0
+    },
+    {
+        "id": "qidao.eth",
+        "name": "Qi Dao | Mai.Finance",
+        "about": "The Dao is like a well: used but never used up. It is like the eternal void: filled with infinite possibilities.",
+        "avatar": "ipfs://QmcUZ2qHF4kE7EkmfuZBWoeEAfAjrG3wv7zbWQLunLe8mr",
+        "network": "137",
+        "symbol": "QI",
+        "admins": [
+            "0x86fE8d6D4C8A007353617587988552B6921514Cb",
+            "0xAd95A5fE898679B927C266eB2eDfAbC7fe268C27"
+        ],
+        "members": [
+            "0x86fE8d6D4C8A007353617587988552B6921514Cb",
+            "0xAd95A5fE898679B927C266eB2eDfAbC7fe268C27",
+            "0xe204432CA41c3254Eb8d50d2E2C11dFae1D67978"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "0xLaoZi",
+        "twitter": "QiDaoProtocol",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 4747,
+        "proposalsCount": 151
+    },
+    {
+        "id": "retokendao.eth",
+        "name": "REtoken DAO",
+        "about": "REtoken\uff5cThe Real Estate DAO. We #BUIDL Passive Income with Real Estate ownership for Everyone. Part of@3winDAO. Community owned & operated via $RETOKEN ($MATIC)",
+        "avatar": "ipfs://QmNX8t1PtSpJtVqKH4SeFRjuxF6Jm5QVhYeroT76eYrNWN",
+        "network": "137",
+        "symbol": "RETOKEN",
+        "admins": [
+            "0xE1b1aEC67295E36803be239e55e0e3B67AF4fFB4",
+            "0xF777A76dA9BC45e04De48FB07164f52c64d56317",
+            "0x4C9598DFaCc61d5E26541ac27cC1cB0bc793c9Cb",
+            "0xF68CFE1D24a29Db8e2f87Eea9538f5E91B2365d0",
+            "0x3F7eCcE150dEFc9395FF5851052fF3Bb236AC70b"
+        ],
+        "members": [
+            "0xE1b1aEC67295E36803be239e55e0e3B67AF4fFB4",
+            "0x4C9598DFaCc61d5E26541ac27cC1cB0bc793c9Cb",
+            "0xc6cCcA85930C7A3CE7E0c559469466e7de905A1E",
+            "0x4698e888743aAc490486bD03F12685A7E6DE5EeF",
+            "0xF777A76dA9BC45e04De48FB07164f52c64d56317",
+            "0x6AB880AFd1E0C7786cc5D05F4FD9b17761768da8",
+            "0x3F7eCcE150dEFc9395FF5851052fF3Bb236AC70b",
+            "0xF68CFE1D24a29Db8e2f87Eea9538f5E91B2365d0",
+            "0x2B0Db2b0E8bf7B60CDb497f39bf99760202a4f78"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": "https://linktr.ee/REtokenDAO",
+        "github": "REtokenDAO",
+        "twitter": "REtokenDAO",
+        "categories": [],
+        "followersCount": 64,
+        "proposalsCount": 38
+    },
+    {
+        "id": "camp.ret.eth",
+        "name": "$RETCAMP",
+        "about": "Blockchain Bootcamp for Real Estate a project by @REtokenDAO",
+        "avatar": "ipfs://QmZskVFt2PzuVqHRxaBfjvT5GEe2hVh3L6wNJSBM18f16k",
+        "network": "137",
+        "symbol": "RETCAMP",
+        "admins": [
+            "0x75FeFFaADa6E987aBadc98B22E1D380007f0B138",
+            "0xE1b1aEC67295E36803be239e55e0e3B67AF4fFB4",
+            "0x4C9598DFaCc61d5E26541ac27cC1cB0bc793c9Cb",
+            "0xF777A76dA9BC45e04De48FB07164f52c64d56317",
+            "0xF68CFE1D24a29Db8e2f87Eea9538f5E91B2365d0",
+            "0x3F7eCcE150dEFc9395FF5851052fF3Bb236AC70b",
+            "0x609F1FE76461bFB7f5e44Dc66D5806CD379c5094"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "REtokenDAO",
+        "twitter": "REtokenDAO",
+        "categories": [
+            "social"
+        ],
+        "followersCount": 7,
+        "proposalsCount": 0
+    },
+    {
+        "id": "rook.eth",
+        "name": "Rook",
+        "about": "",
+        "avatar": "ipfs://QmeTC9zXRAs47orsb9DmFHGTAJEgZiMxD5ro3XtHbeZLzi",
+        "network": "1",
+        "symbol": "ROOK",
+        "admins": [
+            "0x9a67F1940164d0318612b497E8e6038f902a00a4"
+        ],
+        "members": [
+            "0x00fA720A0943Cc51145b78775d2A4B8B5d83EcCc",
+            "0x3338EA39EeFF18eECF44F284BA964F3Acc5d0040",
+            "0xbf2896FD3053039b4200d9Adf39F3E4e1053e9e5"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://rook.fi",
+        "github": "keeperdao",
+        "twitter": "Rook",
+        "categories": [],
+        "followersCount": 150,
+        "proposalsCount": 30
+    },
+    {
+        "id": "notional.eth",
+        "name": "Notional Finance",
+        "about": "",
+        "avatar": "ipfs://QmRHpmZzrApDpcNjhS9qq3w1LFPbd8QbTx99kXC65PdJuS",
+        "network": "1",
+        "symbol": "NOTE",
+        "admins": [
+            "0x927688ffA284fA23E8cEbE528172003151AA51a9",
+            "0x46A6f15B5a5Cd0f1c93f87c4af0a0586fC9d07e8",
+            "0x7d7935EDd4b6cDB5f34B0E1cCEAF85a3C4A11254"
+        ],
+        "members": [
+            "0xCece1920D4dBb96BAf88705ce0A6Eb3203ed2eB1",
+            "0xE710f634A11e5Ab17A193d5d7652c6F7d4b257f6",
+            "0x7d7935EDd4b6cDB5f34B0E1cCEAF85a3C4A11254",
+            "0x1F205bC21AB883b0a661C20075CF8491105b0884"
+        ],
+        "plugins": {
+            "hal": {}
+        },
+        "email": null,
+        "website": "https://notional.finance/",
+        "github": "notional-finance",
+        "twitter": "NotionalFinance",
+        "categories": [],
+        "followersCount": 60,
+        "proposalsCount": 11
+    },
+    {
+        "id": "sharkdao.eth",
+        "name": "SharkDAO",
+        "about": "",
+        "avatar": "ipfs://QmVsx39jckPzGpghq7GKR8FozWZ7WXH25MQMQBLgm4tYVa",
+        "network": "1",
+        "symbol": "SHARK",
+        "admins": [
+            "0x021edd67d43B365a6401a5Ee704Aa6f264F3F4e4",
+            "0xDe30040413b26d7Aa2B6Fc4761D80eb35Dcf97aD",
+            "0x2536c09E5F5691498805884fa37811Be3b2BDdb4",
+            "0x1bbEc7a15D0f0853B8F3ca0Ad4d3573cE186d5ee",
+            "0x823b92d6a4b2AED4b15675c7917c9f922ea8ADAD",
+            "0x40b6df5f6217fb1a1beaf8fdbb9572304aa78c4d",
+            "0x286cd2ff7ad1337baa783c345080e5af9bba0b6e"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://sharks.wtf",
+        "github": null,
+        "twitter": "sharkdao",
+        "categories": [],
+        "followersCount": 743,
+        "proposalsCount": 196
+    },
+    {
+        "id": "shinedao.eth",
+        "name": "ShineDAO",
+        "about": "ShineDAO is a self-govern community funding and supporting Web3 & DeFi.",
+        "avatar": "https://i.ibb.co/bFMJ6YD/Icon-Shine-DAO.png",
+        "network": "137",
+        "symbol": "veSHN",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.shinedao.finance/",
+        "github": null,
+        "twitter": "ShineDAO_",
+        "categories": [
+            "creator",
+            "investment"
+        ],
+        "followersCount": 19,
+        "proposalsCount": 17
+    },
+    {
+        "id": "skvlldao.eth",
+        "name": "SkvllpvnkzDAO",
+        "about": "Skvllpvnkz Hideout community wallet voting portal - This DAO is used to vote on ways to use the community fund only.",
+        "avatar": "ipfs://QmbSQCevsBtN2QTftf8VemkGvjGQ1TwqSnX6JREJ1gaqQP",
+        "network": "1",
+        "symbol": "SKVLLZ",
+        "admins": [
+            "0xefee7fd9af43945e7b7d9655592600a6a63eff0d",
+            "0x85A7595c1F096D41fD5E8Cd6c53F0d9649F953b8"
+        ],
+        "members": [
+            "0x119b49A1C266c67656d098c320b697cC5Ce94C43",
+            "0xEfEE7fD9aF43945E7b7D9655592600A6a63eFf0D"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "skvllpvnkz",
+        "categories": [],
+        "followersCount": 650,
+        "proposalsCount": 7
+    },
+    {
+        "id": "slackerdao.eth",
+        "name": "SlackerDAO",
+        "about": "",
+        "avatar": "ipfs://QmcWtybEWqcrYf4J7R7DST3e8qTVhCXFsGtMcU2yfKbKEg",
+        "network": "1",
+        "symbol": "DUCKS",
+        "admins": [
+            "0xC6dC654B5aa7969A24c7e4442a52E61FB8b24827"
+        ],
+        "members": [
+            "0xC6dC654B5aa7969A24c7e4442a52E61FB8b24827"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "SlackerDuckPond",
+        "categories": [],
+        "followersCount": 43,
+        "proposalsCount": 4
+    },
+    {
+        "id": "quackgang.eth",
+        "name": "QuackGang",
+        "about": "",
+        "avatar": "ipfs://QmSTde9tSBzZhboDpdPyDmQXHU9am9ZPCNR9RhEesNpHzT",
+        "network": "1",
+        "symbol": "\ud83e\udd86",
+        "admins": [
+            "0x078adfbA8Ed90eD0E6778ddc7951AA362E438c2C"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.slackerduckpond.com/",
+        "github": "",
+        "twitter": "SlackerDuckPond",
+        "categories": [
+            "social"
+        ],
+        "followersCount": 18,
+        "proposalsCount": 7
+    },
+    {
+        "id": "quackland.eth",
+        "name": "QuackLand",
+        "about": "",
+        "avatar": "ipfs://QmSTde9tSBzZhboDpdPyDmQXHU9am9ZPCNR9RhEesNpHzT",
+        "network": "1",
+        "symbol": "QUACK",
+        "admins": [
+            "0x2c8A5c40b64883cf4EB056c18bA960B71a02588d"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.slackerduckpond.com/",
+        "github": null,
+        "twitter": "SlackerDuckPond",
+        "categories": [
+            "social"
+        ],
+        "followersCount": 3,
+        "proposalsCount": 2
+    },
+    {
+        "id": "stakedao.eth",
+        "name": "Stake DAO",
+        "about": "",
+        "avatar": "ipfs://QmV71VYHbeSGjTphMx95hUSRawsMVei4RH6WAFS1LTFZMF",
+        "network": "1",
+        "symbol": "veSDT",
+        "admins": [
+            "0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063"
+        ],
+        "members": [
+            "0xb742da24d6d5803B6c5e4F5BF0fF2c0Ef1E94f55"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://lockers.stakedao.org/",
+        "github": "StakeDAO",
+        "twitter": "StakeDAOHQ",
+        "categories": [],
+        "followersCount": 949,
+        "proposalsCount": 60
+    },
+    {
+        "id": "stakeborgdao.eth",
+        "name": "Stakeborg DAO ",
+        "about": "",
+        "avatar": "ipfs://QmP5xDRK4p7D3D8UvsRB76u2W5knEMDNCCVQKKwQ5WhG1V",
+        "network": "1",
+        "symbol": "vSTANDARD",
+        "admins": [
+            "0x76cdca9ce4ac4804884e1e778e68d256c8b087c1"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "stakeborg",
+        "twitter": "stakeborgdao",
+        "categories": [],
+        "followersCount": 125,
+        "proposalsCount": 3
+    },
+    {
+        "id": "sw-dao.eth",
+        "name": "SW DAO",
+        "about": "SW DAO is a global community that will launch and maintain the world\u2019s most sophisticated crypto financial products.",
+        "avatar": "ipfs://QmZgb7p2AMxBjYK5WqHRaXRH4q9tQ7RXFdr6pD6qfN7Yze",
+        "network": "137",
+        "symbol": "SWD",
+        "admins": [
+            "0xb73888476DCCadE29770175966CCC5AD50e45B48",
+            "0xE5A365bae0305262F32f8540f30a4959B3338404"
+        ],
+        "members": [
+            "0xb73888476DCCadE29770175966CCC5AD50e45B48",
+            "0xE5A365bae0305262F32f8540f30a4959B3338404"
+        ],
+        "plugins": {
+            "hal": {}
+        },
+        "email": null,
+        "website": "https://swdao.org/",
+        "github": "sw-dao",
+        "twitter": "SW__DAO",
+        "categories": [
+            "investment"
+        ],
+        "followersCount": 66,
+        "proposalsCount": 5
+    },
+    {
+        "id": "superteam.eth",
+        "name": "SuperteamDAO",
+        "about": "",
+        "avatar": "",
+        "network": "1",
+        "symbol": "TEAM",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "SuperteamDAO",
+        "categories": [],
+        "followersCount": 4,
+        "proposalsCount": 0
+    },
+    {
+        "id": "thedaoist.eth",
+        "name": "The DAOist's Dawn ",
+        "about": "Governing The DAOist",
+        "avatar": "ipfs://QmQG9UNdEXwopsi8n8SmHdNuWpgRa55ZJuMDoZoXxhAf6b",
+        "network": "1",
+        "symbol": "Votes",
+        "admins": [
+            "0x5C89C420A9E82Ea9AEDBaAab03302e39982919b9",
+            "0x465a74c545592f66B6a8a25b3B8A5B8714eaef45",
+            "0xce7298E5ef1aE8AF0573eDC2eBd03aB0F837E214"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "TheDAOist_",
+        "categories": [
+            "social"
+        ],
+        "followersCount": 39,
+        "proposalsCount": 14
+    },
+    {
+        "id": "wizdao.eth",
+        "name": "WizardsDAO",
+        "about": "",
+        "avatar": "ipfs://QmRjA4M4mMAomZFAv9e2QZHi2hjoWXrNTxyinND27YwL5y",
+        "network": "1",
+        "symbol": "WIZ",
+        "admins": [
+            "0x983214a4133bd027c18c26cB20C5945611D76BFf"
+        ],
+        "members": [
+            "0x983214a4133bd027c18c26cB20C5945611D76BFf"
+        ],
+        "plugins": {
+            "commentBox": {}
+        },
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "WizardsDAO",
+        "categories": [],
+        "followersCount": 121,
+        "proposalsCount": 56
+    },
+    {
+        "id": "treasuredao.eth",
+        "name": "TreasureDAO",
+        "about": "Treasure is a decentralized network of games and communities connected through imagination, $MAGIC, and NFTs.",
+        "avatar": "ipfs://bafkreiemvqwekwg3wxui3hksfdcyq7jtprvcqdkkhstfayaxufhv4yez7y",
+        "network": "42161",
+        "symbol": "gMAGIC",
+        "admins": [
+            "0x3577a25A1cf6b5B254798101aAb6B23A3beD8b28",
+            "0xA82fCEFd303Fa68864b787a5f118b09cE5A4c93d",
+            "0xBAe65c4bA62799F68817Cbb2bB353Da4572C23Ae"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://treasure.lol",
+        "github": "TreasureProject",
+        "twitter": "Treasure_DAO",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 4693,
+        "proposalsCount": 17
+    },
+    {
+        "id": "ultradao.eth",
+        "name": "UltraDAO",
+        "about": "UltraDAO is a group of artists and art collectors, working together to create a strong community through art and technology.",
+        "avatar": "ipfs://QmR3EYGEpj8HtRErMYEqpmj2cToyCF96pQt6B1BhWdc432",
+        "network": "137",
+        "symbol": "ULTRA",
+        "admins": [
+            "0xaadf1cf940e7e492672aae360aaa798cde323be1",
+            "0x8367a713bc14212ab1bb8c55a778e43e50b8b927"
+        ],
+        "members": [
+            "0x6a91b82a9abd58963b164d01cbf793cf60c089fd",
+            "0xafa002114abb31b5d7b1359131168f49badf9c3b",
+            "0xf1e1c701b49b1dc2405a9e8ef40f9f88802b80fa",
+            "0x38cb027d65aaf2d3f401ff9bd0599afe86f1b627",
+            "0x18c6a47aca1c6a237e53ed2fc3a8fb392c97169b",
+            "0x229ed2b7e22522e65c26af8960f57302f825867a",
+            "0x0c71557b4ad81e07034dd9c04e232f17bb0b4aa3",
+            "0xddf446eb790a3254acf7b8ccaeebd5beb63c7ffe",
+            "0xd0893aa51805ce106c161104adac46e0506c7044",
+            "0x71a0496f59c0e2bb91e48bedd97dc233fe76319f",
+            "0x2cb3338f518b2d61470b4d1d503bdc84c1a04ecd",
+            "0x11d272524e5d104c317c94b241fcc842b09aa5a9",
+            "0x09e93d1a42b7ed511002d5e02e60089c83e0ceae",
+            "0xf4140f2721f5fd76ea2a3b6864ab49e0fba1f7d0",
+            "0xe54cb283d9e93906eba5d01cfb8af05f895bcf0e",
+            "0xc4fa0f26d095aa4a4942053789a89ed2eca1c1a6",
+            "0xbebbe491e0f9422f427e8ca45fdc3575aa258d18",
+            "0xbd7a1c16d7b3af4af6d1a0fd7437466d765656ce",
+            "0xbcb4ff1d84836f7d656272c22135c2b2e5bd379d",
+            "0xa73bd72b4bf7875d4b4d53581bef3e0eadcd051b",
+            "0x741bfdb9bea6fa505ff9dfe9e8947b29863373fa",
+            "0x4d255d9b31aa437a0df8d02565c99d0faa6ed49c",
+            "0x18218d55116b394918124837c512c9c7700ac725",
+            "0x0000ce08fa224696a819877070bf378e8b131acf",
+            "0xd61daebc28274d1feaaf51f11179cd264e4105fb",
+            "0xd458f62925b3e135680626a0f520098972f93fe9",
+            "0xbe54a11e59d1ee3c04ca5f6c7773ebc759cd1afd",
+            "0xb37516957bb5db0534fe4b4738f96381072673bf",
+            "0xa8d1f5bc680504ddc41b2bc7007e413c3c01221a",
+            "0x9f843eff53f2ec551c2fcdd32aa5eef25a6fa4e4",
+            "0x90c41e17c70340a5999c250554d3bff9ba063bc4",
+            "0x88c9ada911e01f3a6879a8e6066d2da45ce8bf1b",
+            "0x539d3681033209ce1215357b6c989bcbbb5801b2",
+            "0x26fb57b5b11ec953a4a799914acf86f09b0aee3a",
+            "0x3146a2997e71155c144ae25fce2d866092bc91f3",
+            "0x30dcdf808bb9313e54c577859e7f41197677831c"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "Ultra_DAO",
+        "categories": [],
+        "followersCount": 3,
+        "proposalsCount": 0
+    },
+    {
+        "id": "vitadao-test.eth",
+        "name": "Inactive",
+        "about": "VitaDAO's snapshot test space",
+        "avatar": "https://raw.githubusercontent.com/snapshot-labs/snapshot-spaces/master/spaces/vitadao-test.eth/space.png",
+        "network": "4",
+        "symbol": "VITA",
+        "admins": [
+            "0x51AaE7357c8baD10DB3532e9AC597efFA5C3820f",
+            "0x6298CB5C06b0373A7EF69716CA48DB1761C50e54",
+            "0x79594d98Fa02baf9D8F9C0B3F643dDAc2D44daFf",
+            "0x5e720FcD48Dbc0d06513F4Cf919D4bC40116c825"
+        ],
+        "members": [
+            "0x51AaE7357c8baD10DB3532e9AC597efFA5C3820f",
+            "0x6298CB5C06b0373A7EF69716CA48DB1761C50e54",
+            "0x79594d98Fa02baf9D8F9C0B3F643dDAc2D44daFf",
+            "0x5e720FcD48Dbc0d06513F4Cf919D4bC40116c825",
+            "0xCd7F4F5C54fE5E7cf6847F5B71F2540822d272f7",
+            "0xe2FbDF7fe1d77f8B73e9fa4D17F2F1FC64F7313f"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "VitaDAO",
+        "twitter": "vita_dao",
+        "categories": [
+            "service"
+        ],
+        "followersCount": 6,
+        "proposalsCount": 13
+    },
+    {
+        "id": "vote.vitadao.eth",
+        "name": "VitaDAO",
+        "about": "We are collectively researching, financing, and commercializing longevity research in an open and democratic manner.",
+        "avatar": "ipfs://QmeaG6fKFsPkdL2pQQjjsxBn8kyHTvsWG5z5pGpY82rcvA",
+        "network": "1",
+        "symbol": "VITA",
+        "admins": [
+            "0x082527433A8c1F260d37C57D4bAC904611ef8e7A",
+            "0xe2FbDF7fe1d77f8B73e9fa4D17F2F1FC64F7313f",
+            "0xb3541aa3247304DCCe993b9b8Bd1Ee3C7Dc49367",
+            "0xe6Fec9C8B089aA30C8eD32072cfF2F8f76099C77"
+        ],
+        "members": [
+            "0x082527433A8c1F260d37C57D4bAC904611ef8e7A",
+            "0xe2FbDF7fe1d77f8B73e9fa4D17F2F1FC64F7313f",
+            "0x2B5cdFB0451C3A0fd1d5B7b1D9aeEADa4c6D1C27",
+            "0x45602BFBA960277bF917C1b2007D1f03d7bd29e4",
+            "0x6c1e0C4221ec9d36Cf80cd2B9b6B9B2823e4CB69",
+            "0xfb9B22A0E3A05e4F6B49aDD981A189301F411A75",
+            "0x208efDe0a5ED5CAE7adCE05e850BB7b1c67573c1",
+            "0xC05dED6AB80bd29F2Bcf8c2EafFbd9fD22213AcC",
+            "0xe6Fec9C8B089aA30C8eD32072cfF2F8f76099C77",
+            "0xb3541aa3247304DCCe993b9b8Bd1Ee3C7Dc49367"
+        ],
+        "plugins": {
+            "hal": {},
+            "poap": {}
+        },
+        "email": null,
+        "website": "https://vitadao.com",
+        "github": "VitaDAO",
+        "twitter": "vita_dao",
+        "categories": [
+            "collector",
+            "grant"
+        ],
+        "followersCount": 187,
+        "proposalsCount": 42
+    },
+    {
+        "id": "superteam.eth",
+        "name": "SuperteamDAO",
+        "about": "",
+        "avatar": "",
+        "network": "1",
+        "symbol": "TEAM",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "SuperteamDAO",
+        "categories": [],
+        "followersCount": 4,
+        "proposalsCount": 0
+    },
+    {
+        "id": "wgmicommunity.eth",
+        "name": "wgmi community",
+        "about": "We\u2019re on a mission to bring more Community professionals to web3. ",
+        "avatar": "ipfs://Qman5adWJt6USVLAWXdcqzUtRjc5MrknkrZjFssiqpUzai",
+        "network": "100",
+        "symbol": "WGMI",
+        "admins": [
+            "0x1768f9d7aeB96b09F12fc8D1573Bfca84e7d46dC",
+            "0xFCeDC13C1DD6ED4Cc2C063042bFa98ff0640C88E",
+            "0xBe9e265c78a22e31d6a41Fc2710D9590ED2d5a96"
+        ],
+        "members": [
+            "0x1768f9d7aeB96b09F12fc8D1573Bfca84e7d46dC"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "wgmi-community",
+        "twitter": "wgmicommunity",
+        "categories": [
+            "service"
+        ],
+        "followersCount": 18,
+        "proposalsCount": 1
+    },
+    {
+        "id": "club.eth",
+        "name": "Seed Club",
+        "about": "There's value in coming together to collaborate on the internet. ",
+        "avatar": "ipfs://QmRU4tGebbc6V9QdWbaYmPmN16qPjTvfTBXJxnJUxHAosq",
+        "network": "1",
+        "symbol": "CLUB",
+        "admins": [
+            "0x42dfaf5266ad40ab4533f9806f5cc1df4c1eb363",
+            "0x0e11de3e815491b1383d2b9c4f99095c20b5bd90",
+            "0x226CF3cAA4C1c8e662c7C272B45f5D17C58F0013"
+        ],
+        "members": [
+            "0x42DFAf5266Ad40AB4533F9806F5CC1DF4C1eB363"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "seedclubhq",
+        "categories": [],
+        "followersCount": 69,
+        "proposalsCount": 14
+    },
+    {
+        "id": "seedclub.eth",
+        "name": "SC Test",
+        "about": "",
+        "avatar": "",
+        "network": "1",
+        "symbol": "CLUB",
+        "admins": [
+            "0x42DFAf5266Ad40AB4533F9806F5CC1DF4C1eB363"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "seedclubhq",
+        "categories": [],
+        "followersCount": 0,
+        "proposalsCount": 0
+    },
+    {
+        "id": "abcdcba.eth",
+        "name": "matic",
+        "about": "",
+        "avatar": "ipfs://QmdvGfLvCwdhaFq9Ct2ftgZTkY5rTkx2gw1AxQXRowE4Ro",
+        "network": "1",
+        "symbol": "vote",
+        "admins": [
+            "0x03eF53633783159fB76A86261cb32b39c070b24D"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://buildspace.so/",
+        "github": null,
+        "twitter": "_buildspace",
+        "categories": [],
+        "followersCount": 91,
+        "proposalsCount": 10
+    },
+    {
+        "id": "figmentdao.eth",
+        "name": "Figment DAO",
+        "about": "Figment's Internal DAO ",
+        "avatar": "ipfs://Qmdpptr2NXeJ1C574t89qEb7EQpCANciYMmWAuEZKHnbBN",
+        "network": "1",
+        "symbol": "FIG",
+        "admins": [
+            "0x5bD2B53CB6B51B4Bda9A23Ef46B76A501AD12e63"
+        ],
+        "members": [
+            "0xB037e101f0bB41A24d69CBFF83F5e9D49e1528e0"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "Figment_io",
+        "categories": [],
+        "followersCount": 0,
+        "proposalsCount": 0
+    },
+    {
+        "id": "dorg.eth",
+        "name": "dOrg",
+        "about": "",
+        "avatar": "ipfs://QmY6gM8o1xDaznATNJB7PdxTorY9PQHxiNCVBpBxzi5Ppi",
+        "network": "1",
+        "symbol": "dOrg",
+        "admins": [
+            "0x61ffe691821291d02e9ba5d33098adcee71a3a17",
+            "0x639749b7b08aEe65039c21d8a411103C6ceBEBF0",
+            "0x5e642f8c81de40e7e49b6a2b606dfb94a005bc44"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.dorg.tech/",
+        "github": "dOrgTech",
+        "twitter": "dOrg_tech",
+        "categories": [
+            "service"
+        ],
+        "followersCount": 71,
+        "proposalsCount": 144
+    },
+    {
+        "id": "biconomy.eth",
+        "name": "Biconomy DAO",
+        "about": "This snapshot space is governed by BICO token holders.",
+        "avatar": "ipfs://QmNf8jaCxsJcuCRKU17j8LJFNmT5yu5fiVoqPYcbPjd2Ch",
+        "network": "1",
+        "symbol": "BICO",
+        "admins": [
+            "0x7f3B192Ab3220940D66236792F3EBDB0e4E74138",
+            "0x129443cA2a9Dec2020808a2868b38dDA457eaCC7",
+            "0xAe9B73EE888Ffb7cF452F6a7b900CcA087454bbE"
+        ],
+        "members": [
+            "0xAe9B73EE888Ffb7cF452F6a7b900CcA087454bbE"
+        ],
+        "plugins": {
+            "safeSnap": {
+                "safes": [
+                    {
+                        "network": "CHAIN_ID",
+                        "realityAddress": "0xSWITCH_WITH_REALITY_MODULE_ADDRESS"
+                    }
+                ]
+            }
+        },
+        "email": null,
+        "website": "https://www.biconomy.io/",
+        "github": "bcnmy",
+        "twitter": "biconomy",
+        "categories": [
+            "protocol",
+            "grant"
+        ],
+        "followersCount": 58,
+        "proposalsCount": 1
+    },
+    {
+        "id": "bicotest.eth",
+        "name": "Bico Test Snapshot",
+        "about": "",
+        "avatar": "ipfs://QmNf8jaCxsJcuCRKU17j8LJFNmT5yu5fiVoqPYcbPjd2Ch",
+        "network": "4",
+        "symbol": "BICO",
+        "admins": [
+            "0x7f3B192Ab3220940D66236792F3EBDB0e4E74138",
+            "0xAe9B73EE888Ffb7cF452F6a7b900CcA087454bbE"
+        ],
+        "members": [
+            "0x7f3B192Ab3220940D66236792F3EBDB0e4E74138",
+            "0xAe9B73EE888Ffb7cF452F6a7b900CcA087454bbE"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "bcnmy",
+        "twitter": "biconomy",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 1,
+        "proposalsCount": 3
+    },
+    {
+        "id": "instadapp-gov.eth",
+        "name": "Instadapp",
+        "about": "The open source middleware platform for decentralized finance applications",
+        "avatar": "ipfs://QmSyHsE9UdAKqNTLsmi9yaAFvqzAefY5e1VsAHtigMcqid",
+        "network": "1",
+        "symbol": "INST",
+        "admins": [
+            "0x2888Eb67ac7ee9272FafD9277e60BD851B15e1B1",
+            "0x69F74540575B5973956a59dbc8C06c3D23B5a567",
+            "0xe866ecE4bbD0Ac75577225Ee2C464ef16DC8b1F3"
+        ],
+        "members": [],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "instadapp",
+        "twitter": "instadapp",
+        "categories": [],
+        "followersCount": 771,
+        "proposalsCount": 10
+    },
+    {
+        "id": "cult-dao.eth",
+        "name": "wearecultdao",
+        "about": "",
+        "avatar": "ipfs://QmX7sD7XSUwwGpvewFBuiFs7M28HKvJtctVHvKFLDRzwrr",
+        "network": "1",
+        "symbol": "dCULT",
+        "admins": [
+            "0xB6b5c79f6ECB0aCc157aa6d543050178DC5F7118",
+            "0x956224e61669243A92B687554909CAC253361d1A"
+        ],
+        "members": [
+            "0x956224e61669243A92B687554909CAC253361d1A",
+            "0xB6b5c79f6ECB0aCc157aa6d543050178DC5F7118"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "wearecultdao",
+        "categories": [],
+        "followersCount": 48,
+        "proposalsCount": 1
+    },
+    {
+        "id": "zombiezebras.eth",
+        "name": "Zombie DAO",
+        "about": "Zombie Zebras DAO Voting",
+        "avatar": "ipfs://QmW6Z7gAysaWdNLs7mNmgP6uSR7Fuk97Bwyusdrk31CUvU",
+        "network": "1",
+        "symbol": "WORMS",
+        "admins": [
+            "0x2eb2ae7773601720fc3af70895d6f73298fe5407",
+            "0x80665f9ba68501d383B01B16906775b86e8fe313",
+            "0xE74dd0c9413a70a67dF7C69EB948c99B1905eB11",
+            "0xe74dd0c9413a70a67df7c69eb948c99b1905eb11",
+            "0x2d116626FA6770F52b2999a16C116df4464Cf2ac"
+        ],
+        "members": [
+            "0x2eb2ae7773601720fc3af70895d6f73298fe5407",
+            "0x80665f9ba68501d383B01B16906775b86e8fe313",
+            "0x2d116626FA6770F52b2999a16C116df4464Cf2ac",
+            "0xE74dd0c9413a70a67dF7C69EB948c99B1905eB11"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": null,
+        "twitter": "ZombieZebrasNFT",
+        "categories": [
+            "investment",
+            "social"
+        ],
+        "followersCount": 20,
+        "proposalsCount": 4
+    },
+    {
+        "id": "uniswap",
+        "name": "Uniswap",
+        "about": "Only delegated UNI may be used to vote on proposals. You can delegate to yourself or another address here: https://app.uniswap.org/#/vote",
+        "avatar": "ipfs://QmdNntEZMnen3QE9GfHG4heeqMJkFjxQ9BDof4m8xzV6UT",
+        "network": "1",
+        "symbol": "UNI",
+        "admins": [],
+        "members": [],
+        "plugins": {},
+        "email": "contact@uniswap.org",
+        "website": "https://uniswap.org",
+        "github": "Uniswap",
+        "twitter": "uniswap",
+        "categories": [],
+        "followersCount": 37432,
+        "proposalsCount": 62
+    },
+    {
+        "id": "0xgov.eth",
+        "name": "0x",
+        "about": "The purpose of snapshot proposals is to gauge community sentiment on serious topics under consideration for onchain governance votes that impact 0x protocol.",
+        "avatar": "ipfs://QmexegxWiS82f9KxLxPALf9pn65yQcxxttfpfH41j6xFsx",
+        "network": "1",
+        "symbol": "ZRX",
+        "admins": [
+            "0xD88a4aFCEC49e6BFd18d1eb405259296657332e2",
+            "0x875b6742640E60d483b4401748DFbfDe7Be763B8",
+            "0x4990ce223209fcec4ec4c1ff6e0e81eebd8cca08"
+        ],
+        "members": [],
+        "plugins": {
+            "commentBox": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "0xproject",
+        "twitter": "0xProject",
+        "categories": [],
+        "followersCount": 870,
+        "proposalsCount": 9
+    },
+    {
+        "id": "synthetix-stakers-poll.eth",
+        "name": "Synthetix Stakers Poll",
+        "about": "Polls Synthetix Stakers on SIP",
+        "avatar": "ipfs://QmWZ8otAymmLnXXXsHDDYcFUhrerEsuTo3wKUXxWJ5Fyr5",
+        "network": "1",
+        "symbol": "WD",
+        "admins": [
+            "0x1A7fC76f1aC7FeCb71256A79482DD5aD879F293A",
+            "0xbeBF7295A9Ddc37e33609790b12FBe3dAF93cC73"
+        ],
+        "members": [
+            "0x1A7fC76f1aC7FeCb71256A79482DD5aD879F293A",
+            "0xbeBF7295A9Ddc37e33609790b12FBe3dAF93cC73"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "Synthetixio",
+        "twitter": "synthetix_io",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 101,
+        "proposalsCount": 5
+    },
+    {
+        "id": "faradao.eth",
+        "name": "vote.faraland.io",
+        "about": "",
+        "avatar": "ipfs://QmdA7itqgcf9GNuxuM7P1yp5kDhdeGScoAon4gtBtNgvu9",
+        "network": "56",
+        "symbol": "FARA POINT",
+        "admins": [
+            "0x3f105F78359ad80562B4c34296a87b8e66c584C5"
+        ],
+        "members": [
+            "0x3f105F78359ad80562B4c34296a87b8e66c584C5",
+            "0xFF76b2dD4E24B87A084e48A7B3A9129D19483F96"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://faraland.io/",
+        "github": null,
+        "twitter": "faraland_io",
+        "categories": [],
+        "followersCount": 163,
+        "proposalsCount": 12
+    },
+    {
+        "id": "origingov.eth",
+        "name": "Origin Protocol",
+        "about": "Bringing NFTs and DeFi to the masses",
+        "avatar": "https://www.originprotocol.com/static/img/origin-icon-256x256.png",
+        "network": "1",
+        "symbol": "OGN",
+        "admins": [
+            "0x336C02D3e3c759160E1E44fF0247f87F63086495",
+            "0x3A274B906E5423138941C8EDd4a723F4d54A4B71",
+            "0x73A815c1c060d15cdbBc6fE72098712A9D3F3F13",
+            "0x7a50eb38c447886ea910a7089c499124a8e079f2",
+            "0xDFF50220651289d8d01A0f1BCb0B376d12dE337d",
+            "0xe5888ed7eb24c7884e821b4283472b49832e02f2",
+            "0x6b014C7Dd4C8E1023739CFc9bC86101a4636534D",
+            "0x01b99e22Aa0C4da995499C3b050E2C53F607482b",
+            "0x6361F7885104333FF3e355bc2d6E7137e186f823",
+            "0xab7C7E7ac51f70dd959f3541316dBd715773158B",
+            "0x42283C876AdD1d3690665AD96A99CE8A130eDBB4"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "originprotocol",
+        "twitter": "originprotocol",
+        "categories": [],
+        "followersCount": 564,
+        "proposalsCount": 64
+    },
+    {
+        "id": "xwg.eth",
+        "name": "X World Games",
+        "about": "",
+        "avatar": "ipfs://QmYdJ4gnrjuKqPSLzWk8k8EdkcKGh8m5LRLksFX5FMUzrW",
+        "network": "56",
+        "symbol": "XWG",
+        "admins": [
+            "0xD71110B333c547Eb9139bEF719d7aB4513107588"
+        ],
+        "members": [
+            "0xD71110B333c547Eb9139bEF719d7aB4513107588",
+            "0xE5B38dAdEf50B4Ba2B2dBCbBDE4c6D68B3409E93",
+            "0x2ea7A04c5eFE37679e71D32774379b2be3e86f3d",
+            "0x3606c8915fD47E3bFa71d0314980e9575346415f",
+            "0xB8A93896ED76AfB12b03505026612409DF4DA963",
+            "0xB0ad9e88AD169c9a7c9BABB53eE61e28116160C3",
+            "0x1A914e0860d83e9C6862EB8861B6BEde47D2EFb4",
+            "0xCb7E08eEE69e5585890BBb1C2BC52704C722c449",
+            "0x7e079F299BB4Ab3dA190cE4F38E708e79fe0F9C9",
+            "0x916df1C385F91aB52A7B51Ff598e0A572CDC8E3f"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "XWorldGames",
+        "twitter": "xwg_games",
+        "categories": [],
+        "followersCount": 568,
+        "proposalsCount": 10
+    },
+    {
+        "id": "sushigov.eth",
+        "name": "Sushi",
+        "about": "Sushi Governance Snapshot",
+        "avatar": "ipfs://QmT1Ban8im8JQm2gqYSoMGaLZTgxR8nFyrYBF7MgWvRKFh",
+        "network": "1",
+        "symbol": "SUSHIPOWAH",
+        "admins": [
+            "0x4bb4c1B0745ef7B4642fEECcd0740deC417ca0a0",
+            "0x1C0Aa8cCD568d90d61659F060D1bFb1e6f855A20",
+            "0x19B3Eb3Af5D93b77a5619b047De0EED7115A19e7"
+        ],
+        "members": [
+            "0x4bb4c1B0745ef7B4642fEECcd0740deC417ca0a0",
+            "0x1C0Aa8cCD568d90d61659F060D1bFb1e6f855A20",
+            "0x19B3Eb3Af5D93b77a5619b047De0EED7115A19e7"
+        ],
+        "plugins": {
+            "hal": {},
+            "poap": {},
+            "quorum": {
+                "total": 5000000,
+                "strategy": "static"
+            }
+        },
+        "email": null,
+        "website": null,
+        "github": "sushiswap",
+        "twitter": "SushiSwap",
+        "categories": [],
+        "followersCount": 38726,
+        "proposalsCount": 204
+    },
+    {
+        "id": "jbdao.eth",
+        "name": "JuiceboxDAO",
+        "about": "The Decentralized Funding Platform. Community-owned, on Ethereum. Learn about our Governance Process: https://info.juicebox.money/dao/process/",
+        "avatar": "ipfs://QmNTrd3xuoS2EbfAiMTKCMBc3PeH27xZmiJsSS82aipW3S",
+        "network": "1",
+        "symbol": "JBX",
+        "admins": [
+            "0xf7253a0e87e39d2cd6365919d4a3d56d431d0041",
+            "0x823b92d6a4b2AED4b15675c7917c9f922ea8ADAD",
+            "0x63a2368f4b509438ca90186cb1c15156713d5834",
+            "0x30670d81e487c80b9edc54370e6eaf943b6eab39"
+        ],
+        "members": [
+            "0xf7253a0e87e39d2cd6365919d4a3d56d431d0041",
+            "0x823b92d6a4b2AED4b15675c7917c9f922ea8ADAD",
+            "0x63a2368f4b509438ca90186cb1c15156713d5834",
+            "0x6877be9e00d0bc5886c28419901e8cc98c1c2739",
+            "0x30670D81E487c80b9EDc54370e6EaF943B6EAB39",
+            "0x28C173B8F20488eEF1b0f48Df8453A2f59C38337",
+            "0x50e70c43a5dd812e2309eacea61348041011b4ba"
+        ],
+        "plugins": {
+            "commentBox": {}
+        },
+        "email": null,
+        "website": "https://juicebox.money",
+        "github": "jbx-protocol",
+        "twitter": "juiceboxETH",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 993,
+        "proposalsCount": 213
+    },
+    {
+        "id": "ren-project.eth",
+        "name": "Ren Project",
+        "about": "renproject.io - An open protocol providing access to inter-blockchain liquidity for all decentralized applications.",
+        "avatar": "ipfs://QmQqq2oaQMGQqB6LHGyr3q8noZYqMWJQzvMPhhRnSNbDTM",
+        "network": "1",
+        "symbol": "REN-DN*",
+        "admins": [
+            "0xD86ab12a08C2EA59cf4c381133C181310F3EF2A7",
+            "0xF54cf21835A12c825adbE2cFfF87a08C5aa1D430"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "renproject",
+        "twitter": "renprotocol",
+        "categories": [],
+        "followersCount": 88,
+        "proposalsCount": 23
+    },
+    {
+        "id": "decrypt-media.eth",
+        "name": "Decrypt Media",
+        "about": "A media company for the Web 3.0 age",
+        "avatar": "ipfs://QmPBEkCH4zK2eDnVUzmxYBaaa29rvTwbUaVztWayV6j3kD",
+        "network": "1",
+        "symbol": "DCT",
+        "admins": [
+            "0x0b04f5AC7D416494bBd876e652C02091827404b2",
+            "0xC26A38066829F3D2ea14114b96131C41ca23B648",
+            "0x81F855ab8EB2E7826d7De629dEE1021D3E14ED8C"
+        ],
+        "members": [
+            "0xC26A38066829F3D2ea14114b96131C41ca23B648",
+            "0x9Fd9917649244d9b0C17245b13dB82e035dF3942",
+            "0x829bDED403443c6594330BE9038b5F5D2d1D884a",
+            "0x0b04f5AC7D416494bBd876e652C02091827404b2",
+            "0x81F855ab8EB2E7826d7De629dEE1021D3E14ED8C"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "decryptMedia",
+        "twitter": "decryptmedia",
+        "categories": [],
+        "followersCount": 390,
+        "proposalsCount": 4
+    },
+    {
+        "id": "dao.decrypt.eth",
+        "name": "Decrypt DAO",
+        "about": "A Decentralized Media Organization",
+        "avatar": "ipfs://QmPBEkCH4zK2eDnVUzmxYBaaa29rvTwbUaVztWayV6j3kD",
+        "network": "137",
+        "symbol": "DEME",
+        "admins": [
+            "0x6079EDfd329c1bED72e888BD6875bec40AA536eB",
+            "0x81F855ab8EB2E7826d7De629dEE1021D3E14ED8C"
+        ],
+        "members": [
+            "0x6079EDfd329c1bED72e888BD6875bec40AA536eB",
+            "0x81F855ab8EB2E7826d7De629dEE1021D3E14ED8C",
+            "0xCAFd432b7EcAfff352D92fcB81c60380d437E99D"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "decryptMedia",
+        "twitter": "decryptmedia",
+        "categories": [],
+        "followersCount": 2,
+        "proposalsCount": 6
+    },
+    {
+        "id": "wonderversedao.eth",
+        "name": "Wonderverse",
+        "about": "Web3 community collaboration for paradigm-shifting dOrgs.",
+        "avatar": "",
+        "network": "137",
+        "symbol": "WOND",
+        "admins": [
+            "0xDA09985AD29A010bBC85A233F176986F8355d364"
+        ],
+        "members": [],
+        "plugins": {},
+        "email": null,
+        "website": "https://www.wonderverse.xyz/wonderverse.xyz",
+        "github": null,
+        "twitter": "wonderverse_xyz",
+        "categories": [
+            "protocol",
+            "service"
+        ],
+        "followersCount": 0,
+        "proposalsCount": 0
+    },
+    {
+        "id": "dataunions.eth",
+        "name": "Data Union DAO",
+        "about": "Ethical crowdsourcing of data powered by crypto",
+        "avatar": "ipfs://QmPwsFJHwD57cmFcKui288pNofYLpshGbjK1cXsWD4FkdQ",
+        "network": "1",
+        "symbol": "DATA",
+        "admins": [
+            "0xB4Cf7896AcCcE176739A59532FB245Fdb03971fB",
+            "0x42355e7dc0A872C465bE9DE4AcAAAcB5709Ce813"
+        ],
+        "members": [
+            "0x42355e7dc0A872C465bE9DE4AcAAAcB5709Ce813",
+            "0xFeAACDBBc318EbBF9BB5835D4173C1a7fC24B3b9"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "dataunions",
+        "twitter": "dataunions",
+        "categories": [],
+        "followersCount": 20,
+        "proposalsCount": 2
+    },
+    {
+        "id": "coordinape.eth",
+        "name": "Coordinape",
+        "about": "We go beyond just paying people \u2013we make the experience of working with DAOs more rewarding, human and fair.",
+        "avatar": "ipfs://QmSfQV8h9VMMWFFmw4qkcvCBTvoJFNqog12GE57xVH1vdN",
+        "network": "1",
+        "symbol": "-",
+        "admins": [
+            "0x1B312Cc76b59a12d3223b26d6DFd72b89B506caE",
+            "0xfa20d0e606e3ed73dae6ce3b3744cbe4b25a4002",
+            "0xc61288821b4722Ce29249F0BA03b633F0bE46a5A"
+        ],
+        "members": [
+            "0xc61288821b4722Ce29249F0BA03b633F0bE46a5A"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": "https://coordinape.com/",
+        "github": "coordinape",
+        "twitter": "coordinape",
+        "categories": [
+            "service",
+            "protocol"
+        ],
+        "followersCount": 3,
+        "proposalsCount": 0
+    },
+    {
+        "id": "snapshotplayground.eth",
+        "name": "Snapshot Playground",
+        "about": "Trying new things...",
+        "avatar": "https://medium.com/@nathan_44954/creating-your-snapshot-space-in-5-minutes-2c26480cd42b",
+        "network": "1",
+        "symbol": "VOTE",
+        "admins": [
+            "0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a"
+        ],
+        "members": [
+            "0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a"
+        ],
+        "plugins": {
+            "poap": {},
+            "charts": {},
+            "safeSnap": {},
+            "commentBox": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "snapshot-labs",
+        "twitter": "SnapshotLabs",
+        "categories": [],
+        "followersCount": 7,
+        "proposalsCount": 6
+    },
+    {
+        "id": "shot.eth",
+        "name": "Snapshot",
+        "about": "",
+        "avatar": "ipfs://QmdwhdABYxvZoLJaEmEM3mWtGuXpchzyhiLCrHgzL4KAgp",
+        "network": "1",
+        "symbol": "\ud83d\udca5",
+        "admins": [],
+        "members": [
+            "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7",
+            "0xCB678c41afc309c441aF88cB61c336DCFC06BEE3"
+        ],
+        "plugins": {
+            "poap": {}
+        },
+        "email": null,
+        "website": null,
+        "github": "snapshot-labs",
+        "twitter": "SnapshotLabs",
+        "categories": [],
+        "followersCount": 76,
+        "proposalsCount": 3
+    },
+    {
+        "id": "pistachiodao.eth",
+        "name": "Pistachio DAO",
+        "about": "Snapshot documentation demo space",
+        "avatar": "ipfs://bafkreihoi2zgftkok5zfxajhafgkntq733czlb6dh7i55bmxa3l5oxb63a",
+        "network": "1",
+        "symbol": "SHOT",
+        "admins": [
+            "0xf18469C65EAa335B8Ac83A43Fb1a1fE25b4cce4C",
+            "0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a",
+            "0xf18469c65eaa335b8ac83a43fb1a1fe25b4cce4c",
+            "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7"
+        ],
+        "members": [
+            "0xf18469C65EAa335B8Ac83A43Fb1a1fE25b4cce4C",
+            "0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a",
+            "0x42463808A8c903025704c92D8288478e8533Cb79"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "snapshot-labs",
+        "twitter": "SnapshotLabs",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 281,
+        "proposalsCount": 7
+    },
+    {
+        "id": "maha.eth",
+        "name": "MahaDAO",
+        "about": "",
+        "avatar": "https://raw.githubusercontent.com/snapshot-labs/snapshot-spaces/master/spaces/maha.eth/space.png",
+        "network": "137",
+        "symbol": "MAHAX",
+        "admins": [
+            "0xeccE08c2636820a81FC0c805dBDC7D846636bbc4"
+        ],
+        "members": [
+            "0xeccE08c2636820a81FC0c805dBDC7D846636bbc4",
+            "0x0d05Cb5572dD5dD93344566728a11B6A758bded6",
+            "0xD421B87F74E7dEB898Bd601B8f8a150b70d7aced",
+            "0x459438151b1f97880732cde20950523987EC6e91"
+        ],
+        "plugins": {},
+        "email": null,
+        "website": null,
+        "github": "mahadao",
+        "twitter": "themahadao",
+        "categories": [
+            "protocol"
+        ],
+        "followersCount": 123,
+        "proposalsCount": 12
+    }
+]
