@@ -4354,1083 +4354,1378 @@
         "website_link": "https://oceanprotocol.com/",
         "twitter_link": "https://twitter.com/oceanprotocol",
         "guild_id": "612953348487905282",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Unstoppable Domains",
         "guild_id": "778281721807241216",
         "twitter_link": "https://twitter.com/unstoppableweb",
         "website_link": "https://get.unstoppabledomains.com/twitter/?utm_source=twitter&utm_medium=organic_social&utm_campaign=twitter-profile",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "REITIO DAO",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/Fengyao19920221",
         "website_link": "https://lenster.xyz/u/reitio.lens",
-        "platforms": []
+        "platforms": [
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Chainwhiz",
         "guild_id": "891323816679186472",
         "twitter_link": "https://twitter.com/chainwhiz",
         "website_link": "https://www.chainwhiz.app/",
-        "platforms": []
+        "platforms": [
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "THORchain",
         "guild_id": "838986635756044328",
         "twitter_link": "https://twitter.com/thorchain",
-        "website_link": "https://thorchain.org/"
+        "website_link": "https://thorchain.org/",
+        "platforms": [
+            "thor"
+        ]
     },
     {
         "dao_name": "Duck Dao",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/dao_duck/",
-        "website_link": "https://duckdao.io/"
+        "website_link": "https://duckdao.io/",
+        "platforms": [
+            "ethereum",
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "ONTO Wallet",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/ONTOWallet",
-        "website_link": "https://onto.app/"
+        "website_link": "https://onto.app/",
+        "platforms": []
     },
     {
         "dao_name": "bitsCrunch",
         "guild_id": "860459595025219585",
         "twitter_link": "https://twitter.com/bitsCrunch",
-        "website_link": "https://bitscrunch.com/"
+        "website_link": "https://bitscrunch.com/",
+        "platforms": [
+            "ethereum",
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Karura",
         "guild_id": "709208197549785148",
         "twitter_link": "https://twitter.com/AcalaNetwork",
-        "website_link": "https://acala.network/karura"
+        "website_link": "https://acala.network/karura",
+        "platforms": [
+            "polkadot"
+        ]
     },
     {
         "dao_name": "Delphi Digital",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/Delphi_Digital",
-        "website_link": "https://delphidigital.io/"
+        "website_link": "https://delphidigital.io/",
+        "platforms": []
     },
     {
         "dao_name": "Wonderverse",
         "guild_id": "907435897568505866",
         "twitter_link": "https://twitter.com/wonderverse_xyz",
-        "website_link": "https://wonderverse.xyz"
+        "website_link": "https://wonderverse.xyz",
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "binance-smart-chain",
+            "arbitrum-one",
+            "optimistic-ethereum"
+        ]
     },
     {
         "dao_name": "After Office Hours",
         "guild_id": "784505329148624919",
         "twitter_link": "https://twitter.com/AfterOfficeHQ",
-        "website_link": "NA"
+        "website_link": "NA",
+        "platforms": []
     },
     {
         "dao_name": "Ratofy",
         "guild_id": "961658188107751484",
         "twitter_link": "https://twitter.com/ratofyDAO",
-        "website_link": "https://ratofyverse.com"
+        "website_link": "https://ratofyverse.com",
+        "platforms": [
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Web3 Foundation",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/web3foundation",
-        "website_link": "https://web3.foundation/"
+        "website_link": "https://web3.foundation/",
+        "platforms": []
     },
     {
         "dao_name": "Upland",
         "guild_id": "599294224285827072",
         "twitter_link": "https://twitter.com/uplandme",
-        "website_link": "https://www.upland.me/"
+        "website_link": "https://www.upland.me/",
+        "platforms": []
     },
     {
         "dao_name": "Nansen",
         "guild_id": "568763168441106433",
         "twitter_link": "https://twitter.com/nansen_ai",
-        "website_link": "https://www.nansen.ai/"
+        "website_link": "https://www.nansen.ai/",
+        "platforms": []
     },
     {
         "dao_name": "PretzelDAO",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/PretzelDAO?t=ybr5YRLEnry9XEbP5-HNDg&s=09",
-        "website_link": "https://www.pretzeldao.com/"
+        "website_link": "https://www.pretzeldao.com/",
+        "platforms": []
     },
     {
         "dao_name": "Padawan DAO",
         "guild_id": "905165514173714474",
         "twitter_link": "https://twitter.com/PadawanDAO",
-        "website_link": "https://padawandao.com/"
+        "website_link": "https://padawandao.com/",
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Carv",
         "guild_id": "915445727600205844",
         "twitter_link": "https://twitter.com/carv_official ",
-        "website_link": "https://carv.io/ "
+        "website_link": "https://carv.io/ ",
+        "platforms": []
     },
     {
         "dao_name": "UMA",
         "guild_id": "718590743446290492",
         "twitter_link": "https://twitter.com/UMAprotocol",
-        "website_link": "https://umaproject.org/"
+        "website_link": "https://umaproject.org/",
+        "platforms": [
+            "ethereum",
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Kudos",
         "guild_id": "917259207739318362",
         "twitter_link": "https://twitter.com/mintkudosXYZ",
-        "website_link": "https://mintkudos.xyz"
+        "website_link": "https://mintkudos.xyz",
+        "platforms": [
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Cityroots",
         "guild_id": "870775957898801182",
         "twitter_link": "https://twitter.com/CityRootsNFT",
-        "website_link": "https://apps.cityroots.io/home"
+        "website_link": "https://apps.cityroots.io/home",
+        "platforms": []
     },
     {
         "dao_name": "Crypto Bharat Community",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/Crypto_Bharat",
-        "website_link": "https://twitter.com/Crypto_Bharat"
+        "website_link": "https://twitter.com/Crypto_Bharat",
+        "platforms": []
     },
     {
         "dao_name": "IDriss",
         "guild_id": "895318072179716106",
         "twitter_link": "https://twitter.com/IDriss_xyz",
-        "website_link": "https://www.idriss.xyz/"
+        "website_link": "https://www.idriss.xyz/",
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "binance-smart-chain",
+            "solana"
+        ]
     },
     {
         "dao_name": "Onomy Protocol",
         "guild_id": "790706044741222407",
         "twitter_link": "https://twitter.com/OnomyProtocol",
-        "website_link": "https://onomy.io/"
+        "website_link": "https://onomy.io/",
+        "platforms": [
+            "ethereum",
+            "polkadot",
+            "near",
+            "cosmos",
+            "arbitrum-one"
+        ]
     },
     {
         "dao_name": "Umbria Network",
         "guild_id": "765134619120762901",
         "twitter_link": "https://twitter.com/NetworkUmbria",
-        "website_link": "https://umbria.network/"
+        "website_link": "https://umbria.network/",
+        "platforms": [
+            "ethereum",
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Data Union DAO",
         "guild_id": "853941437602070549",
         "twitter_link": "https://twitter.com/dataunions",
-        "website_link": "https://dataunions.org/"
+        "website_link": "https://dataunions.org/",
+        "platforms": []
     },
     {
         "dao_name": "Tanukiverse",
         "guild_id": "924675060617343037",
         "twitter_link": "https://twitter.com/tanukiverse_hq",
-        "website_link": "https://tanukiverse.com/"
+        "website_link": "https://tanukiverse.com/",
+        "platforms": [
+            "polygon-pos",
+            "near"
+        ]
     },
     {
         "dao_name": "NestFi",
         "guild_id": "895995470529306644",
         "twitter_link": "https://twitter.com/nestficlub",
-        "website_link": "https://nestfi.io/"
+        "website_link": "https://nestfi.io/",
+        "platforms": []
     },
     {
         "dao_name": "Boba Network",
         "guild_id": "795820411836563466",
         "twitter_link": "https://twitter.com/bobanetwork",
-        "website_link": "https://boba.network/"
+        "website_link": "https://boba.network/",
+        "platforms": [
+            "ethereum",
+            "boba"
+        ]
     },
     {
         "dao_name": "StudentDAO",
         "guild_id": "971747381827756082",
         "twitter_link": "https://twitter.com/joinstudentdao",
-        "website_link": "https://www.joinstudentdao.com/"
+        "website_link": "https://www.joinstudentdao.com/",
+        "platforms": []
     },
     {
         "dao_name": "IndiGG",
         "guild_id": "904054419597955164",
         "twitter_link": "https://twitter.com/YGGIndia",
-        "website_link": "https://indi.gg/"
+        "website_link": "https://indi.gg/",
+        "platforms": [
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Yearn Finance",
         "guild_id": "734804446353031319",
         "twitter_link": "https://twitter.com/iearnfinance",
-        "website_link": "https://yearn.finance/"
+        "website_link": "https://yearn.finance/",
+        "platforms": [
+            "ethereum",
+            "fantom",
+            "arbitrum-one"
+        ]
     },
     {
         "dao_name": "Continuum.xyz",
         "guild_id": "790000762734116864",
         "twitter_link": "https://twitter.com/continuumxyz",
-        "website_link": "https://www.continuum.xyz/"
+        "website_link": "https://www.continuum.xyz/",
+        "platforms": [
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Coordinape",
         "guild_id": "845400066532704256",
         "twitter_link": "https://twitter.com/coordinape",
-        "website_link": "https://coordinape.com/"
+        "website_link": "https://coordinape.com/",
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "chippi",
         "guild_id": "955483800769552466",
         "twitter_link": "https://twitter.com/chippiNFT",
-        "website_link": "https://linktr.ee/chippinft"
+        "website_link": "https://linktr.ee/chippinft",
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Tokenomics DAO",
         "guild_id": "915731508789141564",
         "twitter_link": "https://twitter.com/tokenomicsdao",
-        "website_link": "https://tokenomicsdao.com/"
+        "website_link": "https://tokenomicsdao.com/",
+        "platforms": []
     },
     {
         "dao_name": "Givosity",
         "guild_id": "920701692390035487",
         "twitter_link": "https://mobile.twitter.com/GivosityDAO",
-        "website_link": "https://www.givosity.org/"
+        "website_link": "https://www.givosity.org/",
+        "platforms": []
     },
     {
         "dao_name": "Quilt",
         "guild_id": "907008018179297301",
         "twitter_link": "https://twitter.com/Quilt_chat",
-        "website_link": "https://quilt.chat/"
+        "website_link": "https://quilt.chat/",
+        "platforms": [
+            "tezos"
+        ]
     },
     {
         "dao_name": "Huddle01",
         "guild_id": "890224574761926756",
         "twitter_link": "https://twitter.com/huddle01com",
-        "website_link": "https://huddle01.com/"
+        "website_link": "https://huddle01.com/",
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Quest3",
         "guild_id": "966230829015646249",
         "twitter_link": "https://twitter.com/Quest3_xyz",
-        "website_link": "http://quest3.xyz"
+        "website_link": "http://quest3.xyz",
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "arbitrum-one",
+            "optimistic-ethereum",
+            "binance-smart-chain",
+        ]
     },
     {
         "dao_name": "SolRazr",
         "guild_id": "886683619958079538",
         "twitter_link": "https://twitter.com/Solrazr_App",
-        "website_link": "https://solrazr.com/"
+        "website_link": "https://solrazr.com/",
+        "platforms": [
+            "solana"
+        ]
     },
     {
         "dao_name": "Talent Protocol",
         "guild_id": "834047763661455399",
         "twitter_link": "https://twitter.com/talentprotocol",
-        "website_link": "https://talentprotocol.com/"
+        "website_link": "https://talentprotocol.com/",
+        "platforms": []
     },
     {
         "dao_name": "CoinF Research",
         "guild_id": "874495944756985896",
         "twitter_link": "https://twitter.com/CoinF_io",
-        "website_link": "https://coinf.io/"
+        "website_link": "https://coinf.io/",
+        "platforms": []
     },
     {
         "dao_name": "ChoiceDAO",
         "guild_id": "989990142422945792",
         "twitter_link": "https://twitter.com/thechoicedao",
-        "website_link": "https://choicedao.org"
+        "website_link": "https://choicedao.org",
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Axie Infinity",
         "guild_id": "410537146672349205",
         "twitter_link": "https://twitter.com/AxieInfinity",
-        "website_link": "https://axieinfinity.com/"
+        "website_link": "https://axieinfinity.com/",
+        "platforms": [
+            "ethereum",
+            "ronin",
+            "binance-smart-chain",
+            "energi"
+        ]
     },
     {
         "dao_name": "Aptos",
         "guild_id": "945856774056083548",
         "twitter_link": "https://twitter.com/aptoslabs",
-        "website_link": "https://aptoslabs.com/"
+        "website_link": "https://aptoslabs.com/",
+        "platforms": [
+            "aptos"
+        ]
     },
     {
         "dao_name": "Bonfida",
         "guild_id": "778660171265474572",
         "twitter_link": "https://twitter.com/bonfida",
-        "website_link": "https://bonfida.org/#/"
+        "website_link": "https://bonfida.org/#/",
+        "platforms": [
+            "solana"
+        ]
     },
     {
         "dao_name": "Anza Academy",
         "guild_id": "963846282420572202",
         "twitter_link": "https://twitter.com/anzaacademy",
-        "website_link": "https://anza.academy"
+        "website_link": "https://anza.academy",
+        "platforms": [
+            "near"
+        ]
     },
     {
         "dao_name": "Blu3 DAO",
         "guild_id": "930684038237265970",
         "twitter_link": "https://twitter.com/blu3dao",
-        "website_link": "https://blu3dao.com"
+        "website_link": "https://blu3dao.com",
+        "platforms": []
     },
     {
         "dao_name": "RnDAO",
         "guild_id": "915914985140531240",
         "twitter_link": "https://twitter.com/rndao__",
-        "website_link": "https://rndao.info"
+        "website_link": "https://rndao.info",
+        "platforms": []
     },
     {
         "dao_name": "Dialect",
         "guild_id": "944285706963017758",
         "twitter_link": "https://twitter.com/saydialect",
-        "website_link": "https://www.dialect.to/"
+        "website_link": "https://www.dialect.to/",
+        "platforms": [
+            "solana"
+        ]
     },
     {
         "dao_name": "KALA Network",
         "guild_id": "1003969419963285514",
         "twitter_link": "https://twitter.com/kala_network",
-        "website_link": "https://kala.network/"
+        "website_link": "https://kala.network/",
+        "platforms": []
     },
     {
         "dao_name": "Snapshot",
         "guild_id": "707079246388133940",
         "twitter_link": "https://twitter.com/SnapshotLabs",
-        "website_link": "https://snapshot.org/#/"
+        "website_link": "https://snapshot.org/#/",
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "TechTree",
         "guild_id": "912287996483633173",
         "twitter_link": "https://twitter.com/TechTree_dev",
-        "website_link": "https://techtree.dev/"
+        "website_link": "https://techtree.dev/",
+        "platforms": []
     },
     {
         "dao_name": "MahaDAO",
         "guild_id": "746433728363888640",
         "twitter_link": "https://twitter.com/themahadao",
-        "website_link": "https://mahadao.com/"
+        "website_link": "https://mahadao.com/",
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "101",
         "guild_id": "938573308822171669",
         "twitter_link": "https://twitter.com/101dotxyz ",
-        "website_link": "https://101.xyz"
+        "website_link": "https://101.xyz",
+        "platforms": [
+            "polygon-pos",
+            "celo"
+        ]
     },
     {
         "dao_name": "Scallop",
         "guild_id": "851773388301139978",
         "twitter_link": "https://twitter.com/Scallop_io",
-        "website_link": "https://scallop.io/"
+        "website_link": "https://scallop.io/",
+        "platforms": [
+            "solana"
+        ]
     },
     {
         "dao_name": "Orca",
         "guild_id": "798712664590254081",
         "twitter_link": "https://twitter.com/orca_so",
-        "website_link": "https://www.orca.so/"
+        "website_link": "https://www.orca.so/",
+        "platforms": []
     },
     {
         "dao_name": "Jupiter Aggregator",
         "guild_id": "897540204506775583",
         "twitter_link": "https://twitter.com/JupiterExchange",
-        "website_link": "https://Jup.ag"
+        "website_link": "https://Jup.ag",
+        "platforms": [
+            "solana"
+        ]
     },
     {
         "dao_name": "Codeless Conduct",
         "guild_id": "907264306297573396",
         "twitter_link": "https://twitter.com/codelesscon",
-        "website_link": "https://codelessconduct.org/"
+        "website_link": "https://codelessconduct.org/",
+        "platforms": []
     },
     {
         "dao_name": "Opolis",
         "guild_id": "582979245429489664",
         "twitter_link": "https://twitter.com/opolis",
-        "website_link": "https://opolis.co/"
+        "website_link": "https://opolis.co/",
+        "platforms": []
     },
     {
         "dao_name": "Moledao",
         "guild_id": "888054827370811402",
         "twitter_link": "https://twitter.com/moledao_io",
-        "website_link": "https://moledao.io/#/home"
+        "website_link": "https://moledao.io/#/home",
+        "platforms": []
     },
     {
         "dao_name": "8DAO",
         "guild_id": "895398161395359804",
         "twitter_link": "https://twitter.com/8DAO8DAO",
-        "website_link": "https://8dao.io/"
+        "website_link": "https://8dao.io/",
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "QuillAudits Newsletter",
         "guild_id": "793101073086021634",
         "twitter_link": "https://twitter.com/QuillAudits",
-        "website_link": "https://audits.quillhash.com/smart-contract-audit"
+        "website_link": "https://audits.quillhash.com/smart-contract-audit",
+        "platforms": []
     },
     {
         "dao_name": "Metablox",
         "guild_id": "906041993388515338",
         "twitter_link": "https://twitter.com/MetabloxNFTs",
-        "website_link": "https://metablox.co"
+        "website_link": "https://metablox.co",
+        "platforms": [
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "DIA DAO",
         "guild_id": "772395240677179402",
         "twitter_link": "https://twitter.com/DIAdata_org",
-        "website_link": "https://www.diadata.org/"
+        "website_link": "https://www.diadata.org/",
+        "platforms": []
     },
     {
         "dao_name": "Pillar DAO",
         "guild_id": "466613981000237056",
         "twitter_link": "https://twitter.com/pillarwallet",
-        "website_link": "https://pillar.fi"
+        "website_link": "https://pillar.fi",
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "jokedao",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/jokedao_",
-        "website_link": "jokedao.io"
+        "website_link": "www.jokedao.io",
+        "platforms": []
     },
     {
         "dao_name": "dYdX",
         "guild_id": "724804754382782534",
         "twitter_link": "https://twitter.com/dydx",
-        "website_link": "https://dydx.exchange/"
+        "website_link": "https://dydx.exchange/",
+        "platforms": []
     },
     {
         "dao_name": "Polynomial Protocol",
         "guild_id": "843170059006640179",
         "twitter_link": "https://twitter.com/PolynomialFi",
-        "website_link": "https://www.polynomial.fi/"
+        "website_link": "https://www.polynomial.fi/",
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Decentral Bank  (USN)",
         "twitter_link": "https://twitter.com/DcntrlBank",
         "website_link": "https://medium.com/@dcntrlbank",
-        "guild_id": "968055425050222602"
+        "guild_id": "968055425050222602",
+        "platforms": []
     },
     {
         "dao_name": "Worknb",
         "twitter_link": "https://twitter.com/WorknbDAO",
         "website_link": "https://www.facebook.com/worknb",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Sarcophagus  (SARCO)",
         "twitter_link": "https://twitter.com/sarcophagusio",
         "website_link": "https://medium.com/sarcophagus",
-        "guild_id": "753398645507883099"
+        "guild_id": "753398645507883099",
+        "platforms": []
     },
     {
         "dao_name": "Swagger DAO",
         "twitter_link": "https://twitter.com/SwaggerDao",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Empyrean DAO  (EMPYR)",
         "twitter_link": "https://twitter.com/empyreanfi",
         "website_link": "https://empyreanfi.medium.com/",
-        "guild_id": "913410549834997790"
+        "guild_id": "913410549834997790",
+        "platforms": []
     },
     {
         "dao_name": "DAOrecords",
         "twitter_link": "https://twitter.com/DAOrecords_",
         "website_link": "https://medium.com/@daorecords",
-        "guild_id": "678241559032102923"
+        "guild_id": "678241559032102923",
+        "platforms": []
     },
     {
         "dao_name": "Myriad Social  (MYRIA)",
         "twitter_link": "https://twitter.com/myriad_social",
         "website_link": "https://medium.com/myriad-social",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "TavernDAO  (TVN)",
         "twitter_link": "https://twitter.com/TavernDAO",
         "website_link": "https://medium.com/@TavernDAO",
-        "guild_id": "863371674220888064"
+        "guild_id": "863371674220888064",
+        "platforms": []
     },
     {
         "dao_name": "Billionaire Bulls Club",
         "twitter_link": "https://twitter.com/bullsnear",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "DEIP  (DEIP)",
         "twitter_link": "https://twitter.com/deip_world",
         "website_link": "https://medium.com/deip",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Art Frontir",
         "twitter_link": "https://twitter.com/artfrontirdao",
         "website_link": "",
-        "guild_id": "926423538708140072"
+        "guild_id": "926423538708140072",
+        "platforms": []
     },
     {
         "dao_name": "512DAO",
         "twitter_link": "https://twitter.com/512dao",
         "website_link": "",
-        "guild_id": "940249197339365456"
+        "guild_id": "940249197339365456",
+        "platforms": []
     },
     {
         "dao_name": "Paradox DAO  (PRDX)",
         "twitter_link": "https://twitter.com/Paradox_DAO",
         "website_link": "https://medium.com/@ParadoxDAO",
-        "guild_id": "927589025240457256"
+        "guild_id": "927589025240457256",
+        "platforms": [
+            "near"
+        ]
     },
     {
         "dao_name": "CURA",
         "twitter_link": "https://twitter.com/CuraOnNear",
         "website_link": "https://github.com/curaOS",
-        "guild_id": "920776075892645898"
+        "guild_id": "920776075892645898",
+        "platforms": [
+            "near"
+        ]
     },
     {
         "dao_name": "Incubadora DAO",
         "twitter_link": "https://twitter.com/IncubadoraDAO",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Capsule Social",
         "twitter_link": "https://twitter.com/capsulesoc",
         "website_link": "https://github.com/capsulesocial",
-        "guild_id": "809438859053629450"
+        "guild_id": "809438859053629450",
+        "platforms": []
     },
     {
         "dao_name": "Bepro Network",
         "twitter_link": "https://twitter.com/bepronet",
         "website_link": "https://bepronetwork.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "CornerstoneDAO  (CORN)",
         "twitter_link": "https://twitter.com/CornerstoneDAO",
         "website_link": "https://medium.com/@CornerstoneDAO",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "SailGP DAO",
         "twitter_link": "https://twitter.com/SailGP",
         "website_link": "https://www.facebook.com/SailGP",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "TENK DAO",
         "twitter_link": "https://twitter.com/TenkDAO",
         "website_link": "https://github.com/TENK-DAO",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "BluntDAO",
         "twitter_link": "https://twitter.com/bluntdao",
         "website_link": "https://medium.com/@bluntdao",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Unit Network",
         "twitter_link": "https://twitter.com/theunitnetwork",
         "website_link": "https://www.unit.network/documents/Unit_Litepaper_2022_v3.pdf",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Clubeeo",
         "twitter_link": "https://twitter.com/ClubeeoOfficial",
         "website_link": "https://github.com/clubeeo",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Capital DEX",
         "twitter_link": "https://twitter.com/curio_invest",
         "website_link": "https://investcurio.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Kin DAO",
         "twitter_link": "https://twitter.com/thekindao",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Creatives DAO",
         "twitter_link": "https://twitter.com/creativesdao",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "BetterHQ",
         "twitter_link": "https://twitter.com/betterdao",
         "website_link": "https://github.com/better-feedback",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "DAOHQ",
         "twitter_link": "https://twitter.com/dao_hq",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Nephilim NFT",
         "twitter_link": "https://twitter.com/HouseOfNephilim",
         "website_link": "https://lp.thenephilim.io/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NearMoon DAO",
         "twitter_link": "https://twitter.com/nearmoondao",
         "website_link": "https://docs.nearmoon.finance/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "reBaked  (BAKED)",
         "twitter_link": "https://twitter.com/rebaked_dao",
         "website_link": "https://medium.com/rebakedinc",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Rift Finance",
         "twitter_link": "https://twitter.com/RiftFinance",
         "website_link": "https://docs.rift.finance/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Marma J Foundation  (MARMAJ)",
         "twitter_link": "https://twitter.com/itsmarmaj",
         "website_link": "https://www.facebook.com/marmajfoundation/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "New Order  (NEWO)",
         "twitter_link": "https://twitter.com/neworderdao",
         "website_link": "https://docs.neworder.network/new-order/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "CannaDAO",
         "twitter_link": "https://twitter.com/the_cannadao",
         "website_link": "https://assets.cannadao.org/greenpaper.pdf",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NearDAO",
         "twitter_link": "https://twitter.com/NearDAO",
         "website_link": "https://medium.com/neardao",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Inite",
         "twitter_link": "https://twitter.com/initeio",
         "website_link": "https://inite.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Open DeFi",
         "twitter_link": "https://twitter.com/open_defi",
         "website_link": "https://opendefi.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "VN Artists DAO",
         "twitter_link": "https://twitter.com/VNArtistsDAO",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR GoaDAO",
         "twitter_link": "https://twitter.com/goanearopenweb",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Niche",
         "twitter_link": "https://twitter.com/nicheprotocol",
         "website_link": "https://www.facebook.com/nicheprotocol",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Unchain Fund",
         "twitter_link": "https://twitter.com/Unchainfund",
         "website_link": "https://www.facebook.com/unchainfund/",
-        "guild_id": "946559296823500840"
+        "guild_id": "946559296823500840",
+        "platforms": []
     },
     {
         "dao_name": "GuildX",
         "twitter_link": "https://twitter.com/GuildXEcosystem",
         "website_link": "https://medium.com/@guildx",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Hacker House",
         "twitter_link": "https://twitter.com/NearHacks",
         "website_link": "https://nearhacks.medium.com/",
-        "guild_id": "956393733438447616"
+        "guild_id": "956393733438447616",
+        "platforms": []
     },
     {
         "dao_name": "Idavoll DAO  (IDV)",
         "twitter_link": "https://twitter.com/idavollDAO",
         "website_link": "https://idavolldao.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Loom DAO",
         "twitter_link": "https://twitter.com/loom_dao",
         "website_link": "https://loomdao.org/LOOM_DAO_WHITEPAPER.pdf",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Antisocial Labs",
         "twitter_link": "https://twitter.com/antisocial_labs",
         "website_link": "https://medium.com/@antisocialstudios",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "OSS DAO  (OSS)",
         "twitter_link": "https://twitter.com/OSSDAO_ORG",
         "website_link": "",
-        "guild_id": "927967907495944273"
+        "guild_id": "927967907495944273",
+        "platforms": []
     },
     {
         "dao_name": "Near-multicall",
         "twitter_link": "https://twitter.com/near_multicall",
         "website_link": "https://github.com/near-multicall",
-        "guild_id": "957822638460375141"
+        "guild_id": "957822638460375141",
+        "platforms": []
     },
     {
         "dao_name": "NEAR MEME Daily",
         "twitter_link": "https://twitter.com/NearMemeDaily",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Raiz Vertical Farms",
         "twitter_link": "https://twitter.com/RaizFarms",
         "website_link": "https://medium.com/@raizverticalfarms",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "JCP-RELIANCE",
         "guild_id": "919638313512611840",
         "twitter_link": "https://twitter.com/MagKey3",
-        "website_link": "https://mirror.xyz/0x92a825909dcC69591618209ABa8Df71f1F06A91e"
+        "website_link": "https://mirror.xyz/0x92a825909dcC69591618209ABa8Df71f1F06A91e",
+        "platforms": []
     },
     {
         "dao_name": "Stellars DAO",
         "guild_id": "964426155597922325",
         "twitter_link": "https://twitter.com/stellarsdao",
-        "website_link": "https://stellarsdao.com/"
+        "website_link": "https://stellarsdao.com/",
+        "platforms": []
     },
     {
         "dao_name": "Geode Finance",
         "guild_id": "872799881142603808",
         "twitter_link": "https://twitter.com/Geode_Finance",
-        "website_link": "https://geode.fi"
+        "website_link": "https://geode.fi",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Docs",
         "twitter_link": "",
         "website_link": "https://docs.near.org/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR University",
         "twitter_link": "https://twitter.com/NEARUniversity",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Learn NEAR Club",
         "twitter_link": "https://twitter.com/LearnNear",
         "website_link": "https://github.com/Learn-NEAR",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEARWEEK",
         "twitter_link": "https://twitter.com/NEARWEEK",
         "website_link": "https://medium.com/nearweek",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "AwesomeNEAR",
         "twitter_link": "https://twitter.com/awesome_near",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Examples",
         "twitter_link": "",
         "website_link": "https://github.com/near-examples",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Nomicon",
         "twitter_link": "https://twitter.com/NEARProtocol",
         "website_link": "https://wiki.near.org/",
-        "guild_id": "490367152054992913"
+        "guild_id": "490367152054992913",
+        "platforms": []
     },
     {
         "dao_name": "Near Insider",
         "twitter_link": "https://twitter.com/near_insider",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Nearity",
         "twitter_link": "https://twitter.com/Nearity_org",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Mates",
         "twitter_link": "https://twitter.com/Near_Mates",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Wiki",
         "twitter_link": "https://twitter.com/nearprotocol",
         "website_link": "https://www.youtube.com/channel/UCuKdIYVN8iE3fv8alyk1aMw",
-        "guild_id": "490367152054992913"
+        "guild_id": "490367152054992913",
+        "platforms": []
     },
     {
         "dao_name": "NearZombies",
         "twitter_link": "https://twitter.com/nearzombies",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Ready Layer One",
         "twitter_link": "https://twitter.com/ready_layer_one",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Nearians",
         "twitter_link": "https://twitter.com/Nearians_",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR NEWS",
         "twitter_link": "https://twitter.com/NEARMEME1",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Near Journal",
         "twitter_link": "https://twitter.com/Near_Journal",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Portal",
         "twitter_link": "https://twitter.com/NEAR_China",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Academy",
         "twitter_link": "",
         "website_link": "https://github.com/NEAR-Edu/near.academy",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Insights",
         "twitter_link": "https://twitter.com/insights_near",
         "website_link": "https://insights-near.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Daily",
         "twitter_link": "https://twitter.com/NEAR_Daily",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "4NTS Guild",
         "twitter_link": "https://twitter.com/4ntsguild",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Guilds",
         "twitter_link": "https://twitter.com/4NTSGuild",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "INC4",
         "twitter_link": "https://twitter.com/INC_4_",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Crowd",
         "twitter_link": "https://twitter.com/NEARCrowd",
         "website_link": "https://github.com/NEARCrowd",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Open Shards Alliance",
         "twitter_link": "https://twitter.com/OpenShards",
         "website_link": "https://github.com/near-guildnet",
-        "guild_id": "727469632537231373"
+        "guild_id": "727469632537231373",
+        "platforms": []
     },
     {
         "dao_name": "CODAME",
         "twitter_link": "https://twitter.com/CODAME",
         "website_link": "https://medium.com/codame-art-tech",
-        "guild_id": "428261430270361600"
+        "guild_id": "428261430270361600",
+        "platforms": []
     },
     {
         "dao_name": "Cypherpunk Guild",
         "twitter_link": "https://twitter.com/cypherpunkguild",
         "website_link": "https://cypherpunkguild.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Human Guild",
         "twitter_link": "https://twitter.com/humanguild",
         "website_link": "",
-        "guild_id": "808933630683775008"
+        "guild_id": "808933630683775008",
+        "platforms": []
     },
     {
         "dao_name": "Octopus Guild",
         "twitter_link": "https://twitter.com/octguild",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Games Guild",
         "twitter_link": "https://twitter.com/NearGamesGuild",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Data Guild",
         "twitter_link": "https://twitter.com/CenterNear",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Open Web Sandbox",
         "twitter_link": "https://twitter.com/openwebsandbox",
         "website_link": "https://medium.com/open-web-sandbox-near",
-        "guild_id": "819036056846204968"
+        "guild_id": "819036056846204968",
+        "platforms": []
     },
     {
         "dao_name": "Silicon Craftsmen",
         "twitter_link": "https://twitter.com/uxisnear",
         "website_link": "https://uxisnear.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR NFT Club",
         "twitter_link": "https://twitter.com/NearNft",
         "website_link": "https://www.facebook.com/nearnft/",
-        "guild_id": "892149837057916978"
+        "guild_id": "892149837057916978",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Music Guild",
         "twitter_link": "https://twitter.com/nxmlive",
         "website_link": "https://nxmlive.medium.com/",
-        "guild_id": "826859896917065828"
+        "guild_id": "826859896917065828",
+        "platforms": []
     },
     {
         "dao_name": "mutiDAO",
         "twitter_link": "https://twitter.com/CollectiveMuti",
         "website_link": "https://www.facebook.com/muti.collective/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEARchan",
         "twitter_link": "",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Clean NFT Guild",
         "twitter_link": "https://twitter.com/clean_nfts",
         "website_link": "https://cleannfts.medium.com/",
-        "guild_id": "808862864114057246"
+        "guild_id": "808862864114057246",
+        "platforms": []
     },
     {
         "dao_name": "HypeDAO  (HYPE)",
         "twitter_link": "https://twitter.com/HypeDAO",
         "website_link": "https://medium.com/hypedao",
-        "guild_id": "867769628473819136"
+        "guild_id": "867769628473819136",
+        "platforms": []
     },
     {
         "dao_name": "MintbaseDAO",
         "twitter_link": "https://twitter.com/MintbaseDAO",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Merchants of NEAR",
         "twitter_link": "https://twitter.com/MerchantsNear",
         "website_link": "https://merchantsofnear.medium.com/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Harmonic Guild",
         "twitter_link": "https://twitter.com/HarmonicGuild",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Minting Music Guild",
         "twitter_link": "https://twitter.com/mintingmusic1",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR RU Guild",
         "twitter_link": "https://twitter.com/near_protocol",
         "website_link": "https://medium.com/@near-ru",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Near Protocol Games",
         "twitter_link": "https://twitter.com/play_on_near",
         "website_link": "https://medium.com/@NEARGaming",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "C1 Guild",
         "twitter_link": "https://twitter.com/dum_unu",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Vital Point AI",
         "twitter_link": "https://twitter.com/vitalpoint_ai",
         "website_link": "https://github.com/VitalPointAI",
-        "guild_id": "723879805107306496"
+        "guild_id": "723879805107306496",
+        "platforms": []
     },
     {
         "dao_name": "The Corpsemen",
         "twitter_link": "https://twitter.com/thecorpsemen",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Minerall Guild",
         "twitter_link": "https://twitter.com/minerall_io",
         "website_link": "https://www.facebook.com/minerall.io/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Flying Rhino Guild",
         "twitter_link": "https://twitter.com/flying_rhino1",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "LEGAL GUILD",
         "twitter_link": "https://twitter.com/guildnear",
         "website_link": "https://medium.com/@legalguildnear",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Sankore 2.0",
         "twitter_link": "https://twitter.com/sankore2_0",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "NEAR Intelligence Agency",
         "twitter_link": "",
         "website_link": "",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Arroz Criativo",
         "twitter_link": "https://twitter.com/ArrozEstudios",
         "website_link": "https://www.facebook.com/ArrozEstudios/",
-        "guild_id": "919638313512611840"
+        "guild_id": "919638313512611840",
+        "platforms": []
     },
     {
         "dao_name": "Symbiosis",
         "guild_id": "884470353739534387",
         "twitter_link": "https://twitter.com/symbiosis_fi",
-        "website_link": "https://symbiosis.finance/"
+        "website_link": "https://symbiosis.finance/",
+        "platforms": []
     }
 ]
