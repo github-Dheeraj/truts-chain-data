@@ -2739,7 +2739,10 @@
         "website_link": "https://daomaker.com/",
         "twitter_link": "https://twitter.com/thedaomaker",
         "guild_id": "966017727032623205",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "空投信息二手分享",
@@ -3564,7 +3567,10 @@
         "website_link": "https://edennetwork.io/",
         "twitter_link": "https://twitter.com/EdenNetwork",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "avalanche"
+        ]
     },
     {
         "dao_name": "Electric Coin Company",
@@ -3578,7 +3584,9 @@
         "website_link": "https://enterdao.xyz/",
         "twitter_link": "https://twitter.com/EnterDao",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "ENTROPES",
@@ -3592,7 +3600,9 @@
         "website_link": "https://epns.io/",
         "twitter_link": "https://twitter.com/epnsproject",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Filecoin Foundation",
@@ -3627,7 +3637,9 @@
         "website_link": "https://fantom.fujidao.org/#/",
         "twitter_link": "https://twitter.com/FujiFinance",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "fantom"
+        ]
     },
     {
         "dao_name": "Futureswap",
@@ -3648,7 +3660,9 @@
         "website_link": "https://goldcoinreserve.io/",
         "twitter_link": "https://twitter.com/goldcoinreserve",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "GnosisGuild",
@@ -3662,42 +3676,48 @@
         "website_link": "https://t.co/HQUR9Tkcp0",
         "twitter_link": "https://twitter.com/goopdao",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "HOPR",
         "website_link": "https://hoprnet.org/",
         "twitter_link": "https://twitter.com/hoprnet",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "blockscout"
+        ]
     },
     {
         "dao_name": "Index coop",
         "website_link": "https://www.indexcoop.com/",
         "twitter_link": "https://twitter.com/indexcoop",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Indexed Finance",
         "website_link": "https://indexed.finance/",
         "twitter_link": "https://twitter.com/ndxfi",
         "guild_id": "919638313512611840",
-        "platforms": []
-    },
-    {
-        "dao_name": "Instadapp",
-        "website_link": "https://instadapp.io/",
-        "twitter_link": "https://twitter.com/instadapp",
-        "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Inverse",
         "website_link": "https://www.inverse.finance/",
         "twitter_link": "https://twitter.com/InverseFinance",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "fantom"
+        ]
     },
     {
         "dao_name": "ITAM DAO",
@@ -3732,14 +3752,20 @@
         "website_link": "https://kassandra.finance/",
         "twitter_link": "https://twitter.com/dao_kassandra",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "avalanche"
+        ]
     },
     {
         "dao_name": "KogeCoin",
         "website_link": "https://kogecoin.io/",
         "twitter_link": "https://twitter.com/kogecoin",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "polygon-pos",
+            "fantom",
+            "moonriver"
+        ]
     },
     {
         "dao_name": "Krause Hause DAO",
@@ -3753,14 +3779,22 @@
         "website_link": "https://kylin.network/",
         "twitter_link": "https://twitter.com/Kylin_Network",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Liquality",
         "website_link": "https://liquality.io/",
         "twitter_link": "https://twitter.com/liquality_io",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "binance-smart-chain",
+            "arbitrum-one",
+            "near"
+        ]
     },
     {
         "dao_name": "Liquidity Network",
@@ -3774,14 +3808,18 @@
         "website_link": "https://landshare.io/",
         "twitter_link": "https://twitter.com/landshareio",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "LootMetaverseDAO",
         "website_link": "https://www.lootmetaverse.club/",
         "twitter_link": "https://twitter.com/LootMetaverse",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "MadRealities DAO",
@@ -3802,7 +3840,9 @@
         "website_link": "https://linksdao.io/",
         "twitter_link": "https://twitter.com/LinksDAO",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Marnotaur DAO",
@@ -3816,35 +3856,45 @@
         "website_link": "https://www.meebitsdao.world/",
         "twitter_link": "https://twitter.com/meebitsdao",
         "guild_id": "841293272071929896",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Mirror",
         "website_link": "https://mirror.xyz/",
         "twitter_link": "https://twitter.com/viamirror",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Moonbeam",
         "website_link": "https://moonbeam.network/",
         "twitter_link": "https://twitter.com/MoonbeamNetwork",
         "guild_id": "745382242326413442",
-        "platforms": []
+        "platforms": [
+            "polkadot"
+        ]
     },
     {
         "dao_name": "MoonDAO",
         "website_link": "https://moondao.com/",
         "twitter_link": "https://twitter.com/OfficialMoonDAO",
         "guild_id": "914720248140279868",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Neon Dao",
         "website_link": "https://neondao.xyz/",
         "twitter_link": "https://twitter.com/neon_dao",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "NFT Oasis",
@@ -3865,14 +3915,18 @@
         "website_link": "https://nonamedao.com/",
         "twitter_link": "https://twitter.com/DAOnoname",
         "guild_id": "885509206495617064",
-        "platforms": []
+        "platforms": [
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "OceanDAO",
         "website_link": "https://oceanprotocol.com/dao",
         "twitter_link": "https://twitter.com/OceanDAO_",
         "guild_id": "612953348487905282",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Own.fund DAO",
@@ -3886,14 +3940,18 @@
         "website_link": "https://www.piedao.org/",
         "twitter_link": "https://twitter.com/PieDAO_DeFi",
         "guild_id": "544810647683072000",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "PizzaDAO",
         "website_link": "https://www.rarepizzas.com/",
         "twitter_link": "https://twitter.com/Pizza_DAO",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "REtoken DAO",
@@ -3928,49 +3986,70 @@
         "website_link": "https://slackerduckpond.com/",
         "twitter_link": "https://twitter.com/SlackerDuckPond",
         "guild_id": "855526255554461697",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "SuperDao",
         "website_link": "https://superdao.co/",
         "twitter_link": "https://twitter.com/superdao_co",
         "guild_id": "919638313512611840",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "SuperteamDAO",
         "website_link": "http://superteam.fun/",
         "twitter_link": "https://twitter.com/SuperteamDAO",
         "guild_id": "857091160295866388",
-        "platforms": []
+        "platforms": [
+            "solana"
+        ]
     },
     {
         "dao_name": "TreasureDAO",
         "website_link": "https://www.treasure.lol/",
         "twitter_link": "https://twitter.com/Treasure_DAO",
         "guild_id": "882867268021800991",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "arbitrum-one"
+        ]
     },
     {
         "dao_name": "Whale DAO",
         "website_link": "https://whale.me/",
         "twitter_link": "https://twitter.com/whale_community",
         "guild_id": "704949262802485348",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "SuperUMAn DAO",
         "website_link": "https://docs.umaproject.org/community/the-superuman-dao",
         "twitter_link": "https://twitter.com/SuperUmans",
         "guild_id": "909933079181799524",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "avalanche",
+            "energi"
+        ]
     },
     {
         "dao_name": "Buildspace",
         "website_link": "https://buildspace.so/",
         "twitter_link": "https://twitter.com/_buildspace",
         "guild_id": "869321815833575434",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "solana",
+            "flow"
+        ]
     },
     {
         "dao_name": "Learnweb3",
@@ -3984,7 +4063,9 @@
         "website_link": "https://grants.synthetix.io/",
         "twitter_link": "https://twitter.com/snxgrants",
         "guild_id": "810235278844362803",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Questbook",
@@ -3998,28 +4079,37 @@
         "website_link": "https://cultdao.io/",
         "twitter_link": "https://twitter.com/wearecultdao",
         "guild_id": "931866010447929364",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Poker DAO",
         "website_link": "https://pokerdao.xyz/",
         "twitter_link": "https://twitter.com/PokerDAO",
         "guild_id": "888423986822787082",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Kronos DAO & Kairos Cash",
         "website_link": "https://kronosdao.finance/",
         "twitter_link": "https://twitter.com/kronosdao_fi",
         "guild_id": "908578790647676978",
-        "platforms": []
+        "platforms": [
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "Sticky DAO",
         "website_link": "https://www.stickydao.com/",
         "twitter_link": "https://twitter.com/stickydao",
         "guild_id": "875222359492137020",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Safary Club",
@@ -4033,7 +4123,9 @@
         "website_link": "https://opensea.io/collection/alphashit",
         "twitter_link": "https://twitter.com/AlphaShitPass",
         "guild_id": "890466336034144286",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "NFT Whale Community",
@@ -4047,41 +4139,57 @@
         "website_link": "https://pancakeswap.finance/",
         "twitter_link": "https://twitter.com/PancakeSwap",
         "guild_id": "897834609272840232",
-        "platforms": []
+        "platforms": [
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "Algorand",
         "website_link": "https://www.algorand.com/",
         "twitter_link": "https://twitter.com/Algorand",
-        "platforms": []
+        "platforms": [
+            "algorand"
+        ]
     },
     {
         "dao_name": "Synthetix",
         "website_link": "https://synthetix.io/",
         "twitter_link": "https://twitter.com/synthetix_io",
         "guild_id": "413890591840272394",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "solana",
+            "avalanche"
+        ]
     },
     {
         "dao_name": "3D Gamers Guild",
         "twitter_link": "https://twitter.com/3DGamersGuild",
         "website_link": "https://3dgamersguild.io",
         "guild_id": "900090707115663360",
-        "platforms": []
+        "platforms": [
+            "solana"
+        ]
     },
     {
         "dao_name": "X World Games",
         "website_link": "https://xwg.games/#/",
         "twitter_link": "https://twitter.com/xwg_games",
         "guild_id": "807807756065046529",
-        "platforms": []
+        "platforms": [
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "DAO Maker",
         "guild_id": "966017727032623205",
         "twitter_link": "https://twitter.com/thedaomaker",
         "website_link": "https://daomaker.com/",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "binance-smart-chain"
+        ]
     },
     {
         "dao_name": "Vinci DAO",
@@ -4123,7 +4231,9 @@
         "guild_id": "621759717756370964",
         "twitter_link": "https://twitter.com/Stacks",
         "website_link": "https://www.stacks.co/",
-        "platforms": []
+        "platforms": [
+            "bitcoin"
+        ]
     },
     {
         "dao_name": "Paradigm",
@@ -4137,7 +4247,9 @@
         "guild_id": "534485763354787851",
         "twitter_link": "https://twitter.com/SkaleNetwork",
         "website_link": "https://skale.space/",
-        "platforms": []
+        "platforms": [
+            "ethereum"
+        ]
     },
     {
         "dao_name": "Contribution DAO",
@@ -4158,7 +4270,10 @@
         "guild_id": "913409402017574943",
         "twitter_link": "https://twitter.com/getlaikaapp",
         "website_link": "https://getlaika.app/",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "polygon-pos"
+        ]
     },
     {
         "dao_name": "Curved DAO",
@@ -4172,7 +4287,9 @@
         "website_link": "https://gari.network/",
         "twitter_link": "https://twitter.com/GariToken",
         "guild_id": "897363138075316275",
-        "platforms": []
+        "platforms": [
+            "solana"
+        ]
     },
     {
         "dao_name": "AMG DAO",
@@ -4199,7 +4316,9 @@
         "website_link": "https://near.org/",
         "twitter_link": "https://twitter.com/NEARProtocol",
         "guild_id": "490367152054992913",
-        "platforms": []
+        "platforms": [
+            "near"
+        ]
     },
     {
         "dao_name": "Myosin Marketing DAO",
@@ -4212,14 +4331,23 @@
         "website_link": "https://www.kava.io/",
         "twitter_link": "https://twitter.com/kava_platform",
         "guild_id": "704389840614981673",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "cosmos"
+        ]
     },
     {
         "dao_name": "Graph",
         "website_link": "https://thegraph.com/en/",
         "twitter_link": "https://twitter.com/graphprotocol",
         "guild_id": "438038660412342282",
-        "platforms": []
+        "platforms": [
+            "ethereum",
+            "polygon-pos",
+            "avalanche",
+            "arbitrum-one",
+            "optimistic-ethereum"
+        ]
     },
     {
         "dao_name": "Ocean Protocol",
